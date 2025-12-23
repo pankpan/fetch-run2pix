@@ -55,9 +55,9 @@ function fetchRun2PixToJson($url) {
 include('config.php');
 parse_str(parse_url($baseUrl, PHP_URL_QUERY),$output);
 $file_prefix=$output['EventCode'].'-'.$output['Race'];
-for ($p=1;$p<=$max_pagenum;$p++) {
-    $targetUrl = $baseUrl."&pagenum=".str_pad($p,2,'0',STR_PAD_LEFT); // 01 02 03
-    $json_file=$file_prefix.'-'.$p.'.json';
+for ($p=$min_pagenum;$p<=$max_pagenum;$p++) {
+    $targetUrl = $baseUrl."&pagenum=".$p;
+    $json_file=$file_prefix.'-'.str_pad($p,2,'0',STR_PAD_LEFT).'.json'; // 頁數部份 2 碼前補 0, 01 02 03
     echo "$targetUrl to $json_file\n";
     $json=fetchRun2PixToJson($targetUrl);
     file_put_contents($json_file, $json);

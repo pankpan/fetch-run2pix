@@ -1,0 +1,3506 @@
+{
+    "source": "https:\/\/www.run2pix.com\/report\/report_w.php?EventCode=20251221&Race=HM&sn=359&pagenum=2",
+    "total_records": 500,
+    "results": [
+        {
+            "Bibnr": "35604",
+            "Name": "陳世銘",
+            "OfficialTime": "01:30:03",
+            "RankAll": "501",
+            "NetTime": "01:29:17"
+        },
+        {
+            "Bibnr": "20312",
+            "Name": "陳雅芬",
+            "OfficialTime": "01:30:04",
+            "RankAll": "502",
+            "NetTime": "01:30:04"
+        },
+        {
+            "Bibnr": "27384",
+            "Name": "楊忠棋",
+            "OfficialTime": "01:30:05",
+            "RankAll": "503",
+            "NetTime": "01:29:54"
+        },
+        {
+            "Bibnr": "26251",
+            "Name": "魏嘉宏",
+            "OfficialTime": "01:30:08",
+            "RankAll": "504",
+            "NetTime": "01:29:27"
+        },
+        {
+            "Bibnr": "27776",
+            "Name": "古尚倫",
+            "OfficialTime": "01:30:09",
+            "RankAll": "505",
+            "NetTime": "01:29:30"
+        },
+        {
+            "Bibnr": "37508",
+            "Name": "李柏岳",
+            "OfficialTime": "01:30:12",
+            "RankAll": "506",
+            "NetTime": "01:27:50"
+        },
+        {
+            "Bibnr": "23721",
+            "Name": "林泓佑",
+            "OfficialTime": "01:30:13",
+            "RankAll": "507",
+            "NetTime": "01:29:49"
+        },
+        {
+            "Bibnr": "35606",
+            "Name": "羅光男",
+            "OfficialTime": "01:30:13",
+            "RankAll": "508",
+            "NetTime": "01:30:04"
+        },
+        {
+            "Bibnr": "28093",
+            "Name": "MAK WING CHUNG",
+            "OfficialTime": "01:30:14",
+            "RankAll": "509",
+            "NetTime": "01:29:59"
+        },
+        {
+            "Bibnr": "35265",
+            "Name": "NG HEI TUNG",
+            "OfficialTime": "01:30:17",
+            "RankAll": "510",
+            "NetTime": "01:30:13"
+        },
+        {
+            "Bibnr": "25480",
+            "Name": "林柏賢",
+            "OfficialTime": "01:30:18",
+            "RankAll": "511",
+            "NetTime": "01:27:43"
+        },
+        {
+            "Bibnr": "35342",
+            "Name": "李沈城",
+            "OfficialTime": "01:30:19",
+            "RankAll": "512",
+            "NetTime": "01:30:03"
+        },
+        {
+            "Bibnr": "35213",
+            "Name": "蔡騰駿",
+            "OfficialTime": "01:30:20",
+            "RankAll": "513",
+            "NetTime": "01:29:50"
+        },
+        {
+            "Bibnr": "32278",
+            "Name": "吳奇臨",
+            "OfficialTime": "01:30:23",
+            "RankAll": "514",
+            "NetTime": "01:29:36"
+        },
+        {
+            "Bibnr": "32049",
+            "Name": "吳錦儒",
+            "OfficialTime": "01:30:23",
+            "RankAll": "515",
+            "NetTime": "01:29:51"
+        },
+        {
+            "Bibnr": "24443",
+            "Name": "李明軒",
+            "OfficialTime": "01:30:23",
+            "RankAll": "516",
+            "NetTime": "01:29:34"
+        },
+        {
+            "Bibnr": "35335",
+            "Name": "陳子洋",
+            "OfficialTime": "01:30:25",
+            "RankAll": "517",
+            "NetTime": "01:30:13"
+        },
+        {
+            "Bibnr": "35571",
+            "Name": "鄭如聰",
+            "OfficialTime": "01:30:25",
+            "RankAll": "518",
+            "NetTime": "01:30:12"
+        },
+        {
+            "Bibnr": "33149",
+            "Name": "蔣佶龍",
+            "OfficialTime": "01:30:25",
+            "RankAll": "519",
+            "NetTime": "01:30:02"
+        },
+        {
+            "Bibnr": "32372",
+            "Name": "邱弘裕",
+            "OfficialTime": "01:30:26",
+            "RankAll": "520",
+            "NetTime": "01:30:21"
+        },
+        {
+            "Bibnr": "37434",
+            "Name": "吳育政",
+            "OfficialTime": "01:30:26",
+            "RankAll": "521",
+            "NetTime": "01:29:18"
+        },
+        {
+            "Bibnr": "24193",
+            "Name": "廖宏昌",
+            "OfficialTime": "01:30:31",
+            "RankAll": "522",
+            "NetTime": "01:29:09"
+        },
+        {
+            "Bibnr": "35377",
+            "Name": "MA CHI WO",
+            "OfficialTime": "01:30:33",
+            "RankAll": "523",
+            "NetTime": "01:30:21"
+        },
+        {
+            "Bibnr": "33051",
+            "Name": "許明偉",
+            "OfficialTime": "01:30:33",
+            "RankAll": "524",
+            "NetTime": "01:30:11"
+        },
+        {
+            "Bibnr": "22073",
+            "Name": "wong tsz nok",
+            "OfficialTime": "01:30:34",
+            "RankAll": "525",
+            "NetTime": "01:23:47"
+        },
+        {
+            "Bibnr": "37199",
+            "Name": "林益偉",
+            "OfficialTime": "01:30:35",
+            "RankAll": "526",
+            "NetTime": "01:28:50"
+        },
+        {
+            "Bibnr": "14728",
+            "Name": "王菀瑄",
+            "OfficialTime": "01:30:38",
+            "RankAll": "527",
+            "NetTime": "01:30:31"
+        },
+        {
+            "Bibnr": "35689",
+            "Name": "鄭文傑",
+            "OfficialTime": "01:30:39",
+            "RankAll": "528",
+            "NetTime": "01:30:14"
+        },
+        {
+            "Bibnr": "30149",
+            "Name": "沈秉伸",
+            "OfficialTime": "01:30:41",
+            "RankAll": "529",
+            "NetTime": "01:30:24"
+        },
+        {
+            "Bibnr": "35612",
+            "Name": "游沛權",
+            "OfficialTime": "01:30:41",
+            "RankAll": "530",
+            "NetTime": "01:30:32"
+        },
+        {
+            "Bibnr": "32113",
+            "Name": "陶泳綸",
+            "OfficialTime": "01:30:44",
+            "RankAll": "531",
+            "NetTime": "01:29:22"
+        },
+        {
+            "Bibnr": "22512",
+            "Name": "潘思瑋",
+            "OfficialTime": "01:30:51",
+            "RankAll": "532",
+            "NetTime": "01:29:55"
+        },
+        {
+            "Bibnr": "30263",
+            "Name": "YOSHIHISA KITA",
+            "OfficialTime": "01:30:52",
+            "RankAll": "533",
+            "NetTime": "01:30:16"
+        },
+        {
+            "Bibnr": "21778",
+            "Name": "何柏翰",
+            "OfficialTime": "01:30:53",
+            "RankAll": "534",
+            "NetTime": "01:29:54"
+        },
+        {
+            "Bibnr": "24131",
+            "Name": "謝慶俊",
+            "OfficialTime": "01:30:54",
+            "RankAll": "535",
+            "NetTime": "01:30:16"
+        },
+        {
+            "Bibnr": "26646",
+            "Name": "EHARA TAKUTO",
+            "OfficialTime": "01:30:56",
+            "RankAll": "536",
+            "NetTime": "01:28:13"
+        },
+        {
+            "Bibnr": "35246",
+            "Name": "林宥臣",
+            "OfficialTime": "01:31:02",
+            "RankAll": "537",
+            "NetTime": "01:30:52"
+        },
+        {
+            "Bibnr": "35259",
+            "Name": "劉展宏",
+            "OfficialTime": "01:31:03",
+            "RankAll": "538",
+            "NetTime": "01:30:57"
+        },
+        {
+            "Bibnr": "24106",
+            "Name": "顏韶逸",
+            "OfficialTime": "01:31:03",
+            "RankAll": "539",
+            "NetTime": "01:29:29"
+        },
+        {
+            "Bibnr": "35258",
+            "Name": "Cheng Ling Hin Linus",
+            "OfficialTime": "01:31:04",
+            "RankAll": "540",
+            "NetTime": "01:30:45"
+        },
+        {
+            "Bibnr": "27583",
+            "Name": "Tse Chun Yin",
+            "OfficialTime": "01:31:06",
+            "RankAll": "541",
+            "NetTime": "01:31:04"
+        },
+        {
+            "Bibnr": "24197",
+            "Name": "蔡昀達",
+            "OfficialTime": "01:31:06",
+            "RankAll": "542",
+            "NetTime": "01:29:14"
+        },
+        {
+            "Bibnr": "32219",
+            "Name": "張景叡",
+            "OfficialTime": "01:31:06",
+            "RankAll": "543",
+            "NetTime": "01:30:10"
+        },
+        {
+            "Bibnr": "34723",
+            "Name": "陳冠綸",
+            "OfficialTime": "01:31:08",
+            "RankAll": "544",
+            "NetTime": "01:29:13"
+        },
+        {
+            "Bibnr": "33392",
+            "Name": "Lee Hon Leung",
+            "OfficialTime": "01:31:10",
+            "RankAll": "545",
+            "NetTime": "01:30:24"
+        },
+        {
+            "Bibnr": "37521",
+            "Name": "張正灝",
+            "OfficialTime": "01:31:11",
+            "RankAll": "546",
+            "NetTime": "01:30:29"
+        },
+        {
+            "Bibnr": "30767",
+            "Name": "王栯洋",
+            "OfficialTime": "01:31:15",
+            "RankAll": "547",
+            "NetTime": "01:29:48"
+        },
+        {
+            "Bibnr": "26354",
+            "Name": "蘇峻緯",
+            "OfficialTime": "01:31:16",
+            "RankAll": "548",
+            "NetTime": "01:30:26"
+        },
+        {
+            "Bibnr": "35579",
+            "Name": "黃秉洋",
+            "OfficialTime": "01:31:16",
+            "RankAll": "549",
+            "NetTime": "01:30:14"
+        },
+        {
+            "Bibnr": "33423",
+            "Name": "廖崇謙",
+            "OfficialTime": "01:31:17",
+            "RankAll": "550",
+            "NetTime": "01:29:46"
+        },
+        {
+            "Bibnr": "35350",
+            "Name": "陳崇儒",
+            "OfficialTime": "01:31:20",
+            "RankAll": "551",
+            "NetTime": "01:31:15"
+        },
+        {
+            "Bibnr": "19311",
+            "Name": "陳瑋琳",
+            "OfficialTime": "01:31:21",
+            "RankAll": "552",
+            "NetTime": "01:31:15"
+        },
+        {
+            "Bibnr": "34276",
+            "Name": "黃嘉禾",
+            "OfficialTime": "01:31:24",
+            "RankAll": "553",
+            "NetTime": "01:30:41"
+        },
+        {
+            "Bibnr": "24344",
+            "Name": "陳昱奇",
+            "OfficialTime": "01:31:25",
+            "RankAll": "554",
+            "NetTime": "01:30:54"
+        },
+        {
+            "Bibnr": "35338",
+            "Name": "HO KIN LUNG",
+            "OfficialTime": "01:31:28",
+            "RankAll": "555",
+            "NetTime": "01:31:23"
+        },
+        {
+            "Bibnr": "26492",
+            "Name": "陳朝輝",
+            "OfficialTime": "01:31:29",
+            "RankAll": "556",
+            "NetTime": "01:31:17"
+        },
+        {
+            "Bibnr": "22777",
+            "Name": "葉皓平",
+            "OfficialTime": "01:31:29",
+            "RankAll": "557",
+            "NetTime": "01:31:15"
+        },
+        {
+            "Bibnr": "35414",
+            "Name": "黃振強",
+            "OfficialTime": "01:31:30",
+            "RankAll": "558",
+            "NetTime": "01:29:28"
+        },
+        {
+            "Bibnr": "23464",
+            "Name": "謝健鳴",
+            "OfficialTime": "01:31:32",
+            "RankAll": "559",
+            "NetTime": "01:30:52"
+        },
+        {
+            "Bibnr": "35298",
+            "Name": "黃琮凱",
+            "OfficialTime": "01:31:33",
+            "RankAll": "560",
+            "NetTime": "01:31:21"
+        },
+        {
+            "Bibnr": "36219",
+            "Name": "繆智軒",
+            "OfficialTime": "01:31:34",
+            "RankAll": "561",
+            "NetTime": "01:29:53"
+        },
+        {
+            "Bibnr": "16078",
+            "Name": "Tso Stephanie Wing Sum",
+            "OfficialTime": "01:31:34",
+            "RankAll": "562",
+            "NetTime": "01:31:09"
+        },
+        {
+            "Bibnr": "20089",
+            "Name": "杜寶玉",
+            "OfficialTime": "01:31:34",
+            "RankAll": "563",
+            "NetTime": "01:29:53"
+        },
+        {
+            "Bibnr": "35297",
+            "Name": "Law Wai Fu",
+            "OfficialTime": "01:31:35",
+            "RankAll": "564",
+            "NetTime": "01:31:20"
+        },
+        {
+            "Bibnr": "29054",
+            "Name": "WONG SHUN HUNG",
+            "OfficialTime": "01:31:35",
+            "RankAll": "565",
+            "NetTime": "01:31:16"
+        },
+        {
+            "Bibnr": "35644",
+            "Name": "林和慶",
+            "OfficialTime": "01:31:41",
+            "RankAll": "566",
+            "NetTime": "01:31:35"
+        },
+        {
+            "Bibnr": "34079",
+            "Name": "Raymond Chang",
+            "OfficialTime": "01:31:43",
+            "RankAll": "567",
+            "NetTime": "01:30:13"
+        },
+        {
+            "Bibnr": "25201",
+            "Name": "鄭兆天",
+            "OfficialTime": "01:31:44",
+            "RankAll": "568",
+            "NetTime": "01:29:07"
+        },
+        {
+            "Bibnr": "26647",
+            "Name": "洪漢堂",
+            "OfficialTime": "01:31:45",
+            "RankAll": "569",
+            "NetTime": "01:31:22"
+        },
+        {
+            "Bibnr": "24762",
+            "Name": "余明憲",
+            "OfficialTime": "01:31:45",
+            "RankAll": "570",
+            "NetTime": "01:30:04"
+        },
+        {
+            "Bibnr": "28732",
+            "Name": "曾柏森",
+            "OfficialTime": "01:31:46",
+            "RankAll": "571",
+            "NetTime": "01:29:00"
+        },
+        {
+            "Bibnr": "35460",
+            "Name": "Kam Man Lung",
+            "OfficialTime": "01:31:49",
+            "RankAll": "572",
+            "NetTime": "01:31:40"
+        },
+        {
+            "Bibnr": "20163",
+            "Name": "吳維珊",
+            "OfficialTime": "01:31:50",
+            "RankAll": "573",
+            "NetTime": "01:31:19"
+        },
+        {
+            "Bibnr": "23604",
+            "Name": "蕭嘉明",
+            "OfficialTime": "01:31:50",
+            "RankAll": "574",
+            "NetTime": "01:29:56"
+        },
+        {
+            "Bibnr": "34713",
+            "Name": "陳文濱",
+            "OfficialTime": "01:31:51",
+            "RankAll": "575",
+            "NetTime": "01:30:57"
+        },
+        {
+            "Bibnr": "22406",
+            "Name": "杜宸鋒",
+            "OfficialTime": "01:31:51",
+            "RankAll": "576",
+            "NetTime": "01:30:38"
+        },
+        {
+            "Bibnr": "25681",
+            "Name": "曾郁翔",
+            "OfficialTime": "01:31:53",
+            "RankAll": "577",
+            "NetTime": "01:30:58"
+        },
+        {
+            "Bibnr": "28168",
+            "Name": "Yip Che Shing Jason",
+            "OfficialTime": "01:31:53",
+            "RankAll": "578",
+            "NetTime": "01:31:21"
+        },
+        {
+            "Bibnr": "25454",
+            "Name": "許朝鈞",
+            "OfficialTime": "01:31:54",
+            "RankAll": "579",
+            "NetTime": "01:31:30"
+        },
+        {
+            "Bibnr": "35437",
+            "Name": "高加宇",
+            "OfficialTime": "01:31:54",
+            "RankAll": "580",
+            "NetTime": "01:31:50"
+        },
+        {
+            "Bibnr": "36199",
+            "Name": "呂郁翰",
+            "OfficialTime": "01:31:55",
+            "RankAll": "581",
+            "NetTime": "01:31:45"
+        },
+        {
+            "Bibnr": "25257",
+            "Name": "潘昱緯",
+            "OfficialTime": "01:31:56",
+            "RankAll": "582",
+            "NetTime": "01:31:31"
+        },
+        {
+            "Bibnr": "35362",
+            "Name": "趙子鋒",
+            "OfficialTime": "01:31:57",
+            "RankAll": "583",
+            "NetTime": "01:30:47"
+        },
+        {
+            "Bibnr": "24280",
+            "Name": "張家愷",
+            "OfficialTime": "01:31:58",
+            "RankAll": "584",
+            "NetTime": "01:31:20"
+        },
+        {
+            "Bibnr": "35309",
+            "Name": "Wong Chun yin",
+            "OfficialTime": "01:31:59",
+            "RankAll": "585",
+            "NetTime": "01:30:44"
+        },
+        {
+            "Bibnr": "26525",
+            "Name": "陳逸至",
+            "OfficialTime": "01:32:00",
+            "RankAll": "586",
+            "NetTime": "01:30:46"
+        },
+        {
+            "Bibnr": "34769",
+            "Name": "林俊雄",
+            "OfficialTime": "01:32:00",
+            "RankAll": "587",
+            "NetTime": "01:30:15"
+        },
+        {
+            "Bibnr": "27096",
+            "Name": "陳詩發",
+            "OfficialTime": "01:32:00",
+            "RankAll": "588",
+            "NetTime": "01:31:45"
+        },
+        {
+            "Bibnr": "35712",
+            "Name": "蔡智勤",
+            "OfficialTime": "01:32:00",
+            "RankAll": "589",
+            "NetTime": "01:31:14"
+        },
+        {
+            "Bibnr": "33741",
+            "Name": "劉育任",
+            "OfficialTime": "01:32:04",
+            "RankAll": "590",
+            "NetTime": "01:31:55"
+        },
+        {
+            "Bibnr": "36207",
+            "Name": "蕭莨錡",
+            "OfficialTime": "01:32:05",
+            "RankAll": "591",
+            "NetTime": "01:31:40"
+        },
+        {
+            "Bibnr": "27173",
+            "Name": "Sumit Kumar",
+            "OfficialTime": "01:32:08",
+            "RankAll": "592",
+            "NetTime": "01:31:36"
+        },
+        {
+            "Bibnr": "29281",
+            "Name": "Luke yit",
+            "OfficialTime": "01:32:09",
+            "RankAll": "593",
+            "NetTime": "01:31:39"
+        },
+        {
+            "Bibnr": "24415",
+            "Name": "YOONSEOB KIM",
+            "OfficialTime": "01:32:09",
+            "RankAll": "594",
+            "NetTime": "01:29:16"
+        },
+        {
+            "Bibnr": "20278",
+            "Name": "陳乃榕",
+            "OfficialTime": "01:32:09",
+            "RankAll": "595",
+            "NetTime": "01:31:26"
+        },
+        {
+            "Bibnr": "35285",
+            "Name": "Wong Kin Wing",
+            "OfficialTime": "01:32:10",
+            "RankAll": "596",
+            "NetTime": "01:32:04"
+        },
+        {
+            "Bibnr": "23413",
+            "Name": "陳建宇",
+            "OfficialTime": "01:32:10",
+            "RankAll": "597",
+            "NetTime": "01:31:17"
+        },
+        {
+            "Bibnr": "35299",
+            "Name": "LEE SIU MAN",
+            "OfficialTime": "01:32:11",
+            "RankAll": "598",
+            "NetTime": "01:32:02"
+        },
+        {
+            "Bibnr": "30760",
+            "Name": "Andrew Braddock",
+            "OfficialTime": "01:32:11",
+            "RankAll": "599",
+            "NetTime": "01:27:04"
+        },
+        {
+            "Bibnr": "22125",
+            "Name": "陳家豪",
+            "OfficialTime": "01:32:13",
+            "RankAll": "600",
+            "NetTime": "01:31:19"
+        },
+        {
+            "Bibnr": "29400",
+            "Name": "彭振原",
+            "OfficialTime": "01:32:14",
+            "RankAll": "601",
+            "NetTime": "01:28:52"
+        },
+        {
+            "Bibnr": "18087",
+            "Name": "YU CHING HAN",
+            "OfficialTime": "01:32:14",
+            "RankAll": "602",
+            "NetTime": "01:31:57"
+        },
+        {
+            "Bibnr": "25645",
+            "Name": "張園鑫",
+            "OfficialTime": "01:32:16",
+            "RankAll": "603",
+            "NetTime": "01:30:12"
+        },
+        {
+            "Bibnr": "31324",
+            "Name": "WONG WAI TUNG",
+            "OfficialTime": "01:32:16",
+            "RankAll": "604",
+            "NetTime": "01:32:07"
+        },
+        {
+            "Bibnr": "35479",
+            "Name": "Pun Tak Kiu",
+            "OfficialTime": "01:32:17",
+            "RankAll": "605",
+            "NetTime": "01:32:11"
+        },
+        {
+            "Bibnr": "26744",
+            "Name": "王晧",
+            "OfficialTime": "01:32:18",
+            "RankAll": "606",
+            "NetTime": "01:29:33"
+        },
+        {
+            "Bibnr": "27464",
+            "Name": "葉宥鋐",
+            "OfficialTime": "01:32:19",
+            "RankAll": "607",
+            "NetTime": "01:31:54"
+        },
+        {
+            "Bibnr": "22345",
+            "Name": "ADRIEL LAU SHI CHENG",
+            "OfficialTime": "01:32:20",
+            "RankAll": "608",
+            "NetTime": "01:32:11"
+        },
+        {
+            "Bibnr": "29657",
+            "Name": "黃金松",
+            "OfficialTime": "01:32:20",
+            "RankAll": "609",
+            "NetTime": "01:31:52"
+        },
+        {
+            "Bibnr": "29189",
+            "Name": "林浩存",
+            "OfficialTime": "01:32:21",
+            "RankAll": "610",
+            "NetTime": "01:30:52"
+        },
+        {
+            "Bibnr": "20246",
+            "Name": "Lau Wing Tung",
+            "OfficialTime": "01:32:21",
+            "RankAll": "611",
+            "NetTime": "01:32:10"
+        },
+        {
+            "Bibnr": "35371",
+            "Name": "徐秉祥",
+            "OfficialTime": "01:32:22",
+            "RankAll": "612",
+            "NetTime": "01:29:49"
+        },
+        {
+            "Bibnr": "29202",
+            "Name": "Loyd Dumaua Pascaran",
+            "OfficialTime": "01:32:22",
+            "RankAll": "613",
+            "NetTime": "01:31:08"
+        },
+        {
+            "Bibnr": "35468",
+            "Name": "LEUNG CHUN",
+            "OfficialTime": "01:32:24",
+            "RankAll": "614",
+            "NetTime": "01:32:08"
+        },
+        {
+            "Bibnr": "36237",
+            "Name": "田宇",
+            "OfficialTime": "01:32:25",
+            "RankAll": "615",
+            "NetTime": "01:32:19"
+        },
+        {
+            "Bibnr": "35494",
+            "Name": "施博仁",
+            "OfficialTime": "01:32:27",
+            "RankAll": "616",
+            "NetTime": "01:32:22"
+        },
+        {
+            "Bibnr": "31338",
+            "Name": "張世桃",
+            "OfficialTime": "01:32:28",
+            "RankAll": "617",
+            "NetTime": "01:29:11"
+        },
+        {
+            "Bibnr": "35340",
+            "Name": "孫郁喬",
+            "OfficialTime": "01:32:30",
+            "RankAll": "618",
+            "NetTime": "01:32:15"
+        },
+        {
+            "Bibnr": "35600",
+            "Name": "闕俊堯",
+            "OfficialTime": "01:32:33",
+            "RankAll": "619",
+            "NetTime": "01:32:26"
+        },
+        {
+            "Bibnr": "28443",
+            "Name": "林佳龍",
+            "OfficialTime": "01:32:33",
+            "RankAll": "620",
+            "NetTime": "01:31:54"
+        },
+        {
+            "Bibnr": "25628",
+            "Name": "陳思翰",
+            "OfficialTime": "01:32:35",
+            "RankAll": "621",
+            "NetTime": "01:30:25"
+        },
+        {
+            "Bibnr": "35312",
+            "Name": "鍾福志",
+            "OfficialTime": "01:32:37",
+            "RankAll": "622",
+            "NetTime": "01:32:27"
+        },
+        {
+            "Bibnr": "27068",
+            "Name": "Kenshin Lopez",
+            "OfficialTime": "01:32:38",
+            "RankAll": "623",
+            "NetTime": "01:30:41"
+        },
+        {
+            "Bibnr": "27146",
+            "Name": "李明緯",
+            "OfficialTime": "01:32:38",
+            "RankAll": "624",
+            "NetTime": "01:32:15"
+        },
+        {
+            "Bibnr": "37459",
+            "Name": "陳長聖",
+            "OfficialTime": "01:32:38",
+            "RankAll": "625",
+            "NetTime": "01:31:33"
+        },
+        {
+            "Bibnr": "35403",
+            "Name": "林逢琦",
+            "OfficialTime": "01:32:40",
+            "RankAll": "626",
+            "NetTime": "01:32:29"
+        },
+        {
+            "Bibnr": "35587",
+            "Name": "Kin Shing Lee",
+            "OfficialTime": "01:32:43",
+            "RankAll": "627",
+            "NetTime": "01:32:26"
+        },
+        {
+            "Bibnr": "35240",
+            "Name": "陳信良",
+            "OfficialTime": "01:32:43",
+            "RankAll": "628",
+            "NetTime": "01:32:37"
+        },
+        {
+            "Bibnr": "25665",
+            "Name": "官孟澤",
+            "OfficialTime": "01:32:45",
+            "RankAll": "629",
+            "NetTime": "01:32:22"
+        },
+        {
+            "Bibnr": "30786",
+            "Name": "楊卓謙",
+            "OfficialTime": "01:32:46",
+            "RankAll": "630",
+            "NetTime": "01:31:46"
+        },
+        {
+            "Bibnr": "26374",
+            "Name": "莊晉",
+            "OfficialTime": "01:32:47",
+            "RankAll": "631",
+            "NetTime": "01:31:52"
+        },
+        {
+            "Bibnr": "27198",
+            "Name": "王皓民",
+            "OfficialTime": "01:32:48",
+            "RankAll": "632",
+            "NetTime": "01:30:44"
+        },
+        {
+            "Bibnr": "24241",
+            "Name": "Chan Ching Kwong",
+            "OfficialTime": "01:32:48",
+            "RankAll": "633",
+            "NetTime": "01:30:07"
+        },
+        {
+            "Bibnr": "35082",
+            "Name": "陳彥鳴",
+            "OfficialTime": "01:32:49",
+            "RankAll": "634",
+            "NetTime": "01:32:00"
+        },
+        {
+            "Bibnr": "34288",
+            "Name": "CHEUNG KA MING",
+            "OfficialTime": "01:32:49",
+            "RankAll": "635",
+            "NetTime": "01:29:57"
+        },
+        {
+            "Bibnr": "24384",
+            "Name": "許庭嘉",
+            "OfficialTime": "01:32:50",
+            "RankAll": "636",
+            "NetTime": "01:32:25"
+        },
+        {
+            "Bibnr": "24410",
+            "Name": "葉凱翔",
+            "OfficialTime": "01:32:52",
+            "RankAll": "637",
+            "NetTime": "01:31:31"
+        },
+        {
+            "Bibnr": "27348",
+            "Name": "蔡鎰宇",
+            "OfficialTime": "01:32:57",
+            "RankAll": "638",
+            "NetTime": "01:32:27"
+        },
+        {
+            "Bibnr": "34611",
+            "Name": "辜煜華",
+            "OfficialTime": "01:32:57",
+            "RankAll": "639",
+            "NetTime": "01:32:34"
+        },
+        {
+            "Bibnr": "31536",
+            "Name": "羅振嘉",
+            "OfficialTime": "01:32:58",
+            "RankAll": "640",
+            "NetTime": "01:32:08"
+        },
+        {
+            "Bibnr": "31171",
+            "Name": "Lam kai yam",
+            "OfficialTime": "01:32:59",
+            "RankAll": "641",
+            "NetTime": "01:32:26"
+        },
+        {
+            "Bibnr": "35419",
+            "Name": "林陽鐘",
+            "OfficialTime": "01:33:00",
+            "RankAll": "642",
+            "NetTime": "01:32:55"
+        },
+        {
+            "Bibnr": "26676",
+            "Name": "馮嘉域",
+            "OfficialTime": "01:33:01",
+            "RankAll": "643",
+            "NetTime": "01:31:47"
+        },
+        {
+            "Bibnr": "35439",
+            "Name": "粘夏光",
+            "OfficialTime": "01:33:01",
+            "RankAll": "644",
+            "NetTime": "01:32:59"
+        },
+        {
+            "Bibnr": "22311",
+            "Name": "鄒政浩",
+            "OfficialTime": "01:33:02",
+            "RankAll": "645",
+            "NetTime": "01:32:54"
+        },
+        {
+            "Bibnr": "37285",
+            "Name": "徐啟桄",
+            "OfficialTime": "01:33:02",
+            "RankAll": "646",
+            "NetTime": "01:32:46"
+        },
+        {
+            "Bibnr": "27311",
+            "Name": "黃浩龍",
+            "OfficialTime": "01:33:04",
+            "RankAll": "647",
+            "NetTime": "01:32:05"
+        },
+        {
+            "Bibnr": "24321",
+            "Name": "范姜明威",
+            "OfficialTime": "01:33:04",
+            "RankAll": "648",
+            "NetTime": "01:32:59"
+        },
+        {
+            "Bibnr": "23058",
+            "Name": "劉文浩",
+            "OfficialTime": "01:33:05",
+            "RankAll": "649",
+            "NetTime": "01:30:26"
+        },
+        {
+            "Bibnr": "20157",
+            "Name": "甄淑媚",
+            "OfficialTime": "01:33:06",
+            "RankAll": "650",
+            "NetTime": "01:32:45"
+        },
+        {
+            "Bibnr": "32745",
+            "Name": "蔡宇翔",
+            "OfficialTime": "01:33:06",
+            "RankAll": "651",
+            "NetTime": "01:28:48"
+        },
+        {
+            "Bibnr": "25036",
+            "Name": "LIU HO LIM",
+            "OfficialTime": "01:33:07",
+            "RankAll": "652",
+            "NetTime": "01:32:32"
+        },
+        {
+            "Bibnr": "37088",
+            "Name": "李佳恆",
+            "OfficialTime": "01:33:08",
+            "RankAll": "653",
+            "NetTime": "01:32:51"
+        },
+        {
+            "Bibnr": "32654",
+            "Name": "王言晞",
+            "OfficialTime": "01:33:10",
+            "RankAll": "654",
+            "NetTime": "01:29:45"
+        },
+        {
+            "Bibnr": "24226",
+            "Name": "胡家豪",
+            "OfficialTime": "01:33:11",
+            "RankAll": "655",
+            "NetTime": "01:28:36"
+        },
+        {
+            "Bibnr": "32040",
+            "Name": "黃耀德",
+            "OfficialTime": "01:33:11",
+            "RankAll": "656",
+            "NetTime": "01:31:59"
+        },
+        {
+            "Bibnr": "37349",
+            "Name": "樂建鈾",
+            "OfficialTime": "01:33:12",
+            "RankAll": "657",
+            "NetTime": "01:32:34"
+        },
+        {
+            "Bibnr": "34433",
+            "Name": "魏彰村",
+            "OfficialTime": "01:33:14",
+            "RankAll": "658",
+            "NetTime": "01:32:58"
+        },
+        {
+            "Bibnr": "37286",
+            "Name": "徐坤茂",
+            "OfficialTime": "01:33:15",
+            "RankAll": "659",
+            "NetTime": "01:31:58"
+        },
+        {
+            "Bibnr": "35483",
+            "Name": "賴亦忻",
+            "OfficialTime": "01:33:17",
+            "RankAll": "660",
+            "NetTime": "01:33:14"
+        },
+        {
+            "Bibnr": "35504",
+            "Name": "許萬灯",
+            "OfficialTime": "01:33:19",
+            "RankAll": "661",
+            "NetTime": "01:33:14"
+        },
+        {
+            "Bibnr": "35482",
+            "Name": "簡立承",
+            "OfficialTime": "01:33:20",
+            "RankAll": "662",
+            "NetTime": "01:33:14"
+        },
+        {
+            "Bibnr": "26115",
+            "Name": "郭育廷",
+            "OfficialTime": "01:33:21",
+            "RankAll": "663",
+            "NetTime": "01:31:59"
+        },
+        {
+            "Bibnr": "35760",
+            "Name": "LORENZO ANGELO PIRA",
+            "OfficialTime": "01:33:21",
+            "RankAll": "664",
+            "NetTime": "01:31:13"
+        },
+        {
+            "Bibnr": "29196",
+            "Name": "林明輝",
+            "OfficialTime": "01:33:22",
+            "RankAll": "665",
+            "NetTime": "01:29:06"
+        },
+        {
+            "Bibnr": "35461",
+            "Name": "貝德旭",
+            "OfficialTime": "01:33:27",
+            "RankAll": "666",
+            "NetTime": "01:32:06"
+        },
+        {
+            "Bibnr": "24308",
+            "Name": "林子安",
+            "OfficialTime": "01:33:27",
+            "RankAll": "667",
+            "NetTime": "01:32:50"
+        },
+        {
+            "Bibnr": "25525",
+            "Name": "蕭智遠",
+            "OfficialTime": "01:33:30",
+            "RankAll": "668",
+            "NetTime": "01:33:18"
+        },
+        {
+            "Bibnr": "26094",
+            "Name": "彭郁翔",
+            "OfficialTime": "01:33:31",
+            "RankAll": "669",
+            "NetTime": "01:32:32"
+        },
+        {
+            "Bibnr": "25655",
+            "Name": "劉書維",
+            "OfficialTime": "01:33:32",
+            "RankAll": "670",
+            "NetTime": "01:32:12"
+        },
+        {
+            "Bibnr": "24199",
+            "Name": "NG CHUN KIT",
+            "OfficialTime": "01:33:32",
+            "RankAll": "671",
+            "NetTime": "01:32:53"
+        },
+        {
+            "Bibnr": "25092",
+            "Name": "施禹豪",
+            "OfficialTime": "01:33:33",
+            "RankAll": "672",
+            "NetTime": "01:33:04"
+        },
+        {
+            "Bibnr": "35647",
+            "Name": "TONG MAN CHING",
+            "OfficialTime": "01:33:34",
+            "RankAll": "673",
+            "NetTime": "01:32:20"
+        },
+        {
+            "Bibnr": "21603",
+            "Name": "朱孟瑋",
+            "OfficialTime": "01:33:35",
+            "RankAll": "674",
+            "NetTime": "01:32:59"
+        },
+        {
+            "Bibnr": "22628",
+            "Name": "江振豪",
+            "OfficialTime": "01:33:35",
+            "RankAll": "675",
+            "NetTime": "01:30:56"
+        },
+        {
+            "Bibnr": "35879",
+            "Name": "岡本 和弘",
+            "OfficialTime": "01:33:36",
+            "RankAll": "676",
+            "NetTime": "01:28:56"
+        },
+        {
+            "Bibnr": "30128",
+            "Name": "陳虹任",
+            "OfficialTime": "01:33:37",
+            "RankAll": "677",
+            "NetTime": "01:32:47"
+        },
+        {
+            "Bibnr": "32319",
+            "Name": "Paul Mendoza",
+            "OfficialTime": "01:33:40",
+            "RankAll": "678",
+            "NetTime": "01:33:16"
+        },
+        {
+            "Bibnr": "32019",
+            "Name": "Marc Villemat",
+            "OfficialTime": "01:33:41",
+            "RankAll": "679",
+            "NetTime": "01:32:59"
+        },
+        {
+            "Bibnr": "20751",
+            "Name": "周泳淋",
+            "OfficialTime": "01:33:41",
+            "RankAll": "680",
+            "NetTime": "01:33:26"
+        },
+        {
+            "Bibnr": "31273",
+            "Name": "楊祥和",
+            "OfficialTime": "01:33:41",
+            "RankAll": "681",
+            "NetTime": "01:33:17"
+        },
+        {
+            "Bibnr": "36220",
+            "Name": "李卓謙",
+            "OfficialTime": "01:33:42",
+            "RankAll": "682",
+            "NetTime": "01:33:28"
+        },
+        {
+            "Bibnr": "35375",
+            "Name": "林建良",
+            "OfficialTime": "01:33:42",
+            "RankAll": "683",
+            "NetTime": "01:33:26"
+        },
+        {
+            "Bibnr": "34321",
+            "Name": "趙政寧",
+            "OfficialTime": "01:33:43",
+            "RankAll": "684",
+            "NetTime": "01:33:34"
+        },
+        {
+            "Bibnr": "27030",
+            "Name": "NGAI WING HANG",
+            "OfficialTime": "01:33:46",
+            "RankAll": "685",
+            "NetTime": "01:33:13"
+        },
+        {
+            "Bibnr": "36634",
+            "Name": "陳智瑋",
+            "OfficialTime": "01:33:47",
+            "RankAll": "686",
+            "NetTime": "01:29:06"
+        },
+        {
+            "Bibnr": "37190",
+            "Name": "林益弘",
+            "OfficialTime": "01:33:48",
+            "RankAll": "687",
+            "NetTime": "01:32:22"
+        },
+        {
+            "Bibnr": "22268",
+            "Name": "林永隆",
+            "OfficialTime": "01:33:49",
+            "RankAll": "688",
+            "NetTime": "01:27:04"
+        },
+        {
+            "Bibnr": "24598",
+            "Name": "許佳昌",
+            "OfficialTime": "01:33:49",
+            "RankAll": "689",
+            "NetTime": "01:32:25"
+        },
+        {
+            "Bibnr": "31413",
+            "Name": "吳成全",
+            "OfficialTime": "01:33:51",
+            "RankAll": "690",
+            "NetTime": "01:33:38"
+        },
+        {
+            "Bibnr": "26098",
+            "Name": "吳國勝",
+            "OfficialTime": "01:33:52",
+            "RankAll": "691",
+            "NetTime": "01:30:37"
+        },
+        {
+            "Bibnr": "21636",
+            "Name": "Poon Darren Yuk Ho",
+            "OfficialTime": "01:33:52",
+            "RankAll": "692",
+            "NetTime": "01:32:02"
+        },
+        {
+            "Bibnr": "20298",
+            "Name": "鮑可軒",
+            "OfficialTime": "01:33:53",
+            "RankAll": "693",
+            "NetTime": "01:33:40"
+        },
+        {
+            "Bibnr": "23134",
+            "Name": "Hung Po kin",
+            "OfficialTime": "01:33:54",
+            "RankAll": "694",
+            "NetTime": "01:31:08"
+        },
+        {
+            "Bibnr": "29114",
+            "Name": "張程堯",
+            "OfficialTime": "01:33:55",
+            "RankAll": "695",
+            "NetTime": "01:33:46"
+        },
+        {
+            "Bibnr": "35230",
+            "Name": "PANG LONG CHING",
+            "OfficialTime": "01:33:56",
+            "RankAll": "696",
+            "NetTime": "01:33:51"
+        },
+        {
+            "Bibnr": "25147",
+            "Name": "MA Ho Kwan",
+            "OfficialTime": "01:33:57",
+            "RankAll": "697",
+            "NetTime": "01:33:39"
+        },
+        {
+            "Bibnr": "35795",
+            "Name": "羅港橋",
+            "OfficialTime": "01:33:57",
+            "RankAll": "698",
+            "NetTime": "01:26:52"
+        },
+        {
+            "Bibnr": "27155",
+            "Name": "Moses Shao Lingwei",
+            "OfficialTime": "01:33:59",
+            "RankAll": "699",
+            "NetTime": "01:32:53"
+        },
+        {
+            "Bibnr": "32738",
+            "Name": "李宜修",
+            "OfficialTime": "01:34:00",
+            "RankAll": "700",
+            "NetTime": "01:31:42"
+        },
+        {
+            "Bibnr": "28392",
+            "Name": "陳啟華",
+            "OfficialTime": "01:34:00",
+            "RankAll": "701",
+            "NetTime": "01:33:29"
+        },
+        {
+            "Bibnr": "35334",
+            "Name": "AKIHIRO OSADA",
+            "OfficialTime": "01:34:01",
+            "RankAll": "702",
+            "NetTime": "01:33:56"
+        },
+        {
+            "Bibnr": "35434",
+            "Name": "柯宥辰",
+            "OfficialTime": "01:34:01",
+            "RankAll": "703",
+            "NetTime": "01:33:59"
+        },
+        {
+            "Bibnr": "27529",
+            "Name": "曾泓翊",
+            "OfficialTime": "01:34:01",
+            "RankAll": "704",
+            "NetTime": "01:33:50"
+        },
+        {
+            "Bibnr": "22276",
+            "Name": "陳郁佳",
+            "OfficialTime": "01:34:01",
+            "RankAll": "705",
+            "NetTime": "01:32:46"
+        },
+        {
+            "Bibnr": "20248",
+            "Name": "洪千惠",
+            "OfficialTime": "01:34:02",
+            "RankAll": "706",
+            "NetTime": "01:33:26"
+        },
+        {
+            "Bibnr": "30594",
+            "Name": "林益弘",
+            "OfficialTime": "01:34:03",
+            "RankAll": "707",
+            "NetTime": "01:33:23"
+        },
+        {
+            "Bibnr": "22627",
+            "Name": "莊易霖",
+            "OfficialTime": "01:34:04",
+            "RankAll": "708",
+            "NetTime": "01:32:26"
+        },
+        {
+            "Bibnr": "35165",
+            "Name": "李承縉",
+            "OfficialTime": "01:34:06",
+            "RankAll": "709",
+            "NetTime": "01:33:44"
+        },
+        {
+            "Bibnr": "22069",
+            "Name": "吳儒炫",
+            "OfficialTime": "01:34:09",
+            "RankAll": "710",
+            "NetTime": "01:33:59"
+        },
+        {
+            "Bibnr": "26688",
+            "Name": "李培瑋",
+            "OfficialTime": "01:34:10",
+            "RankAll": "711",
+            "NetTime": "01:33:31"
+        },
+        {
+            "Bibnr": "24333",
+            "Name": "李世強",
+            "OfficialTime": "01:34:10",
+            "RankAll": "712",
+            "NetTime": "01:33:34"
+        },
+        {
+            "Bibnr": "20093",
+            "Name": "許雅喬",
+            "OfficialTime": "01:34:12",
+            "RankAll": "713",
+            "NetTime": "01:34:07"
+        },
+        {
+            "Bibnr": "35524",
+            "Name": "KAN WAI KIT",
+            "OfficialTime": "01:34:13",
+            "RankAll": "714",
+            "NetTime": "01:34:03"
+        },
+        {
+            "Bibnr": "35470",
+            "Name": "許元耕",
+            "OfficialTime": "01:34:13",
+            "RankAll": "715",
+            "NetTime": "01:34:08"
+        },
+        {
+            "Bibnr": "30647",
+            "Name": "黃建誌",
+            "OfficialTime": "01:34:14",
+            "RankAll": "716",
+            "NetTime": "01:32:54"
+        },
+        {
+            "Bibnr": "23467",
+            "Name": "余孟澔",
+            "OfficialTime": "01:34:16",
+            "RankAll": "717",
+            "NetTime": "01:32:37"
+        },
+        {
+            "Bibnr": "24301",
+            "Name": "周煥庭",
+            "OfficialTime": "01:34:16",
+            "RankAll": "718",
+            "NetTime": "01:30:37"
+        },
+        {
+            "Bibnr": "37386",
+            "Name": "王威凱",
+            "OfficialTime": "01:34:16",
+            "RankAll": "719",
+            "NetTime": "01:33:41"
+        },
+        {
+            "Bibnr": "20743",
+            "Name": "林泳澄",
+            "OfficialTime": "01:34:17",
+            "RankAll": "720",
+            "NetTime": "01:34:05"
+        },
+        {
+            "Bibnr": "25697",
+            "Name": "張晏碩",
+            "OfficialTime": "01:34:17",
+            "RankAll": "721",
+            "NetTime": "01:34:16"
+        },
+        {
+            "Bibnr": "30733",
+            "Name": "KI MAN KIN",
+            "OfficialTime": "01:34:17",
+            "RankAll": "722",
+            "NetTime": "01:32:16"
+        },
+        {
+            "Bibnr": "23238",
+            "Name": "江慶鴻",
+            "OfficialTime": "01:34:18",
+            "RankAll": "723",
+            "NetTime": "01:31:42"
+        },
+        {
+            "Bibnr": "17263",
+            "Name": "林佳姵",
+            "OfficialTime": "01:34:18",
+            "RankAll": "724",
+            "NetTime": "01:32:12"
+        },
+        {
+            "Bibnr": "22186",
+            "Name": "鄭東庭",
+            "OfficialTime": "01:34:21",
+            "RankAll": "725",
+            "NetTime": "01:33:55"
+        },
+        {
+            "Bibnr": "22466",
+            "Name": "江宏凱",
+            "OfficialTime": "01:34:22",
+            "RankAll": "726",
+            "NetTime": "01:32:56"
+        },
+        {
+            "Bibnr": "37469",
+            "Name": "蔡英哲",
+            "OfficialTime": "01:34:23",
+            "RankAll": "727",
+            "NetTime": "01:33:53"
+        },
+        {
+            "Bibnr": "28499",
+            "Name": "郭光任",
+            "OfficialTime": "01:34:23",
+            "RankAll": "728",
+            "NetTime": "01:32:11"
+        },
+        {
+            "Bibnr": "25498",
+            "Name": "周君曇",
+            "OfficialTime": "01:34:23",
+            "RankAll": "729",
+            "NetTime": "01:33:42"
+        },
+        {
+            "Bibnr": "35500",
+            "Name": "黃建榮",
+            "OfficialTime": "01:34:24",
+            "RankAll": "730",
+            "NetTime": "01:31:48"
+        },
+        {
+            "Bibnr": "28104",
+            "Name": "陳家宇",
+            "OfficialTime": "01:34:25",
+            "RankAll": "731",
+            "NetTime": "01:33:29"
+        },
+        {
+            "Bibnr": "23351",
+            "Name": "邱稟灃",
+            "OfficialTime": "01:34:25",
+            "RankAll": "732",
+            "NetTime": "01:33:05"
+        },
+        {
+            "Bibnr": "23716",
+            "Name": "Chau Sau Tsun",
+            "OfficialTime": "01:34:25",
+            "RankAll": "733",
+            "NetTime": "01:34:14"
+        },
+        {
+            "Bibnr": "27202",
+            "Name": "江冠穎",
+            "OfficialTime": "01:34:26",
+            "RankAll": "734",
+            "NetTime": "01:31:45"
+        },
+        {
+            "Bibnr": "29749",
+            "Name": "阮杰翔",
+            "OfficialTime": "01:34:26",
+            "RankAll": "735",
+            "NetTime": "01:33:58"
+        },
+        {
+            "Bibnr": "35386",
+            "Name": "FUNG WAI CHEONG",
+            "OfficialTime": "01:34:27",
+            "RankAll": "736",
+            "NetTime": "01:34:04"
+        },
+        {
+            "Bibnr": "24283",
+            "Name": "橋本聖矢",
+            "OfficialTime": "01:34:27",
+            "RankAll": "737",
+            "NetTime": "01:34:10"
+        },
+        {
+            "Bibnr": "22111",
+            "Name": "楊益涵",
+            "OfficialTime": "01:34:28",
+            "RankAll": "738",
+            "NetTime": "01:33:57"
+        },
+        {
+            "Bibnr": "20161",
+            "Name": "CC Lam",
+            "OfficialTime": "01:34:28",
+            "RankAll": "739",
+            "NetTime": "01:33:58"
+        },
+        {
+            "Bibnr": "28792",
+            "Name": "Lai hon sang",
+            "OfficialTime": "01:34:28",
+            "RankAll": "740",
+            "NetTime": "01:34:05"
+        },
+        {
+            "Bibnr": "27462",
+            "Name": "黃柏竣",
+            "OfficialTime": "01:34:29",
+            "RankAll": "741",
+            "NetTime": "01:34:10"
+        },
+        {
+            "Bibnr": "20146",
+            "Name": "莊雅婷",
+            "OfficialTime": "01:34:30",
+            "RankAll": "742",
+            "NetTime": "01:34:23"
+        },
+        {
+            "Bibnr": "35744",
+            "Name": "Tsz Leung Li",
+            "OfficialTime": "01:34:31",
+            "RankAll": "743",
+            "NetTime": "01:29:22"
+        },
+        {
+            "Bibnr": "30756",
+            "Name": "謝承翰",
+            "OfficialTime": "01:34:34",
+            "RankAll": "744",
+            "NetTime": "01:34:05"
+        },
+        {
+            "Bibnr": "27191",
+            "Name": "張方誠",
+            "OfficialTime": "01:34:34",
+            "RankAll": "745",
+            "NetTime": "01:34:10"
+        },
+        {
+            "Bibnr": "25474",
+            "Name": "許仲賢",
+            "OfficialTime": "01:34:36",
+            "RankAll": "746",
+            "NetTime": "01:33:57"
+        },
+        {
+            "Bibnr": "26260",
+            "Name": "劉敬隆",
+            "OfficialTime": "01:34:36",
+            "RankAll": "747",
+            "NetTime": "01:32:00"
+        },
+        {
+            "Bibnr": "27652",
+            "Name": "李俊賢",
+            "OfficialTime": "01:34:36",
+            "RankAll": "748",
+            "NetTime": "01:34:17"
+        },
+        {
+            "Bibnr": "34529",
+            "Name": "鄭塏蒑",
+            "OfficialTime": "01:34:37",
+            "RankAll": "749",
+            "NetTime": "01:33:39"
+        },
+        {
+            "Bibnr": "24563",
+            "Name": "王誌晟",
+            "OfficialTime": "01:34:37",
+            "RankAll": "750",
+            "NetTime": "01:34:29"
+        },
+        {
+            "Bibnr": "22285",
+            "Name": "葉書豪",
+            "OfficialTime": "01:34:37",
+            "RankAll": "751",
+            "NetTime": "01:34:01"
+        },
+        {
+            "Bibnr": "23696",
+            "Name": "葉耿昕",
+            "OfficialTime": "01:34:42",
+            "RankAll": "752",
+            "NetTime": "01:33:24"
+        },
+        {
+            "Bibnr": "29732",
+            "Name": "CHONG weng soon",
+            "OfficialTime": "01:34:42",
+            "RankAll": "753",
+            "NetTime": "01:32:34"
+        },
+        {
+            "Bibnr": "35440",
+            "Name": "蘇偉銘",
+            "OfficialTime": "01:34:43",
+            "RankAll": "754",
+            "NetTime": "01:34:34"
+        },
+        {
+            "Bibnr": "34556",
+            "Name": "林志峯",
+            "OfficialTime": "01:34:43",
+            "RankAll": "755",
+            "NetTime": "01:33:42"
+        },
+        {
+            "Bibnr": "25417",
+            "Name": "賴昱璋",
+            "OfficialTime": "01:34:44",
+            "RankAll": "756",
+            "NetTime": "01:34:27"
+        },
+        {
+            "Bibnr": "28741",
+            "Name": "MAKOTO KUROSAWA",
+            "OfficialTime": "01:34:47",
+            "RankAll": "757",
+            "NetTime": "01:34:30"
+        },
+        {
+            "Bibnr": "35418",
+            "Name": "陳銘峰",
+            "OfficialTime": "01:34:48",
+            "RankAll": "758",
+            "NetTime": "01:34:39"
+        },
+        {
+            "Bibnr": "25606",
+            "Name": "凃宥任",
+            "OfficialTime": "01:34:49",
+            "RankAll": "759",
+            "NetTime": "01:32:56"
+        },
+        {
+            "Bibnr": "24524",
+            "Name": "詹孟儒",
+            "OfficialTime": "01:34:50",
+            "RankAll": "760",
+            "NetTime": "01:33:34"
+        },
+        {
+            "Bibnr": "35104",
+            "Name": "杜勝杰",
+            "OfficialTime": "01:34:51",
+            "RankAll": "761",
+            "NetTime": "01:32:59"
+        },
+        {
+            "Bibnr": "33091",
+            "Name": "林育辰",
+            "OfficialTime": "01:34:51",
+            "RankAll": "762",
+            "NetTime": "01:32:27"
+        },
+        {
+            "Bibnr": "27645",
+            "Name": "李宗翰",
+            "OfficialTime": "01:34:53",
+            "RankAll": "763",
+            "NetTime": "01:33:21"
+        },
+        {
+            "Bibnr": "35581",
+            "Name": "張博閔",
+            "OfficialTime": "01:34:54",
+            "RankAll": "764",
+            "NetTime": "01:34:49"
+        },
+        {
+            "Bibnr": "25235",
+            "Name": "陳忻言",
+            "OfficialTime": "01:34:55",
+            "RankAll": "765",
+            "NetTime": "01:32:09"
+        },
+        {
+            "Bibnr": "35449",
+            "Name": "李國瑋",
+            "OfficialTime": "01:34:56",
+            "RankAll": "766",
+            "NetTime": "01:34:49"
+        },
+        {
+            "Bibnr": "32204",
+            "Name": "Li Tsz Chiu",
+            "OfficialTime": "01:35:00",
+            "RankAll": "767",
+            "NetTime": "01:34:18"
+        },
+        {
+            "Bibnr": "37475",
+            "Name": "孔祥軒",
+            "OfficialTime": "01:35:00",
+            "RankAll": "768",
+            "NetTime": "01:34:41"
+        },
+        {
+            "Bibnr": "22298",
+            "Name": "陳奕中",
+            "OfficialTime": "01:35:00",
+            "RankAll": "769",
+            "NetTime": "01:34:18"
+        },
+        {
+            "Bibnr": "33584",
+            "Name": "黃聖文",
+            "OfficialTime": "01:35:01",
+            "RankAll": "770",
+            "NetTime": "01:33:19"
+        },
+        {
+            "Bibnr": "35596",
+            "Name": "林晏平",
+            "OfficialTime": "01:35:01",
+            "RankAll": "771",
+            "NetTime": "01:34:52"
+        },
+        {
+            "Bibnr": "28348",
+            "Name": "洪健庭",
+            "OfficialTime": "01:35:01",
+            "RankAll": "772",
+            "NetTime": "01:34:46"
+        },
+        {
+            "Bibnr": "20198",
+            "Name": "蔡文瑜",
+            "OfficialTime": "01:35:01",
+            "RankAll": "773",
+            "NetTime": "01:34:52"
+        },
+        {
+            "Bibnr": "35363",
+            "Name": "鄭昕東",
+            "OfficialTime": "01:35:01",
+            "RankAll": "774",
+            "NetTime": "01:34:54"
+        },
+        {
+            "Bibnr": "35512",
+            "Name": "黃昱傑",
+            "OfficialTime": "01:35:02",
+            "RankAll": "775",
+            "NetTime": "01:30:00"
+        },
+        {
+            "Bibnr": "15585",
+            "Name": "Ho Hoi Yan",
+            "OfficialTime": "01:35:04",
+            "RankAll": "776",
+            "NetTime": "01:33:03"
+        },
+        {
+            "Bibnr": "24502",
+            "Name": "廖峻偉",
+            "OfficialTime": "01:35:05",
+            "RankAll": "777",
+            "NetTime": "01:34:18"
+        },
+        {
+            "Bibnr": "28490",
+            "Name": "林昱勳",
+            "OfficialTime": "01:35:07",
+            "RankAll": "778",
+            "NetTime": "01:30:23"
+        },
+        {
+            "Bibnr": "22185",
+            "Name": "廖威豪",
+            "OfficialTime": "01:35:08",
+            "RankAll": "779",
+            "NetTime": "01:34:46"
+        },
+        {
+            "Bibnr": "35321",
+            "Name": "鄭亮均",
+            "OfficialTime": "01:35:11",
+            "RankAll": "780",
+            "NetTime": "01:34:59"
+        },
+        {
+            "Bibnr": "23046",
+            "Name": "張智彥",
+            "OfficialTime": "01:35:12",
+            "RankAll": "781",
+            "NetTime": "01:34:25"
+        },
+        {
+            "Bibnr": "35347",
+            "Name": "Sze tsz chiu",
+            "OfficialTime": "01:35:12",
+            "RankAll": "782",
+            "NetTime": "01:35:12"
+        },
+        {
+            "Bibnr": "20109",
+            "Name": "王麗婷",
+            "OfficialTime": "01:35:12",
+            "RankAll": "783",
+            "NetTime": "01:34:32"
+        },
+        {
+            "Bibnr": "20235",
+            "Name": "紀薇",
+            "OfficialTime": "01:35:13",
+            "RankAll": "784",
+            "NetTime": "01:34:48"
+        },
+        {
+            "Bibnr": "20772",
+            "Name": "王雨薇",
+            "OfficialTime": "01:35:13",
+            "RankAll": "785",
+            "NetTime": "01:35:06"
+        },
+        {
+            "Bibnr": "35573",
+            "Name": "白政哲",
+            "OfficialTime": "01:35:16",
+            "RankAll": "786",
+            "NetTime": "01:34:38"
+        },
+        {
+            "Bibnr": "34373",
+            "Name": "杜孟倫",
+            "OfficialTime": "01:35:18",
+            "RankAll": "787",
+            "NetTime": "01:34:50"
+        },
+        {
+            "Bibnr": "35695",
+            "Name": "劉偉立",
+            "OfficialTime": "01:35:18",
+            "RankAll": "788",
+            "NetTime": "01:33:12"
+        },
+        {
+            "Bibnr": "29100",
+            "Name": "吳得賓",
+            "OfficialTime": "01:35:20",
+            "RankAll": "789",
+            "NetTime": "01:32:51"
+        },
+        {
+            "Bibnr": "27506",
+            "Name": "連泰",
+            "OfficialTime": "01:35:21",
+            "RankAll": "790",
+            "NetTime": "01:35:07"
+        },
+        {
+            "Bibnr": "35614",
+            "Name": "廖宜政",
+            "OfficialTime": "01:35:23",
+            "RankAll": "791",
+            "NetTime": "01:35:16"
+        },
+        {
+            "Bibnr": "35626",
+            "Name": "陳竑聿",
+            "OfficialTime": "01:35:24",
+            "RankAll": "792",
+            "NetTime": "01:35:14"
+        },
+        {
+            "Bibnr": "31132",
+            "Name": "陳暐達",
+            "OfficialTime": "01:35:24",
+            "RankAll": "793",
+            "NetTime": "01:30:10"
+        },
+        {
+            "Bibnr": "26443",
+            "Name": "吳文誠",
+            "OfficialTime": "01:35:25",
+            "RankAll": "794",
+            "NetTime": "01:32:39"
+        },
+        {
+            "Bibnr": "29380",
+            "Name": "張廷綱",
+            "OfficialTime": "01:35:25",
+            "RankAll": "795",
+            "NetTime": "01:34:07"
+        },
+        {
+            "Bibnr": "29617",
+            "Name": "蘇冠綸",
+            "OfficialTime": "01:35:25",
+            "RankAll": "796",
+            "NetTime": "01:34:55"
+        },
+        {
+            "Bibnr": "31437",
+            "Name": "王尚淳",
+            "OfficialTime": "01:35:26",
+            "RankAll": "797",
+            "NetTime": "01:34:55"
+        },
+        {
+            "Bibnr": "36122",
+            "Name": "盧卡斯",
+            "OfficialTime": "01:35:26",
+            "RankAll": "798",
+            "NetTime": "01:31:02"
+        },
+        {
+            "Bibnr": "27114",
+            "Name": "Ip Ka Wai",
+            "OfficialTime": "01:35:27",
+            "RankAll": "799",
+            "NetTime": "01:32:30"
+        },
+        {
+            "Bibnr": "23207",
+            "Name": "張凱期",
+            "OfficialTime": "01:35:27",
+            "RankAll": "800",
+            "NetTime": "01:34:42"
+        },
+        {
+            "Bibnr": "22554",
+            "Name": "蕭聖達",
+            "OfficialTime": "01:35:30",
+            "RankAll": "801",
+            "NetTime": "01:33:36"
+        },
+        {
+            "Bibnr": "23753",
+            "Name": "郭明賢",
+            "OfficialTime": "01:35:32",
+            "RankAll": "802",
+            "NetTime": "01:35:05"
+        },
+        {
+            "Bibnr": "35550",
+            "Name": "劉瑋桓",
+            "OfficialTime": "01:35:34",
+            "RankAll": "803",
+            "NetTime": "01:33:20"
+        },
+        {
+            "Bibnr": "30244",
+            "Name": "孫百澄",
+            "OfficialTime": "01:35:36",
+            "RankAll": "804",
+            "NetTime": "01:34:39"
+        },
+        {
+            "Bibnr": "33178",
+            "Name": "黃敏源",
+            "OfficialTime": "01:35:37",
+            "RankAll": "805",
+            "NetTime": "01:34:59"
+        },
+        {
+            "Bibnr": "29471",
+            "Name": "林哲宇",
+            "OfficialTime": "01:35:37",
+            "RankAll": "806",
+            "NetTime": "01:35:20"
+        },
+        {
+            "Bibnr": "35772",
+            "Name": "葉明傑",
+            "OfficialTime": "01:35:38",
+            "RankAll": "807",
+            "NetTime": "01:35:23"
+        },
+        {
+            "Bibnr": "35532",
+            "Name": "廖偉翔",
+            "OfficialTime": "01:35:40",
+            "RankAll": "808",
+            "NetTime": "01:35:32"
+        },
+        {
+            "Bibnr": "22635",
+            "Name": "連治豪",
+            "OfficialTime": "01:35:40",
+            "RankAll": "809",
+            "NetTime": "01:33:24"
+        },
+        {
+            "Bibnr": "23522",
+            "Name": "林佑昌",
+            "OfficialTime": "01:35:40",
+            "RankAll": "810",
+            "NetTime": "01:34:00"
+        },
+        {
+            "Bibnr": "22544",
+            "Name": "Cheung King Hei",
+            "OfficialTime": "01:35:41",
+            "RankAll": "811",
+            "NetTime": "01:35:06"
+        },
+        {
+            "Bibnr": "35757",
+            "Name": "ENRICO SALAMERO",
+            "OfficialTime": "01:35:42",
+            "RankAll": "812",
+            "NetTime": "01:27:02"
+        },
+        {
+            "Bibnr": "35308",
+            "Name": "劉峻榮",
+            "OfficialTime": "01:35:42",
+            "RankAll": "813",
+            "NetTime": "01:35:25"
+        },
+        {
+            "Bibnr": "21797",
+            "Name": "陳治廷",
+            "OfficialTime": "01:35:43",
+            "RankAll": "814",
+            "NetTime": "01:35:18"
+        },
+        {
+            "Bibnr": "21764",
+            "Name": "張詠翔",
+            "OfficialTime": "01:35:44",
+            "RankAll": "815",
+            "NetTime": "01:34:47"
+        },
+        {
+            "Bibnr": "24734",
+            "Name": "傅景瑞",
+            "OfficialTime": "01:35:45",
+            "RankAll": "816",
+            "NetTime": "01:34:24"
+        },
+        {
+            "Bibnr": "23472",
+            "Name": "江品翰",
+            "OfficialTime": "01:35:45",
+            "RankAll": "817",
+            "NetTime": "01:35:11"
+        },
+        {
+            "Bibnr": "23710",
+            "Name": "黃世友",
+            "OfficialTime": "01:35:46",
+            "RankAll": "818",
+            "NetTime": "01:33:27"
+        },
+        {
+            "Bibnr": "34320",
+            "Name": "SIU LOK MAN",
+            "OfficialTime": "01:35:47",
+            "RankAll": "819",
+            "NetTime": "01:35:14"
+        },
+        {
+            "Bibnr": "35556",
+            "Name": "Lau Wai Ho River",
+            "OfficialTime": "01:35:47",
+            "RankAll": "820",
+            "NetTime": "01:35:37"
+        },
+        {
+            "Bibnr": "31538",
+            "Name": "王仁豪",
+            "OfficialTime": "01:35:47",
+            "RankAll": "821",
+            "NetTime": "01:34:14"
+        },
+        {
+            "Bibnr": "35590",
+            "Name": "莊文龍",
+            "OfficialTime": "01:35:48",
+            "RankAll": "822",
+            "NetTime": "01:35:35"
+        },
+        {
+            "Bibnr": "20143",
+            "Name": "林素玲",
+            "OfficialTime": "01:35:48",
+            "RankAll": "823",
+            "NetTime": "01:35:32"
+        },
+        {
+            "Bibnr": "30636",
+            "Name": "張育銘",
+            "OfficialTime": "01:35:48",
+            "RankAll": "824",
+            "NetTime": "01:32:33"
+        },
+        {
+            "Bibnr": "28007",
+            "Name": "吳至袁",
+            "OfficialTime": "01:35:50",
+            "RankAll": "825",
+            "NetTime": "01:35:16"
+        },
+        {
+            "Bibnr": "28080",
+            "Name": "蘇楷崴",
+            "OfficialTime": "01:35:50",
+            "RankAll": "826",
+            "NetTime": "01:34:56"
+        },
+        {
+            "Bibnr": "30621",
+            "Name": "田康宏",
+            "OfficialTime": "01:35:50",
+            "RankAll": "827",
+            "NetTime": "01:34:19"
+        },
+        {
+            "Bibnr": "35314",
+            "Name": "莊泊晨",
+            "OfficialTime": "01:35:50",
+            "RankAll": "828",
+            "NetTime": "01:35:34"
+        },
+        {
+            "Bibnr": "35444",
+            "Name": "Leung Hsuan Fai",
+            "OfficialTime": "01:35:51",
+            "RankAll": "829",
+            "NetTime": "01:30:50"
+        },
+        {
+            "Bibnr": "23545",
+            "Name": "陳英豪",
+            "OfficialTime": "01:35:51",
+            "RankAll": "830",
+            "NetTime": "01:34:50"
+        },
+        {
+            "Bibnr": "26759",
+            "Name": "張睿凱",
+            "OfficialTime": "01:35:51",
+            "RankAll": "831",
+            "NetTime": "01:33:59"
+        },
+        {
+            "Bibnr": "28675",
+            "Name": "黃瑞恩",
+            "OfficialTime": "01:35:57",
+            "RankAll": "832",
+            "NetTime": "01:34:33"
+        },
+        {
+            "Bibnr": "20095",
+            "Name": "王珮如",
+            "OfficialTime": "01:35:57",
+            "RankAll": "833",
+            "NetTime": "01:35:29"
+        },
+        {
+            "Bibnr": "29699",
+            "Name": "陳啟瑋",
+            "OfficialTime": "01:35:58",
+            "RankAll": "834",
+            "NetTime": "01:35:47"
+        },
+        {
+            "Bibnr": "27194",
+            "Name": "Tam Kit Hung Thomas",
+            "OfficialTime": "01:35:58",
+            "RankAll": "835",
+            "NetTime": "01:35:43"
+        },
+        {
+            "Bibnr": "20314",
+            "Name": "Tsang Wing Hei",
+            "OfficialTime": "01:35:58",
+            "RankAll": "836",
+            "NetTime": "01:35:52"
+        },
+        {
+            "Bibnr": "26768",
+            "Name": "Hirayama Naoto",
+            "OfficialTime": "01:36:00",
+            "RankAll": "837",
+            "NetTime": "01:35:40"
+        },
+        {
+            "Bibnr": "25799",
+            "Name": "陳穎霖",
+            "OfficialTime": "01:36:00",
+            "RankAll": "838",
+            "NetTime": "01:33:40"
+        },
+        {
+            "Bibnr": "37028",
+            "Name": "龔家宇",
+            "OfficialTime": "01:36:01",
+            "RankAll": "839",
+            "NetTime": "01:33:53"
+        },
+        {
+            "Bibnr": "35267",
+            "Name": "莊又任",
+            "OfficialTime": "01:36:02",
+            "RankAll": "840",
+            "NetTime": "01:35:52"
+        },
+        {
+            "Bibnr": "25303",
+            "Name": "盧振銘",
+            "OfficialTime": "01:36:05",
+            "RankAll": "841",
+            "NetTime": "01:34:44"
+        },
+        {
+            "Bibnr": "21622",
+            "Name": "呂坤穎",
+            "OfficialTime": "01:36:05",
+            "RankAll": "842",
+            "NetTime": "01:34:03"
+        },
+        {
+            "Bibnr": "24779",
+            "Name": "簡憲璋",
+            "OfficialTime": "01:36:05",
+            "RankAll": "843",
+            "NetTime": "01:34:34"
+        },
+        {
+            "Bibnr": "37480",
+            "Name": "王欣維",
+            "OfficialTime": "01:36:07",
+            "RankAll": "844",
+            "NetTime": "01:32:48"
+        },
+        {
+            "Bibnr": "22790",
+            "Name": "連子杰",
+            "OfficialTime": "01:36:08",
+            "RankAll": "845",
+            "NetTime": "01:34:36"
+        },
+        {
+            "Bibnr": "24272",
+            "Name": "陳冠霖",
+            "OfficialTime": "01:36:08",
+            "RankAll": "846",
+            "NetTime": "01:35:48"
+        },
+        {
+            "Bibnr": "31466",
+            "Name": "黃英倫",
+            "OfficialTime": "01:36:09",
+            "RankAll": "847",
+            "NetTime": "01:34:11"
+        },
+        {
+            "Bibnr": "22241",
+            "Name": "江柏樵",
+            "OfficialTime": "01:36:09",
+            "RankAll": "848",
+            "NetTime": "01:35:35"
+        },
+        {
+            "Bibnr": "20207",
+            "Name": "Wong Yip Mui Ivy",
+            "OfficialTime": "01:36:10",
+            "RankAll": "849",
+            "NetTime": "01:35:40"
+        },
+        {
+            "Bibnr": "28351",
+            "Name": "杜進雄",
+            "OfficialTime": "01:36:10",
+            "RankAll": "850",
+            "NetTime": "01:35:41"
+        },
+        {
+            "Bibnr": "30044",
+            "Name": "鮑大維",
+            "OfficialTime": "01:36:11",
+            "RankAll": "851",
+            "NetTime": "01:34:29"
+        },
+        {
+            "Bibnr": "25602",
+            "Name": "吳浩賢",
+            "OfficialTime": "01:36:11",
+            "RankAll": "852",
+            "NetTime": "01:35:57"
+        },
+        {
+            "Bibnr": "28486",
+            "Name": "周彥岑",
+            "OfficialTime": "01:36:13",
+            "RankAll": "853",
+            "NetTime": "01:32:10"
+        },
+        {
+            "Bibnr": "32340",
+            "Name": "陳信安",
+            "OfficialTime": "01:36:14",
+            "RankAll": "854",
+            "NetTime": "01:34:33"
+        },
+        {
+            "Bibnr": "36734",
+            "Name": "郭耀仁",
+            "OfficialTime": "01:36:14",
+            "RankAll": "855",
+            "NetTime": "01:26:31"
+        },
+        {
+            "Bibnr": "25148",
+            "Name": "陳宣佑",
+            "OfficialTime": "01:36:14",
+            "RankAll": "856",
+            "NetTime": "01:35:47"
+        },
+        {
+            "Bibnr": "19021",
+            "Name": "洪郁慈",
+            "OfficialTime": "01:36:15",
+            "RankAll": "857",
+            "NetTime": "01:34:51"
+        },
+        {
+            "Bibnr": "31052",
+            "Name": "葉宥鋒",
+            "OfficialTime": "01:36:16",
+            "RankAll": "858",
+            "NetTime": "01:35:51"
+        },
+        {
+            "Bibnr": "20268",
+            "Name": "吳冠璇",
+            "OfficialTime": "01:36:16",
+            "RankAll": "859",
+            "NetTime": "01:35:31"
+        },
+        {
+            "Bibnr": "36745",
+            "Name": "劉鋼",
+            "OfficialTime": "01:36:18",
+            "RankAll": "860",
+            "NetTime": "01:36:13"
+        },
+        {
+            "Bibnr": "33585",
+            "Name": "林廷儒",
+            "OfficialTime": "01:36:18",
+            "RankAll": "861",
+            "NetTime": "01:35:41"
+        },
+        {
+            "Bibnr": "20193",
+            "Name": "黃馨慧",
+            "OfficialTime": "01:36:18",
+            "RankAll": "862",
+            "NetTime": "01:35:41"
+        },
+        {
+            "Bibnr": "20327",
+            "Name": "許穗蒨",
+            "OfficialTime": "01:36:19",
+            "RankAll": "863",
+            "NetTime": "01:36:14"
+        },
+        {
+            "Bibnr": "26730",
+            "Name": "邱建偉",
+            "OfficialTime": "01:36:20",
+            "RankAll": "864",
+            "NetTime": "01:33:55"
+        },
+        {
+            "Bibnr": "35632",
+            "Name": "LAW KA HEI",
+            "OfficialTime": "01:36:21",
+            "RankAll": "865",
+            "NetTime": "01:31:37"
+        },
+        {
+            "Bibnr": "23420",
+            "Name": "李明鴻",
+            "OfficialTime": "01:36:22",
+            "RankAll": "866",
+            "NetTime": "01:31:39"
+        },
+        {
+            "Bibnr": "17131",
+            "Name": "洪培芳",
+            "OfficialTime": "01:36:22",
+            "RankAll": "867",
+            "NetTime": "01:36:07"
+        },
+        {
+            "Bibnr": "35289",
+            "Name": "ho hung pan",
+            "OfficialTime": "01:36:23",
+            "RankAll": "868",
+            "NetTime": "01:33:28"
+        },
+        {
+            "Bibnr": "28482",
+            "Name": "黃柏煒",
+            "OfficialTime": "01:36:23",
+            "RankAll": "869",
+            "NetTime": "01:35:53"
+        },
+        {
+            "Bibnr": "24387",
+            "Name": "王品鑫",
+            "OfficialTime": "01:36:24",
+            "RankAll": "870",
+            "NetTime": "01:35:03"
+        },
+        {
+            "Bibnr": "29173",
+            "Name": "李柏良",
+            "OfficialTime": "01:36:25",
+            "RankAll": "871",
+            "NetTime": "01:35:27"
+        },
+        {
+            "Bibnr": "30769",
+            "Name": "徐銘宏",
+            "OfficialTime": "01:36:26",
+            "RankAll": "872",
+            "NetTime": "01:36:03"
+        },
+        {
+            "Bibnr": "26530",
+            "Name": "鍾文彬",
+            "OfficialTime": "01:36:26",
+            "RankAll": "873",
+            "NetTime": "01:34:18"
+        },
+        {
+            "Bibnr": "23006",
+            "Name": "李世南",
+            "OfficialTime": "01:36:27",
+            "RankAll": "874",
+            "NetTime": "01:36:19"
+        },
+        {
+            "Bibnr": "22123",
+            "Name": "蘇培銘",
+            "OfficialTime": "01:36:29",
+            "RankAll": "875",
+            "NetTime": "01:34:58"
+        },
+        {
+            "Bibnr": "34731",
+            "Name": "于子喬",
+            "OfficialTime": "01:36:29",
+            "RankAll": "876",
+            "NetTime": "01:34:10"
+        },
+        {
+            "Bibnr": "22170",
+            "Name": "周俊呈",
+            "OfficialTime": "01:36:31",
+            "RankAll": "877",
+            "NetTime": "01:35:54"
+        },
+        {
+            "Bibnr": "22051",
+            "Name": "方瑛裕",
+            "OfficialTime": "01:36:31",
+            "RankAll": "878",
+            "NetTime": "01:36:21"
+        },
+        {
+            "Bibnr": "29220",
+            "Name": "Wong tat fai",
+            "OfficialTime": "01:36:32",
+            "RankAll": "879",
+            "NetTime": "01:34:34"
+        },
+        {
+            "Bibnr": "25735",
+            "Name": "廖育乾",
+            "OfficialTime": "01:36:33",
+            "RankAll": "880",
+            "NetTime": "01:33:18"
+        },
+        {
+            "Bibnr": "28655",
+            "Name": "許博凱",
+            "OfficialTime": "01:36:33",
+            "RankAll": "881",
+            "NetTime": "01:33:40"
+        },
+        {
+            "Bibnr": "36795",
+            "Name": "梁浩華",
+            "OfficialTime": "01:36:35",
+            "RankAll": "882",
+            "NetTime": "01:31:00"
+        },
+        {
+            "Bibnr": "28433",
+            "Name": "賴韋廷",
+            "OfficialTime": "01:36:35",
+            "RankAll": "883",
+            "NetTime": "01:34:06"
+        },
+        {
+            "Bibnr": "30725",
+            "Name": "錢文傑",
+            "OfficialTime": "01:36:36",
+            "RankAll": "884",
+            "NetTime": "01:35:12"
+        },
+        {
+            "Bibnr": "24109",
+            "Name": "陳柏安",
+            "OfficialTime": "01:36:36",
+            "RankAll": "885",
+            "NetTime": "01:35:39"
+        },
+        {
+            "Bibnr": "20177",
+            "Name": "許家毓",
+            "OfficialTime": "01:36:37",
+            "RankAll": "886",
+            "NetTime": "01:36:07"
+        },
+        {
+            "Bibnr": "20167",
+            "Name": "KAM HAY MAN",
+            "OfficialTime": "01:36:38",
+            "RankAll": "887",
+            "NetTime": "01:36:29"
+        },
+        {
+            "Bibnr": "28326",
+            "Name": "楊國華",
+            "OfficialTime": "01:36:40",
+            "RankAll": "888",
+            "NetTime": "01:35:44"
+        },
+        {
+            "Bibnr": "21671",
+            "Name": "梁至冬",
+            "OfficialTime": "01:36:40",
+            "RankAll": "889",
+            "NetTime": "01:33:36"
+        },
+        {
+            "Bibnr": "27144",
+            "Name": "Derrick Bol",
+            "OfficialTime": "01:36:41",
+            "RankAll": "890",
+            "NetTime": "01:33:08"
+        },
+        {
+            "Bibnr": "37388",
+            "Name": "謝琮諺",
+            "OfficialTime": "01:36:41",
+            "RankAll": "891",
+            "NetTime": "01:33:51"
+        },
+        {
+            "Bibnr": "30330",
+            "Name": "王凱仁",
+            "OfficialTime": "01:36:42",
+            "RankAll": "892",
+            "NetTime": "01:35:25"
+        },
+        {
+            "Bibnr": "20269",
+            "Name": "張湘鍹",
+            "OfficialTime": "01:36:42",
+            "RankAll": "893",
+            "NetTime": "01:35:33"
+        },
+        {
+            "Bibnr": "28672",
+            "Name": "高曉鋒",
+            "OfficialTime": "01:36:43",
+            "RankAll": "894",
+            "NetTime": "01:35:00"
+        },
+        {
+            "Bibnr": "31063",
+            "Name": "蘇云逸",
+            "OfficialTime": "01:36:43",
+            "RankAll": "895",
+            "NetTime": "01:34:51"
+        },
+        {
+            "Bibnr": "28690",
+            "Name": "莊漢宗",
+            "OfficialTime": "01:36:44",
+            "RankAll": "896",
+            "NetTime": "01:36:25"
+        },
+        {
+            "Bibnr": "35506",
+            "Name": "吳建昇",
+            "OfficialTime": "01:36:44",
+            "RankAll": "897",
+            "NetTime": "01:36:23"
+        },
+        {
+            "Bibnr": "23036",
+            "Name": "蕭丙昆",
+            "OfficialTime": "01:36:44",
+            "RankAll": "898",
+            "NetTime": "01:35:29"
+        },
+        {
+            "Bibnr": "23665",
+            "Name": "黃堃鵬",
+            "OfficialTime": "01:36:46",
+            "RankAll": "899",
+            "NetTime": "01:36:27"
+        },
+        {
+            "Bibnr": "22211",
+            "Name": "葉韋翔",
+            "OfficialTime": "01:36:47",
+            "RankAll": "900",
+            "NetTime": "01:34:29"
+        },
+        {
+            "Bibnr": "22030",
+            "Name": "李嘉仁",
+            "OfficialTime": "01:36:47",
+            "RankAll": "901",
+            "NetTime": "01:35:08"
+        },
+        {
+            "Bibnr": "20108",
+            "Name": "Chan Josephine",
+            "OfficialTime": "01:36:48",
+            "RankAll": "902",
+            "NetTime": "01:34:39"
+        },
+        {
+            "Bibnr": "22422",
+            "Name": "張紹暐",
+            "OfficialTime": "01:36:48",
+            "RankAll": "903",
+            "NetTime": "01:35:23"
+        },
+        {
+            "Bibnr": "35817",
+            "Name": "朱嘉祺",
+            "OfficialTime": "01:36:51",
+            "RankAll": "904",
+            "NetTime": "01:32:39"
+        },
+        {
+            "Bibnr": "35384",
+            "Name": "LAI CHUN KIT",
+            "OfficialTime": "01:36:51",
+            "RankAll": "905",
+            "NetTime": "01:36:21"
+        },
+        {
+            "Bibnr": "30528",
+            "Name": "謝文盛",
+            "OfficialTime": "01:36:52",
+            "RankAll": "906",
+            "NetTime": "01:36:14"
+        },
+        {
+            "Bibnr": "23432",
+            "Name": "吳睿軒",
+            "OfficialTime": "01:36:53",
+            "RankAll": "907",
+            "NetTime": "01:36:18"
+        },
+        {
+            "Bibnr": "37473",
+            "Name": "盧威杉",
+            "OfficialTime": "01:36:55",
+            "RankAll": "908",
+            "NetTime": "01:36:04"
+        },
+        {
+            "Bibnr": "28709",
+            "Name": "許書誌",
+            "OfficialTime": "01:36:55",
+            "RankAll": "909",
+            "NetTime": "01:35:05"
+        },
+        {
+            "Bibnr": "35348",
+            "Name": "謝長原",
+            "OfficialTime": "01:36:55",
+            "RankAll": "910",
+            "NetTime": "01:36:32"
+        },
+        {
+            "Bibnr": "26234",
+            "Name": "許昶哲",
+            "OfficialTime": "01:36:55",
+            "RankAll": "911",
+            "NetTime": "01:36:20"
+        },
+        {
+            "Bibnr": "20353",
+            "Name": "王靜雯",
+            "OfficialTime": "01:36:56",
+            "RankAll": "912",
+            "NetTime": "01:36:34"
+        },
+        {
+            "Bibnr": "35320",
+            "Name": "何治廷",
+            "OfficialTime": "01:36:56",
+            "RankAll": "913",
+            "NetTime": "01:36:51"
+        },
+        {
+            "Bibnr": "29278",
+            "Name": "吳黃金印",
+            "OfficialTime": "01:36:56",
+            "RankAll": "914",
+            "NetTime": "01:33:25"
+        },
+        {
+            "Bibnr": "31100",
+            "Name": "Choung Chi Man",
+            "OfficialTime": "01:36:57",
+            "RankAll": "915",
+            "NetTime": "01:34:39"
+        },
+        {
+            "Bibnr": "27248",
+            "Name": "吳祖匡",
+            "OfficialTime": "01:36:58",
+            "RankAll": "916",
+            "NetTime": "01:36:42"
+        },
+        {
+            "Bibnr": "24688",
+            "Name": "林宇慶",
+            "OfficialTime": "01:36:58",
+            "RankAll": "917",
+            "NetTime": "01:33:21"
+        },
+        {
+            "Bibnr": "20762",
+            "Name": "王紫苓",
+            "OfficialTime": "01:36:59",
+            "RankAll": "918",
+            "NetTime": "01:36:51"
+        },
+        {
+            "Bibnr": "33537",
+            "Name": "曾庭孝",
+            "OfficialTime": "01:37:00",
+            "RankAll": "919",
+            "NetTime": "01:36:57"
+        },
+        {
+            "Bibnr": "20111",
+            "Name": "LAM KA YAN",
+            "OfficialTime": "01:37:02",
+            "RankAll": "920",
+            "NetTime": "01:36:45"
+        },
+        {
+            "Bibnr": "24636",
+            "Name": "王啟南",
+            "OfficialTime": "01:37:02",
+            "RankAll": "921",
+            "NetTime": "01:36:36"
+        },
+        {
+            "Bibnr": "35455",
+            "Name": "Chui Lik Hang Leon",
+            "OfficialTime": "01:37:04",
+            "RankAll": "922",
+            "NetTime": "01:36:55"
+        },
+        {
+            "Bibnr": "34743",
+            "Name": "張宥承",
+            "OfficialTime": "01:37:04",
+            "RankAll": "923",
+            "NetTime": "01:36:27"
+        },
+        {
+            "Bibnr": "28362",
+            "Name": "張健明",
+            "OfficialTime": "01:37:04",
+            "RankAll": "924",
+            "NetTime": "01:37:04"
+        },
+        {
+            "Bibnr": "20200",
+            "Name": "林怡萱",
+            "OfficialTime": "01:37:05",
+            "RankAll": "925",
+            "NetTime": "01:34:49"
+        },
+        {
+            "Bibnr": "24755",
+            "Name": "蔡嘉和",
+            "OfficialTime": "01:37:06",
+            "RankAll": "926",
+            "NetTime": "01:36:41"
+        },
+        {
+            "Bibnr": "32272",
+            "Name": "WONG SAI HOU",
+            "OfficialTime": "01:37:06",
+            "RankAll": "927",
+            "NetTime": "01:36:36"
+        },
+        {
+            "Bibnr": "20138",
+            "Name": "Lee Suet Kwan",
+            "OfficialTime": "01:37:06",
+            "RankAll": "928",
+            "NetTime": "01:36:30"
+        },
+        {
+            "Bibnr": "28397",
+            "Name": "王逸雋",
+            "OfficialTime": "01:37:07",
+            "RankAll": "929",
+            "NetTime": "01:36:28"
+        },
+        {
+            "Bibnr": "36015",
+            "Name": "SHUHEI TSUBONE",
+            "OfficialTime": "01:37:07",
+            "RankAll": "930",
+            "NetTime": "01:31:23"
+        },
+        {
+            "Bibnr": "34336",
+            "Name": "Wong Yun Kiu",
+            "OfficialTime": "01:37:08",
+            "RankAll": "931",
+            "NetTime": "01:36:59"
+        },
+        {
+            "Bibnr": "25667",
+            "Name": "李思韋",
+            "OfficialTime": "01:37:08",
+            "RankAll": "932",
+            "NetTime": "01:36:42"
+        },
+        {
+            "Bibnr": "24302",
+            "Name": "蘇芝正",
+            "OfficialTime": "01:37:08",
+            "RankAll": "933",
+            "NetTime": "01:33:52"
+        },
+        {
+            "Bibnr": "37332",
+            "Name": "李哲偉",
+            "OfficialTime": "01:37:09",
+            "RankAll": "934",
+            "NetTime": "01:35:43"
+        },
+        {
+            "Bibnr": "30036",
+            "Name": "石文龍",
+            "OfficialTime": "01:37:09",
+            "RankAll": "935",
+            "NetTime": "01:36:25"
+        },
+        {
+            "Bibnr": "29700",
+            "Name": "沈子雋",
+            "OfficialTime": "01:37:10",
+            "RankAll": "936",
+            "NetTime": "01:36:17"
+        },
+        {
+            "Bibnr": "24618",
+            "Name": "蔡政祐",
+            "OfficialTime": "01:37:11",
+            "RankAll": "937",
+            "NetTime": "01:36:12"
+        },
+        {
+            "Bibnr": "37343",
+            "Name": "李昆翰",
+            "OfficialTime": "01:37:12",
+            "RankAll": "938",
+            "NetTime": "01:34:42"
+        },
+        {
+            "Bibnr": "35633",
+            "Name": "Roger Tang Ho Tsun",
+            "OfficialTime": "01:37:13",
+            "RankAll": "939",
+            "NetTime": "01:37:03"
+        },
+        {
+            "Bibnr": "37154",
+            "Name": "盧孔德",
+            "OfficialTime": "01:37:13",
+            "RankAll": "940",
+            "NetTime": "01:36:23"
+        },
+        {
+            "Bibnr": "28056",
+            "Name": "胡耕豪",
+            "OfficialTime": "01:37:13",
+            "RankAll": "941",
+            "NetTime": "01:35:59"
+        },
+        {
+            "Bibnr": "33555",
+            "Name": "劉宗桓",
+            "OfficialTime": "01:37:14",
+            "RankAll": "942",
+            "NetTime": "01:36:43"
+        },
+        {
+            "Bibnr": "23370",
+            "Name": "蔡嘉成",
+            "OfficialTime": "01:37:14",
+            "RankAll": "943",
+            "NetTime": "01:36:36"
+        },
+        {
+            "Bibnr": "28663",
+            "Name": "鄭睿承",
+            "OfficialTime": "01:37:16",
+            "RankAll": "944",
+            "NetTime": "01:36:14"
+        },
+        {
+            "Bibnr": "32110",
+            "Name": "尤志豪",
+            "OfficialTime": "01:37:16",
+            "RankAll": "945",
+            "NetTime": "01:36:17"
+        },
+        {
+            "Bibnr": "26450",
+            "Name": "李律",
+            "OfficialTime": "01:37:18",
+            "RankAll": "946",
+            "NetTime": "01:36:03"
+        },
+        {
+            "Bibnr": "29297",
+            "Name": "張晏誠",
+            "OfficialTime": "01:37:18",
+            "RankAll": "947",
+            "NetTime": "01:37:01"
+        },
+        {
+            "Bibnr": "32014",
+            "Name": "陳威宗",
+            "OfficialTime": "01:37:18",
+            "RankAll": "948",
+            "NetTime": "01:35:44"
+        },
+        {
+            "Bibnr": "33164",
+            "Name": "Lam Hau Kwan Gareth",
+            "OfficialTime": "01:37:19",
+            "RankAll": "949",
+            "NetTime": "01:35:53"
+        },
+        {
+            "Bibnr": "35427",
+            "Name": "林昱安",
+            "OfficialTime": "01:37:19",
+            "RankAll": "950",
+            "NetTime": "01:37:11"
+        },
+        {
+            "Bibnr": "22571",
+            "Name": "李文翔",
+            "OfficialTime": "01:37:20",
+            "RankAll": "951",
+            "NetTime": "01:37:08"
+        },
+        {
+            "Bibnr": "22449",
+            "Name": "沈錫遠",
+            "OfficialTime": "01:37:21",
+            "RankAll": "952",
+            "NetTime": "01:36:27"
+        },
+        {
+            "Bibnr": "29467",
+            "Name": "賴彥廷",
+            "OfficialTime": "01:37:23",
+            "RankAll": "953",
+            "NetTime": "01:37:11"
+        },
+        {
+            "Bibnr": "35553",
+            "Name": "鄧文禮",
+            "OfficialTime": "01:37:24",
+            "RankAll": "954",
+            "NetTime": "01:37:09"
+        },
+        {
+            "Bibnr": "30214",
+            "Name": "李浩賢",
+            "OfficialTime": "01:37:24",
+            "RankAll": "955",
+            "NetTime": "01:34:57"
+        },
+        {
+            "Bibnr": "22061",
+            "Name": "吳凱瑞",
+            "OfficialTime": "01:37:24",
+            "RankAll": "956",
+            "NetTime": "01:35:09"
+        },
+        {
+            "Bibnr": "26283",
+            "Name": "陳慶亭",
+            "OfficialTime": "01:37:24",
+            "RankAll": "957",
+            "NetTime": "01:33:28"
+        },
+        {
+            "Bibnr": "37214",
+            "Name": "陳孟鼎",
+            "OfficialTime": "01:37:26",
+            "RankAll": "958",
+            "NetTime": "01:34:59"
+        },
+        {
+            "Bibnr": "31282",
+            "Name": "許溥昇",
+            "OfficialTime": "01:37:26",
+            "RankAll": "959",
+            "NetTime": "01:35:44"
+        },
+        {
+            "Bibnr": "33353",
+            "Name": "Lewis King",
+            "OfficialTime": "01:37:28",
+            "RankAll": "960",
+            "NetTime": "01:36:57"
+        },
+        {
+            "Bibnr": "27543",
+            "Name": "蘇瑋栢",
+            "OfficialTime": "01:37:28",
+            "RankAll": "961",
+            "NetTime": "01:35:12"
+        },
+        {
+            "Bibnr": "22057",
+            "Name": "吳俊庚",
+            "OfficialTime": "01:37:29",
+            "RankAll": "962",
+            "NetTime": "01:35:46"
+        },
+        {
+            "Bibnr": "34614",
+            "Name": "郭咸谷",
+            "OfficialTime": "01:37:29",
+            "RankAll": "963",
+            "NetTime": "01:36:14"
+        },
+        {
+            "Bibnr": "37148",
+            "Name": "Johnathan Lee",
+            "OfficialTime": "01:37:30",
+            "RankAll": "964",
+            "NetTime": "01:35:01"
+        },
+        {
+            "Bibnr": "23637",
+            "Name": "劉德龍",
+            "OfficialTime": "01:37:30",
+            "RankAll": "965",
+            "NetTime": "01:36:58"
+        },
+        {
+            "Bibnr": "22079",
+            "Name": "鍾登傑",
+            "OfficialTime": "01:37:30",
+            "RankAll": "966",
+            "NetTime": "01:37:06"
+        },
+        {
+            "Bibnr": "36198",
+            "Name": "魏冠羽",
+            "OfficialTime": "01:37:31",
+            "RankAll": "967",
+            "NetTime": "01:35:28"
+        },
+        {
+            "Bibnr": "27536",
+            "Name": "林存甫",
+            "OfficialTime": "01:37:31",
+            "RankAll": "968",
+            "NetTime": "01:34:59"
+        },
+        {
+            "Bibnr": "37602",
+            "Name": "詹偉立",
+            "OfficialTime": "01:37:31",
+            "RankAll": "969",
+            "NetTime": "01:37:20"
+        },
+        {
+            "Bibnr": "23674",
+            "Name": "孫明諒",
+            "OfficialTime": "01:37:32",
+            "RankAll": "970",
+            "NetTime": "01:34:44"
+        },
+        {
+            "Bibnr": "28008",
+            "Name": "邱志勳",
+            "OfficialTime": "01:37:33",
+            "RankAll": "971",
+            "NetTime": "01:34:52"
+        },
+        {
+            "Bibnr": "24115",
+            "Name": "黃大原",
+            "OfficialTime": "01:37:33",
+            "RankAll": "972",
+            "NetTime": "01:36:11"
+        },
+        {
+            "Bibnr": "24702",
+            "Name": "Daniel Sanchez Suarez",
+            "OfficialTime": "01:37:33",
+            "RankAll": "973",
+            "NetTime": "01:34:09"
+        },
+        {
+            "Bibnr": "24278",
+            "Name": "林延聰",
+            "OfficialTime": "01:37:34",
+            "RankAll": "974",
+            "NetTime": "01:36:24"
+        },
+        {
+            "Bibnr": "21691",
+            "Name": "王弘綸",
+            "OfficialTime": "01:37:34",
+            "RankAll": "975",
+            "NetTime": "01:36:10"
+        },
+        {
+            "Bibnr": "24512",
+            "Name": "陳俊偉",
+            "OfficialTime": "01:37:34",
+            "RankAll": "976",
+            "NetTime": "01:37:00"
+        },
+        {
+            "Bibnr": "35332",
+            "Name": "林亞仁",
+            "OfficialTime": "01:37:35",
+            "RankAll": "977",
+            "NetTime": "01:37:29"
+        },
+        {
+            "Bibnr": "25443",
+            "Name": "洪志明",
+            "OfficialTime": "01:37:35",
+            "RankAll": "978",
+            "NetTime": "01:35:27"
+        },
+        {
+            "Bibnr": "28627",
+            "Name": "廖韋晴",
+            "OfficialTime": "01:37:35",
+            "RankAll": "979",
+            "NetTime": "01:36:17"
+        },
+        {
+            "Bibnr": "28573",
+            "Name": "陳昱鈞",
+            "OfficialTime": "01:37:36",
+            "RankAll": "980",
+            "NetTime": "01:35:07"
+        },
+        {
+            "Bibnr": "23010",
+            "Name": "田峻翰",
+            "OfficialTime": "01:37:36",
+            "RankAll": "981",
+            "NetTime": "01:35:44"
+        },
+        {
+            "Bibnr": "29614",
+            "Name": "沈煒皓",
+            "OfficialTime": "01:37:36",
+            "RankAll": "982",
+            "NetTime": "01:36:03"
+        },
+        {
+            "Bibnr": "30150",
+            "Name": "邱明宏",
+            "OfficialTime": "01:37:36",
+            "RankAll": "983",
+            "NetTime": "01:37:25"
+        },
+        {
+            "Bibnr": "23504",
+            "Name": "李佳峯",
+            "OfficialTime": "01:37:36",
+            "RankAll": "984",
+            "NetTime": "01:34:42"
+        },
+        {
+            "Bibnr": "27531",
+            "Name": "許郁達",
+            "OfficialTime": "01:37:37",
+            "RankAll": "985",
+            "NetTime": "01:37:06"
+        },
+        {
+            "Bibnr": "21689",
+            "Name": "彭友利",
+            "OfficialTime": "01:37:39",
+            "RankAll": "986",
+            "NetTime": "01:36:33"
+        },
+        {
+            "Bibnr": "24476",
+            "Name": "蔡承旺",
+            "OfficialTime": "01:37:40",
+            "RankAll": "987",
+            "NetTime": "01:37:18"
+        },
+        {
+            "Bibnr": "35425",
+            "Name": "施建維",
+            "OfficialTime": "01:37:41",
+            "RankAll": "988",
+            "NetTime": "01:37:38"
+        },
+        {
+            "Bibnr": "20155",
+            "Name": "孫偉婷",
+            "OfficialTime": "01:37:42",
+            "RankAll": "989",
+            "NetTime": "01:37:04"
+        },
+        {
+            "Bibnr": "20329",
+            "Name": "森田京子",
+            "OfficialTime": "01:37:43",
+            "RankAll": "990",
+            "NetTime": "01:36:41"
+        },
+        {
+            "Bibnr": "20172",
+            "Name": "ROWENA PHOEBE LYE",
+            "OfficialTime": "01:37:44",
+            "RankAll": "991",
+            "NetTime": "01:36:40"
+        },
+        {
+            "Bibnr": "29317",
+            "Name": "Leung Shing Hin",
+            "OfficialTime": "01:37:44",
+            "RankAll": "992",
+            "NetTime": "01:35:07"
+        },
+        {
+            "Bibnr": "35650",
+            "Name": "Sze Ying Ho Andy",
+            "OfficialTime": "01:37:45",
+            "RankAll": "993",
+            "NetTime": "01:34:26"
+        },
+        {
+            "Bibnr": "34759",
+            "Name": "陳冠豪",
+            "OfficialTime": "01:37:45",
+            "RankAll": "994",
+            "NetTime": "01:36:10"
+        },
+        {
+            "Bibnr": "35611",
+            "Name": "陳秩樟",
+            "OfficialTime": "01:37:46",
+            "RankAll": "995",
+            "NetTime": "01:37:20"
+        },
+        {
+            "Bibnr": "20285",
+            "Name": "程靜怡",
+            "OfficialTime": "01:37:47",
+            "RankAll": "996",
+            "NetTime": "01:37:16"
+        },
+        {
+            "Bibnr": "22081",
+            "Name": "黃柏勳",
+            "OfficialTime": "01:37:47",
+            "RankAll": "997",
+            "NetTime": "01:37:38"
+        },
+        {
+            "Bibnr": "23529",
+            "Name": "江勁緯",
+            "OfficialTime": "01:37:47",
+            "RankAll": "998",
+            "NetTime": "01:35:19"
+        },
+        {
+            "Bibnr": "33442",
+            "Name": "TANG CHI CHUNG",
+            "OfficialTime": "01:37:48",
+            "RankAll": "999",
+            "NetTime": "01:36:39"
+        },
+        {
+            "Bibnr": "22728",
+            "Name": "陳再發",
+            "OfficialTime": "01:37:48",
+            "RankAll": "1000",
+            "NetTime": "01:37:04"
+        }
+    ]
+}
