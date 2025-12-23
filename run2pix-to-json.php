@@ -4,23 +4,18 @@ function fetchRun2PixToJson($url) {
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
     curl_setopt($ch, CURLOPT_TIMEOUT, 10);
-    curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
+    curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0');
     $html = curl_exec($ch);
     $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
     curl_close($ch);
     if ($httpCode !== 200 || !$html) {
         return json_encode(['error' => 'Failed to fetch the page. HTTP Code: ' . $httpCode]);
     }
-    //$html=file_get_contents('17');
-    // 2. Parse the HTML
     $dom = new DOMDocument();
-    // Use internal errors to suppress warnings from malformed HTML
     libxml_use_internal_errors(true);
     $dom->loadHTML('<?xml encoding="UTF-8">' . $html);
     libxml_clear_errors();
     $xpath = new DOMXPath($dom);
-    // Based on Run2Pix structure, we look for the main results table
-    // Usually, it's the table containing 'Bibnr' or 'Name' in headers
     $rows = $xpath->query("//table//tr");
     $data = [];
     $headers = [];
@@ -61,6 +56,6 @@ for ($p=$min_pagenum;$p<=$max_pagenum;$p++) {
     echo "$targetUrl to $json_file\n";
     $json=fetchRun2PixToJson($targetUrl);
     file_put_contents($json_file, $json);
-    if ($p<$max_pagenum) sleep(1);    
+    if ($p<$max_pagenum) sleep(1); // 停頓, 不要抓太快
 }
 ?>
