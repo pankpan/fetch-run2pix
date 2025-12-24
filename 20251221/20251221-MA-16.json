@@ -3,3504 +3,4504 @@
     "total_records": 500,
     "results": [
         {
+            "Bibnr": "3048",
+            "Name": "黃佳盈",
+            "Category": "女40-49歲",
+            "OfficialTime": "05:05:53",
+            "RankAll": "7498",
+            "RankCat": "682",
+            "NetTime": "05:01:29"
+        },
+        {
+            "Bibnr": "6725",
+            "Name": "林克軒",
+            "Category": "男50-59歲",
+            "OfficialTime": "05:05:54",
+            "RankAll": "7499",
+            "RankCat": "1374",
+            "NetTime": "05:00:39"
+        },
+        {
+            "Bibnr": "4359",
+            "Name": "高碧玉",
+            "Category": "女60歲+",
+            "OfficialTime": "05:05:59",
+            "RankAll": "7500",
+            "RankCat": "45",
+            "NetTime": "05:00:46"
+        },
+        {
             "Bibnr": "4328",
             "Name": "鄭靜如",
+            "Category": "女40-49歲",
             "OfficialTime": "05:05:59",
             "RankAll": "7501",
+            "RankCat": "683",
             "NetTime": "05:02:16"
         },
         {
             "Bibnr": "7452",
             "Name": "郭青樺",
+            "Category": "男30-39歲",
             "OfficialTime": "05:06:02",
             "RankAll": "7502",
+            "RankCat": "1436",
             "NetTime": "05:01:33"
         },
         {
             "Bibnr": "6578",
             "Name": "黃承銨",
+            "Category": "男40-49歲",
             "OfficialTime": "05:06:04",
             "RankAll": "7503",
+            "RankCat": "2421",
             "NetTime": "05:01:19"
         },
         {
             "Bibnr": "8093",
             "Name": "蔡政龍",
+            "Category": "男40-49歲",
             "OfficialTime": "05:06:05",
             "RankAll": "7504",
+            "RankCat": "2422",
             "NetTime": "05:01:03"
         },
         {
             "Bibnr": "5057",
             "Name": "許家驊",
+            "Category": "男40-49歲",
             "OfficialTime": "05:06:06",
             "RankAll": "7505",
+            "RankCat": "2423",
             "NetTime": "05:00:03"
         },
         {
             "Bibnr": "6634",
             "Name": "黃信維",
+            "Category": "男30-39歲",
             "OfficialTime": "05:06:08",
             "RankAll": "7506",
+            "RankCat": "1437",
             "NetTime": "05:00:27"
         },
         {
             "Bibnr": "4306",
             "Name": "張淑鳳",
+            "Category": "女60歲+",
             "OfficialTime": "05:06:08",
             "RankAll": "7507",
+            "RankCat": "46",
             "NetTime": "05:01:06"
         },
         {
             "Bibnr": "2241",
             "Name": "陸雪芬",
+            "Category": "女40-49歲",
             "OfficialTime": "05:06:08",
             "RankAll": "7508",
+            "RankCat": "684",
             "NetTime": "05:00:23"
         },
         {
             "Bibnr": "5034",
             "Name": "李信宏",
+            "Category": "男30-39歲",
             "OfficialTime": "05:06:13",
             "RankAll": "7509",
+            "RankCat": "1438",
             "NetTime": "05:01:16"
         },
         {
             "Bibnr": "5462",
             "Name": "林慶驊",
+            "Category": "男40-49歲",
             "OfficialTime": "05:06:16",
             "RankAll": "7510",
+            "RankCat": "2424",
             "NetTime": "05:01:16"
         },
         {
             "Bibnr": "13458",
             "Name": "陳仲奇",
+            "Category": "男40-49歲",
             "OfficialTime": "05:06:19",
             "RankAll": "7511",
+            "RankCat": "2425",
             "NetTime": "05:00:41"
         },
         {
             "Bibnr": "5483",
             "Name": "林添進",
+            "Category": "男50-59歲",
             "OfficialTime": "05:06:21",
             "RankAll": "7512",
+            "RankCat": "1375",
             "NetTime": "05:00:10"
         },
         {
             "Bibnr": "6144",
             "Name": "劉崇韋",
+            "Category": "男30-39歲",
             "OfficialTime": "05:06:22",
             "RankAll": "7513",
+            "RankCat": "1439",
             "NetTime": "05:00:08"
         },
         {
             "Bibnr": "11097",
             "Name": "NAKANISHI TAKASHI",
+            "Category": "男20-29歲",
             "OfficialTime": "05:06:23",
             "RankAll": "7514",
+            "RankCat": "342",
             "NetTime": "05:01:42"
         },
         {
             "Bibnr": "1007",
             "Name": "唐寧",
+            "Category": "女30-39歲",
             "OfficialTime": "05:06:25",
             "RankAll": "7515",
+            "RankCat": "351",
             "NetTime": "05:01:58"
         },
         {
             "Bibnr": "2520",
             "Name": "王幼萍",
+            "Category": "女50-59歲",
             "OfficialTime": "05:06:27",
             "RankAll": "7516",
+            "RankCat": "376",
             "NetTime": "05:03:02"
         },
         {
             "Bibnr": "13339",
             "Name": "張克頎",
+            "Category": "男40-49歲",
             "OfficialTime": "05:06:27",
             "RankAll": "7517",
+            "RankCat": "2426",
             "NetTime": "05:00:42"
         },
         {
             "Bibnr": "6193",
             "Name": "吳政霖",
+            "Category": "男40-49歲",
             "OfficialTime": "05:06:30",
             "RankAll": "7518",
+            "RankCat": "2427",
             "NetTime": "05:00:40"
         },
         {
             "Bibnr": "13264",
             "Name": "李建儀",
+            "Category": "男50-59歲",
             "OfficialTime": "05:06:30",
             "RankAll": "7519",
+            "RankCat": "1376",
             "NetTime": "05:02:37"
         },
         {
             "Bibnr": "5379",
             "Name": "彭光弘",
+            "Category": "男30-39歲",
             "OfficialTime": "05:06:30",
             "RankAll": "7520",
+            "RankCat": "1440",
             "NetTime": "05:01:47"
         },
         {
             "Bibnr": "4671",
             "Name": "張永平",
+            "Category": "男50-59歲",
             "OfficialTime": "05:06:33",
             "RankAll": "7521",
+            "RankCat": "1377",
             "NetTime": "05:02:05"
         },
         {
             "Bibnr": "5162",
             "Name": "江世安",
+            "Category": "男30-39歲",
             "OfficialTime": "05:06:34",
             "RankAll": "7522",
+            "RankCat": "1441",
             "NetTime": "05:00:30"
         },
         {
             "Bibnr": "2208",
             "Name": "何秀雯",
+            "Category": "女50-59歲",
             "OfficialTime": "05:06:36",
             "RankAll": "7523",
+            "RankCat": "377",
             "NetTime": "05:01:06"
         },
         {
             "Bibnr": "4002",
             "Name": "陳寶蓮",
+            "Category": "女60歲+",
             "OfficialTime": "05:06:38",
             "RankAll": "7524",
+            "RankCat": "47",
             "NetTime": "05:02:56"
         },
         {
             "Bibnr": "10322",
             "Name": "謝燦豪",
+            "Category": "男50-59歲",
             "OfficialTime": "05:06:39",
             "RankAll": "7525",
+            "RankCat": "1378",
             "NetTime": "05:06:14"
         },
         {
             "Bibnr": "5292",
             "Name": "Wong wing kin",
+            "Category": "男40-49歲",
             "OfficialTime": "05:06:41",
             "RankAll": "7526",
+            "RankCat": "2428",
             "NetTime": "05:01:27"
         },
         {
             "Bibnr": "12598",
             "Name": "李恒杰",
+            "Category": "男40-49歲",
             "OfficialTime": "05:06:43",
             "RankAll": "7527",
+            "RankCat": "2429",
             "NetTime": "05:01:28"
         },
         {
             "Bibnr": "7469",
             "Name": "蔡嘉振",
+            "Category": "男40-49歲",
             "OfficialTime": "05:06:45",
             "RankAll": "7528",
+            "RankCat": "2430",
             "NetTime": "05:01:40"
         },
         {
             "Bibnr": "10745",
             "Name": "HATANAKA KODAI",
+            "Category": "男30-39歲",
             "OfficialTime": "05:07:01",
             "RankAll": "7529",
+            "RankCat": "1442",
             "NetTime": "05:03:52"
         },
         {
             "Bibnr": "3546",
             "Name": "李巧馨",
+            "Category": "女40-49歲",
             "OfficialTime": "05:07:05",
             "RankAll": "7530",
+            "RankCat": "685",
             "NetTime": "05:02:58"
         },
         {
             "Bibnr": "4662",
             "Name": "李葦晨",
+            "Category": "男30-39歲",
             "OfficialTime": "05:07:10",
             "RankAll": "7531",
+            "RankCat": "1443",
             "NetTime": "05:01:39"
         },
         {
             "Bibnr": "11675",
             "Name": "吳文德",
+            "Category": "男60歲+",
             "OfficialTime": "05:07:11",
             "RankAll": "7532",
+            "RankCat": "355",
             "NetTime": "05:02:25"
         },
         {
             "Bibnr": "11022",
             "Name": "KITAOKA AKIHITO",
+            "Category": "男40-49歲",
             "OfficialTime": "05:07:13",
             "RankAll": "7533",
+            "RankCat": "2431",
             "NetTime": "05:03:09"
         },
         {
             "Bibnr": "5158",
             "Name": "巫亞修",
+            "Category": "男20-29歲",
             "OfficialTime": "05:07:16",
             "RankAll": "7534",
+            "RankCat": "343",
             "NetTime": "05:01:23"
         },
         {
             "Bibnr": "6091",
             "Name": "江達豪",
+            "Category": "男50-59歲",
             "OfficialTime": "05:07:24",
             "RankAll": "7535",
+            "RankCat": "1379",
             "NetTime": "05:01:56"
         },
         {
             "Bibnr": "11752",
             "Name": "李昆錦",
+            "Category": "男50-59歲",
             "OfficialTime": "05:07:24",
             "RankAll": "7536",
+            "RankCat": "1380",
             "NetTime": "05:03:18"
         },
         {
             "Bibnr": "2066",
             "Name": "林郁馨",
+            "Category": "女40-49歲",
             "OfficialTime": "05:07:25",
             "RankAll": "7537",
+            "RankCat": "686",
             "NetTime": "05:01:44"
         },
         {
             "Bibnr": "4425",
             "Name": "魏敏惠",
+            "Category": "女40-49歲",
             "OfficialTime": "05:07:26",
             "RankAll": "7538",
+            "RankCat": "687",
             "NetTime": "05:01:57"
         },
         {
             "Bibnr": "11485",
             "Name": "陳致賓",
+            "Category": "男40-49歲",
             "OfficialTime": "05:07:27",
             "RankAll": "7539",
+            "RankCat": "2432",
             "NetTime": "05:03:17"
         },
         {
             "Bibnr": "2384",
             "Name": "陳玉玲",
+            "Category": "女50-59歲",
             "OfficialTime": "05:07:27",
             "RankAll": "7540",
+            "RankCat": "378",
             "NetTime": "05:02:17"
         },
         {
             "Bibnr": "11102",
             "Name": "INAO YASUHIKO",
+            "Category": "男60歲+",
             "OfficialTime": "05:07:27",
             "RankAll": "7541",
+            "RankCat": "356",
             "NetTime": "05:04:16"
         },
         {
             "Bibnr": "10621",
             "Name": "黃宇嚴",
+            "Category": "男50-59歲",
             "OfficialTime": "05:07:29",
             "RankAll": "7542",
+            "RankCat": "1381",
             "NetTime": "05:04:48"
         },
         {
             "Bibnr": "4446",
             "Name": "詹曉嵐",
+            "Category": "女40-49歲",
             "OfficialTime": "05:07:30",
             "RankAll": "7543",
+            "RankCat": "688",
             "NetTime": "05:01:32"
         },
         {
             "Bibnr": "6109",
             "Name": "楊易霖",
+            "Category": "男40-49歲",
             "OfficialTime": "05:07:31",
             "RankAll": "7544",
+            "RankCat": "2433",
             "NetTime": "05:01:32"
         },
         {
             "Bibnr": "5217",
             "Name": "郭彥廷",
+            "Category": "男20-29歲",
             "OfficialTime": "05:07:36",
             "RankAll": "7545",
+            "RankCat": "344",
             "NetTime": "05:02:14"
         },
         {
             "Bibnr": "10665",
             "Name": "葉柏輝",
+            "Category": "男40-49歲",
             "OfficialTime": "05:07:36",
             "RankAll": "7546",
+            "RankCat": "2434",
             "NetTime": "05:03:22"
         },
         {
             "Bibnr": "12507",
             "Name": "王哲民",
+            "Category": "男50-59歲",
             "OfficialTime": "05:07:39",
             "RankAll": "7547",
+            "RankCat": "1382",
             "NetTime": "05:03:38"
         },
         {
             "Bibnr": "5614",
             "Name": "陳建銘",
+            "Category": "男50-59歲",
             "OfficialTime": "05:07:45",
             "RankAll": "7548",
+            "RankCat": "1383",
             "NetTime": "05:01:49"
         },
         {
             "Bibnr": "5589",
             "Name": "高清輝",
+            "Category": "男40-49歲",
             "OfficialTime": "05:07:47",
             "RankAll": "7549",
+            "RankCat": "2435",
             "NetTime": "05:02:41"
         },
         {
             "Bibnr": "1547",
             "Name": "林士軒",
+            "Category": "男30-39歲",
             "OfficialTime": "05:07:47",
             "RankAll": "7550",
+            "RankCat": "1444",
             "NetTime": "05:04:20"
         },
         {
             "Bibnr": "1629",
             "Name": "陳政偉",
+            "Category": "男40-49歲",
             "OfficialTime": "05:07:52",
             "RankAll": "7551",
+            "RankCat": "2436",
             "NetTime": "05:04:15"
         },
         {
             "Bibnr": "7525",
             "Name": "SO KWOK FAI ALAN",
+            "Category": "男50-59歲",
             "OfficialTime": "05:07:52",
             "RankAll": "7552",
+            "RankCat": "1384",
             "NetTime": "05:01:46"
         },
         {
             "Bibnr": "7188",
             "Name": "秦佳禾",
+            "Category": "男40-49歲",
             "OfficialTime": "05:07:56",
             "RankAll": "7553",
+            "RankCat": "2437",
             "NetTime": "05:01:45"
         },
         {
             "Bibnr": "5518",
             "Name": "吳韋樸",
+            "Category": "男30-39歲",
             "OfficialTime": "05:07:58",
             "RankAll": "7554",
+            "RankCat": "1445",
             "NetTime": "05:02:15"
         },
         {
             "Bibnr": "1686",
             "Name": "衛泓丞",
+            "Category": "男30-39歲",
             "OfficialTime": "05:08:00",
             "RankAll": "7555",
+            "RankCat": "1446",
             "NetTime": "05:02:46"
         },
         {
             "Bibnr": "10660",
             "Name": "陳進德",
+            "Category": "男60歲+",
             "OfficialTime": "05:08:04",
             "RankAll": "7556",
+            "RankCat": "357",
             "NetTime": "05:05:40"
         },
         {
             "Bibnr": "12746",
             "Name": "陳忠上",
+            "Category": "男40-49歲",
             "OfficialTime": "05:08:04",
             "RankAll": "7557",
+            "RankCat": "2438",
             "NetTime": "05:03:11"
         },
         {
             "Bibnr": "2230",
             "Name": "林子甄",
+            "Category": "女19歲-",
             "OfficialTime": "05:08:04",
             "RankAll": "7558",
+            "RankCat": "1",
             "NetTime": "05:02:23"
         },
         {
             "Bibnr": "12413",
             "Name": "陳建堂",
+            "Category": "男40-49歲",
             "OfficialTime": "05:08:06",
             "RankAll": "7559",
+            "RankCat": "2439",
             "NetTime": "05:05:20"
         },
         {
             "Bibnr": "11202",
             "Name": "胡仲琦",
+            "Category": "男50-59歲",
             "OfficialTime": "05:08:07",
             "RankAll": "7560",
+            "RankCat": "1385",
             "NetTime": "05:05:37"
         },
         {
             "Bibnr": "1141",
             "Name": "楊泓奕",
+            "Category": "男60歲+",
             "OfficialTime": "05:08:09",
             "RankAll": "7561",
+            "RankCat": "358",
             "NetTime": "05:02:39"
         },
         {
             "Bibnr": "7225",
             "Name": "羅嘉銘",
+            "Category": "男40-49歲",
             "OfficialTime": "05:08:13",
             "RankAll": "7562",
+            "RankCat": "2440",
             "NetTime": "05:03:49"
         },
         {
             "Bibnr": "13173",
             "Name": "邱創毅",
+            "Category": "男30-39歲",
             "OfficialTime": "05:08:16",
             "RankAll": "7563",
+            "RankCat": "1447",
             "NetTime": "05:04:03"
         },
         {
             "Bibnr": "7514",
             "Name": "江庭愷",
+            "Category": "男20-29歲",
             "OfficialTime": "05:08:18",
             "RankAll": "7564",
+            "RankCat": "345",
             "NetTime": "05:02:53"
         },
         {
             "Bibnr": "3032",
             "Name": "李蕙茹",
+            "Category": "女50-59歲",
             "OfficialTime": "05:08:18",
             "RankAll": "7565",
+            "RankCat": "379",
             "NetTime": "05:06:06"
         },
         {
             "Bibnr": "1401",
             "Name": "張建興",
+            "Category": "男40-49歲",
             "OfficialTime": "05:08:19",
             "RankAll": "7566",
+            "RankCat": "2441",
             "NetTime": "05:03:31"
         },
         {
             "Bibnr": "7263",
             "Name": "Tsai jun huang",
+            "Category": "男40-49歲",
             "OfficialTime": "05:08:22",
             "RankAll": "7567",
+            "RankCat": "2442",
             "NetTime": "05:03:32"
         },
         {
             "Bibnr": "2321",
             "Name": "席安琪",
+            "Category": "女30-39歲",
             "OfficialTime": "05:08:26",
             "RankAll": "7568",
+            "RankCat": "352",
             "NetTime": "05:02:25"
         },
         {
             "Bibnr": "4466",
             "Name": "陳瑞敏",
+            "Category": "女50-59歲",
             "OfficialTime": "05:08:29",
             "RankAll": "7569",
+            "RankCat": "380",
             "NetTime": "05:06:49"
         },
         {
             "Bibnr": "5426",
             "Name": "卓奕辰",
+            "Category": "男20-29歲",
             "OfficialTime": "05:08:31",
             "RankAll": "7570",
+            "RankCat": "346",
             "NetTime": "05:02:27"
         },
         {
             "Bibnr": "10544",
             "Name": "伍喬森",
+            "Category": "男40-49歲",
             "OfficialTime": "05:08:33",
             "RankAll": "7571",
+            "RankCat": "2443",
             "NetTime": "05:05:57"
         },
         {
             "Bibnr": "5385",
             "Name": "呂首亮",
+            "Category": "男50-59歲",
             "OfficialTime": "05:08:33",
             "RankAll": "7572",
+            "RankCat": "1386",
             "NetTime": "05:06:25"
         },
         {
             "Bibnr": "2004",
             "Name": "陳佩樺",
+            "Category": "女40-49歲",
             "OfficialTime": "05:08:36",
             "RankAll": "7573",
+            "RankCat": "689",
             "NetTime": "05:03:03"
         },
         {
             "Bibnr": "7610",
             "Name": "李文宏 謝紫茵 鄭翔尹",
+            "Category": "男視障選手",
             "OfficialTime": "05:08:37",
             "RankAll": "7574",
+            "RankCat": "16",
             "NetTime": "05:07:06"
         },
         {
             "Bibnr": "4152",
             "Name": "蔡家嫻",
+            "Category": "女50-59歲",
             "OfficialTime": "05:08:42",
             "RankAll": "7575",
+            "RankCat": "381",
             "NetTime": "05:06:04"
         },
         {
             "Bibnr": "11538",
             "Name": "張偉德",
+            "Category": "男50-59歲",
             "OfficialTime": "05:08:44",
             "RankAll": "7576",
+            "RankCat": "1387",
             "NetTime": "05:05:49"
         },
         {
             "Bibnr": "7000",
             "Name": "陳金城",
+            "Category": "男50-59歲",
             "OfficialTime": "05:08:47",
             "RankAll": "7577",
+            "RankCat": "1388",
             "NetTime": "05:02:59"
         },
         {
             "Bibnr": "2054",
             "Name": "吳琬婷",
+            "Category": "女30-39歲",
             "OfficialTime": "05:08:51",
             "RankAll": "7578",
+            "RankCat": "353",
             "NetTime": "05:03:51"
         },
         {
             "Bibnr": "6227",
             "Name": "盧世光",
+            "Category": "男50-59歲",
             "OfficialTime": "05:08:53",
             "RankAll": "7579",
+            "RankCat": "1389",
             "NetTime": "05:02:52"
         },
         {
             "Bibnr": "1535",
             "Name": "朱敏明",
+            "Category": "男40-49歲",
             "OfficialTime": "05:08:55",
             "RankAll": "7580",
+            "RankCat": "2444",
             "NetTime": "05:03:15"
         },
         {
             "Bibnr": "1386",
             "Name": "莊良成",
+            "Category": "男50-59歲",
             "OfficialTime": "05:08:57",
             "RankAll": "7581",
+            "RankCat": "1390",
             "NetTime": "05:03:37"
         },
         {
             "Bibnr": "13244",
             "Name": "石富宇",
+            "Category": "男30-39歲",
             "OfficialTime": "05:08:57",
             "RankAll": "7582",
+            "RankCat": "1448",
             "NetTime": "05:07:21"
         },
         {
             "Bibnr": "6162",
             "Name": "黃國輝",
+            "Category": "男40-49歲",
             "OfficialTime": "05:08:57",
             "RankAll": "7583",
+            "RankCat": "2445",
             "NetTime": "05:03:33"
         },
         {
             "Bibnr": "2317",
             "Name": "陳詩鈴",
+            "Category": "女40-49歲",
             "OfficialTime": "05:08:57",
             "RankAll": "7584",
+            "RankCat": "690",
             "NetTime": "05:03:46"
         },
         {
             "Bibnr": "5098",
             "Name": "陳文凱",
+            "Category": "男30-39歲",
             "OfficialTime": "05:09:07",
             "RankAll": "7585",
+            "RankCat": "1449",
             "NetTime": "05:03:37"
         },
         {
             "Bibnr": "6643",
             "Name": "stanley xue",
+            "Category": "男50-59歲",
             "OfficialTime": "05:09:07",
             "RankAll": "7586",
+            "RankCat": "1391",
             "NetTime": "05:06:35"
         },
         {
             "Bibnr": "11756",
             "Name": "林哲宇",
+            "Category": "男20-29歲",
             "OfficialTime": "05:09:08",
             "RankAll": "7587",
+            "RankCat": "347",
             "NetTime": "05:07:56"
         },
         {
             "Bibnr": "7153",
             "Name": "莊翔宇",
+            "Category": "男40-49歲",
             "OfficialTime": "05:09:10",
             "RankAll": "7588",
+            "RankCat": "2446",
             "NetTime": "05:03:06"
         },
         {
             "Bibnr": "12214",
             "Name": "呂寶麟",
+            "Category": "男50-59歲",
             "OfficialTime": "05:09:11",
             "RankAll": "7589",
+            "RankCat": "1392",
             "NetTime": "05:06:02"
         },
         {
             "Bibnr": "6451",
             "Name": "林呈孝",
+            "Category": "男30-39歲",
             "OfficialTime": "05:09:12",
             "RankAll": "7590",
+            "RankCat": "1450",
             "NetTime": "05:04:05"
         },
         {
             "Bibnr": "6428",
             "Name": "廖英超",
+            "Category": "男50-59歲",
             "OfficialTime": "05:09:13",
             "RankAll": "7591",
+            "RankCat": "1393",
             "NetTime": "05:03:40"
         },
         {
             "Bibnr": "4061",
             "Name": "郭美蘭",
+            "Category": "女50-59歲",
             "OfficialTime": "05:09:14",
             "RankAll": "7592",
+            "RankCat": "382",
             "NetTime": "05:05:45"
         },
         {
             "Bibnr": "2378",
             "Name": "陳又瑄",
+            "Category": "女30-39歲",
             "OfficialTime": "05:09:24",
             "RankAll": "7593",
+            "RankCat": "354",
             "NetTime": "05:03:12"
         },
         {
             "Bibnr": "1396",
             "Name": "Tienlu Chang",
+            "Category": "男60歲+",
             "OfficialTime": "05:09:24",
             "RankAll": "7594",
+            "RankCat": "359",
             "NetTime": "05:04:49"
         },
         {
             "Bibnr": "5041",
             "Name": "黃欽偉",
+            "Category": "男30-39歲",
             "OfficialTime": "05:09:26",
             "RankAll": "7595",
+            "RankCat": "1451",
             "NetTime": "05:04:13"
         },
         {
             "Bibnr": "8056",
             "Name": "莊毓裕",
+            "Category": "男50-59歲",
             "OfficialTime": "05:09:26",
             "RankAll": "7596",
+            "RankCat": "1394",
             "NetTime": "05:09:14"
         },
         {
             "Bibnr": "10453",
             "Name": "黃揚熙",
+            "Category": "男20-29歲",
             "OfficialTime": "05:09:28",
             "RankAll": "7597",
+            "RankCat": "348",
             "NetTime": "05:06:19"
         },
         {
             "Bibnr": "7585",
             "Name": "王德政",
+            "Category": "男50-59歲",
             "OfficialTime": "05:09:28",
             "RankAll": "7598",
+            "RankCat": "1395",
             "NetTime": "05:04:45"
         },
         {
             "Bibnr": "1670",
             "Name": "王裕森",
+            "Category": "男40-49歲",
             "OfficialTime": "05:09:32",
             "RankAll": "7599",
+            "RankCat": "2447",
             "NetTime": "05:03:54"
         },
         {
             "Bibnr": "11643",
             "Name": "曾文楷",
+            "Category": "男40-49歲",
             "OfficialTime": "05:09:33",
             "RankAll": "7600",
+            "RankCat": "2448",
             "NetTime": "05:08:05"
         },
         {
             "Bibnr": "4742",
             "Name": "蔡義雄",
+            "Category": "男60歲+",
             "OfficialTime": "05:09:35",
             "RankAll": "7601",
+            "RankCat": "360",
             "NetTime": "05:03:54"
         },
         {
             "Bibnr": "7420",
             "Name": "方信原",
+            "Category": "男50-59歲",
             "OfficialTime": "05:09:36",
             "RankAll": "7602",
+            "RankCat": "1396",
             "NetTime": "05:03:57"
         },
         {
             "Bibnr": "6141",
             "Name": "鄭權偉",
+            "Category": "男40-49歲",
             "OfficialTime": "05:09:38",
             "RankAll": "7603",
+            "RankCat": "2449",
             "NetTime": "05:04:31"
         },
         {
             "Bibnr": "13224",
             "Name": "姜宏達",
+            "Category": "男50-59歲",
             "OfficialTime": "05:09:41",
             "RankAll": "7604",
+            "RankCat": "1397",
             "NetTime": "05:04:17"
         },
         {
             "Bibnr": "13099",
             "Name": "余福德",
+            "Category": "男50-59歲",
             "OfficialTime": "05:09:42",
             "RankAll": "7605",
+            "RankCat": "1398",
             "NetTime": "05:03:28"
         },
         {
             "Bibnr": "12529",
             "Name": "郭家昌",
+            "Category": "男50-59歲",
             "OfficialTime": "05:09:42",
             "RankAll": "7606",
+            "RankCat": "1399",
             "NetTime": "05:07:58"
         },
         {
             "Bibnr": "5346",
             "Name": "劉星杭",
+            "Category": "男20-29歲",
             "OfficialTime": "05:09:43",
             "RankAll": "7607",
+            "RankCat": "349",
             "NetTime": "05:04:08"
         },
         {
             "Bibnr": "4216",
             "Name": "李嘉玲",
+            "Category": "女50-59歲",
             "OfficialTime": "05:09:44",
             "RankAll": "7608",
+            "RankCat": "383",
             "NetTime": "05:05:31"
         },
         {
             "Bibnr": "6333",
             "Name": "潘孝霖",
+            "Category": "男30-39歲",
             "OfficialTime": "05:09:44",
             "RankAll": "7609",
+            "RankCat": "1452",
             "NetTime": "05:04:06"
         },
         {
             "Bibnr": "12263",
             "Name": "韓心偉",
+            "Category": "男60歲+",
             "OfficialTime": "05:09:44",
             "RankAll": "7610",
+            "RankCat": "361",
             "NetTime": "05:08:00"
         },
         {
             "Bibnr": "4412",
             "Name": "謝隆儼",
+            "Category": "女60歲+",
             "OfficialTime": "05:09:45",
             "RankAll": "7611",
+            "RankCat": "48",
             "NetTime": "05:08:01"
         },
         {
             "Bibnr": "7076",
             "Name": "鄭宇舜",
+            "Category": "男30-39歲",
             "OfficialTime": "05:09:48",
             "RankAll": "7612",
+            "RankCat": "1453",
             "NetTime": "05:03:44"
         },
         {
             "Bibnr": "4343",
             "Name": "林雅雯",
+            "Category": "女40-49歲",
             "OfficialTime": "05:09:50",
             "RankAll": "7613",
+            "RankCat": "691",
             "NetTime": "05:03:41"
         },
         {
             "Bibnr": "4074",
             "Name": "FUKUDA RIE",
+            "Category": "女50-59歲",
             "OfficialTime": "05:09:53",
             "RankAll": "7614",
+            "RankCat": "384",
             "NetTime": "05:05:41"
         },
         {
             "Bibnr": "10667",
             "Name": "FUKUDA MICHINOBU",
+            "Category": "男50-59歲",
             "OfficialTime": "05:09:53",
             "RankAll": "7615",
+            "RankCat": "1400",
             "NetTime": "05:05:41"
         },
         {
             "Bibnr": "11056",
             "Name": "YASUDA SHUHEI",
+            "Category": "男30-39歲",
             "OfficialTime": "05:09:55",
             "RankAll": "7616",
+            "RankCat": "1454",
             "NetTime": "05:05:37"
         },
         {
             "Bibnr": "11112",
             "Name": "MATSUDA ATO",
+            "Category": "男20-29歲",
             "OfficialTime": "05:10:09",
             "RankAll": "7617",
+            "RankCat": "350",
             "NetTime": "05:07:24"
         },
         {
             "Bibnr": "11455",
             "Name": "沈俊志",
+            "Category": "男40-49歲",
             "OfficialTime": "05:10:13",
             "RankAll": "7618",
+            "RankCat": "2450",
             "NetTime": "05:07:05"
         },
         {
             "Bibnr": "4060",
             "Name": "鄭蒼田",
+            "Category": "女50-59歲",
             "OfficialTime": "05:10:14",
             "RankAll": "7619",
+            "RankCat": "385",
             "NetTime": "05:06:45"
         },
         {
             "Bibnr": "11599",
             "Name": "林哲賢",
+            "Category": "男40-49歲",
             "OfficialTime": "05:10:15",
             "RankAll": "7620",
+            "RankCat": "2451",
             "NetTime": "05:06:38"
         },
         {
             "Bibnr": "4119",
             "Name": "ISHIDA YUKA",
+            "Category": "女40-49歲",
             "OfficialTime": "05:10:15",
             "RankAll": "7621",
+            "RankCat": "692",
             "NetTime": "05:07:05"
         },
         {
             "Bibnr": "5116",
             "Name": "蔡宗典",
+            "Category": "男50-59歲",
             "OfficialTime": "05:10:15",
             "RankAll": "7622",
+            "RankCat": "1401",
             "NetTime": "05:06:11"
         },
         {
             "Bibnr": "2110",
             "Name": "邱淑芬",
+            "Category": "女50-59歲",
             "OfficialTime": "05:10:16",
             "RankAll": "7623",
+            "RankCat": "386",
             "NetTime": "05:06:38"
         },
         {
             "Bibnr": "5612",
             "Name": "楊祥忍",
+            "Category": "男50-59歲",
             "OfficialTime": "05:10:17",
             "RankAll": "7624",
+            "RankCat": "1402",
             "NetTime": "05:04:41"
         },
         {
             "Bibnr": "3247",
             "Name": "傅月杏",
+            "Category": "女40-49歲",
             "OfficialTime": "05:10:20",
             "RankAll": "7625",
+            "RankCat": "693",
             "NetTime": "05:05:30"
         },
         {
             "Bibnr": "4615",
             "Name": "陳彥甫",
+            "Category": "男40-49歲",
             "OfficialTime": "05:10:20",
             "RankAll": "7626",
+            "RankCat": "2452",
             "NetTime": "05:05:14"
         },
         {
             "Bibnr": "13243",
             "Name": "吳浩然",
+            "Category": "男60歲+",
             "OfficialTime": "05:10:21",
             "RankAll": "7627",
+            "RankCat": "362",
             "NetTime": "05:06:25"
         },
         {
             "Bibnr": "4380",
             "Name": "黃翊竹",
+            "Category": "女20-29歲",
             "OfficialTime": "05:10:25",
             "RankAll": "7628",
+            "RankCat": "86",
             "NetTime": "05:04:42"
         },
         {
             "Bibnr": "1532",
             "Name": "蕭欽松",
+            "Category": "男40-49歲",
             "OfficialTime": "05:10:26",
             "RankAll": "7629",
+            "RankCat": "2453",
             "NetTime": "05:04:58"
         },
         {
             "Bibnr": "7383",
             "Name": "楊敏雄",
+            "Category": "男40-49歲",
             "OfficialTime": "05:10:28",
             "RankAll": "7630",
+            "RankCat": "2454",
             "NetTime": "05:04:37"
         },
         {
             "Bibnr": "2071",
             "Name": "HONOKA ENJOJI",
+            "Category": "女20-29歲",
             "OfficialTime": "05:10:28",
             "RankAll": "7631",
+            "RankCat": "87",
             "NetTime": "05:04:44"
         },
         {
             "Bibnr": "5386",
             "Name": "林景源",
+            "Category": "男50-59歲",
             "OfficialTime": "05:10:29",
             "RankAll": "7632",
+            "RankCat": "1403",
             "NetTime": "05:04:35"
         },
         {
             "Bibnr": "4344",
             "Name": "范莛敔",
+            "Category": "女30-39歲",
             "OfficialTime": "05:10:36",
             "RankAll": "7633",
+            "RankCat": "355",
             "NetTime": "05:05:40"
         },
         {
             "Bibnr": "5721",
             "Name": "許明煌",
+            "Category": "男50-59歲",
             "OfficialTime": "05:10:36",
             "RankAll": "7634",
+            "RankCat": "1404",
             "NetTime": "05:05:15"
         },
         {
             "Bibnr": "12772",
             "Name": "林孟璋",
+            "Category": "男50-59歲",
             "OfficialTime": "05:10:36",
             "RankAll": "7635",
+            "RankCat": "1405",
             "NetTime": "05:08:04"
         },
         {
             "Bibnr": "1054",
             "Name": "Cheng Man Lai",
+            "Category": "女30-39歲",
             "OfficialTime": "05:10:37",
             "RankAll": "7636",
+            "RankCat": "356",
             "NetTime": "05:07:08"
         },
         {
             "Bibnr": "1173",
             "Name": "陳維綸",
+            "Category": "男40-49歲",
             "OfficialTime": "05:10:39",
             "RankAll": "7637",
+            "RankCat": "2455",
             "NetTime": "05:05:05"
         },
         {
             "Bibnr": "3172",
             "Name": "黃怡儒",
+            "Category": "女40-49歲",
             "OfficialTime": "05:10:41",
             "RankAll": "7638",
+            "RankCat": "694",
             "NetTime": "05:06:13"
         },
         {
             "Bibnr": "5714",
             "Name": "黃光群",
+            "Category": "男30-39歲",
             "OfficialTime": "05:10:43",
             "RankAll": "7639",
+            "RankCat": "1455",
             "NetTime": "05:04:27"
         },
         {
             "Bibnr": "5231",
             "Name": "林俊宏",
+            "Category": "男30-39歲",
             "OfficialTime": "05:10:47",
             "RankAll": "7640",
+            "RankCat": "1456",
             "NetTime": "05:05:47"
         },
         {
             "Bibnr": "4271",
             "Name": "劉香蘭",
+            "Category": "女60歲+",
             "OfficialTime": "05:10:47",
             "RankAll": "7641",
+            "RankCat": "49",
             "NetTime": "05:08:26"
         },
         {
             "Bibnr": "12386",
             "Name": "林政德",
+            "Category": "男50-59歲",
             "OfficialTime": "05:10:54",
             "RankAll": "7642",
+            "RankCat": "1406",
             "NetTime": "05:04:59"
         },
         {
             "Bibnr": "6062",
             "Name": "陳昱縢",
+            "Category": "男30-39歲",
             "OfficialTime": "05:10:56",
             "RankAll": "7643",
+            "RankCat": "1457",
             "NetTime": "05:05:27"
         },
         {
             "Bibnr": "6737",
             "Name": "李冠霆",
+            "Category": "男20-29歲",
             "OfficialTime": "05:10:56",
             "RankAll": "7644",
+            "RankCat": "351",
             "NetTime": "05:05:41"
         },
         {
             "Bibnr": "12595",
             "Name": "夏國雄",
+            "Category": "男50-59歲",
             "OfficialTime": "05:10:59",
             "RankAll": "7645",
+            "RankCat": "1407",
             "NetTime": "05:08:00"
         },
         {
             "Bibnr": "12083",
             "Name": "吳易澄",
+            "Category": "男20-29歲",
             "OfficialTime": "05:11:00",
             "RankAll": "7646",
+            "RankCat": "352",
             "NetTime": "05:07:42"
         },
         {
             "Bibnr": "13424",
             "Name": "張介綸",
+            "Category": "男40-49歲",
             "OfficialTime": "05:11:00",
             "RankAll": "7647",
+            "RankCat": "2456",
             "NetTime": "05:05:16"
         },
         {
             "Bibnr": "4235",
             "Name": "王麗冠",
+            "Category": "女50-59歲",
             "OfficialTime": "05:11:02",
             "RankAll": "7648",
+            "RankCat": "387",
             "NetTime": "05:06:41"
         },
         {
             "Bibnr": "11462",
             "Name": "周漢威",
+            "Category": "男40-49歲",
             "OfficialTime": "05:11:04",
             "RankAll": "7649",
+            "RankCat": "2457",
             "NetTime": "05:06:35"
         },
         {
             "Bibnr": "5636",
             "Name": "梁晏馗",
+            "Category": "男30-39歲",
             "OfficialTime": "05:11:05",
             "RankAll": "7650",
+            "RankCat": "1458",
             "NetTime": "05:05:03"
         },
         {
             "Bibnr": "11493",
             "Name": "陳威宏",
+            "Category": "男40-49歲",
             "OfficialTime": "05:11:05",
             "RankAll": "7651",
+            "RankCat": "2458",
             "NetTime": "05:07:40"
         },
         {
             "Bibnr": "4445",
             "Name": "劉睿媛",
+            "Category": "女40-49歲",
             "OfficialTime": "05:11:07",
             "RankAll": "7652",
+            "RankCat": "695",
             "NetTime": "05:05:22"
         },
         {
             "Bibnr": "13005",
             "Name": "許文正",
+            "Category": "男50-59歲",
             "OfficialTime": "05:11:08",
             "RankAll": "7653",
+            "RankCat": "1408",
             "NetTime": "05:07:11"
         },
         {
             "Bibnr": "6636",
             "Name": "蘇逸華",
+            "Category": "男20-29歲",
             "OfficialTime": "05:11:08",
             "RankAll": "7654",
+            "RankCat": "353",
             "NetTime": "05:06:56"
         },
         {
             "Bibnr": "2176",
             "Name": "吳瓊慧",
+            "Category": "女40-49歲",
             "OfficialTime": "05:11:09",
             "RankAll": "7655",
+            "RankCat": "696",
             "NetTime": "05:05:24"
         },
         {
             "Bibnr": "13369",
             "Name": "吳宗諭",
+            "Category": "男30-39歲",
             "OfficialTime": "05:11:09",
             "RankAll": "7656",
+            "RankCat": "1459",
             "NetTime": "05:06:11"
         },
         {
             "Bibnr": "12128",
             "Name": "林世宗",
+            "Category": "男30-39歲",
             "OfficialTime": "05:11:10",
             "RankAll": "7657",
+            "RankCat": "1460",
             "NetTime": "05:05:22"
         },
         {
             "Bibnr": "13098",
             "Name": "蔡德淵",
+            "Category": "男50-59歲",
             "OfficialTime": "05:11:13",
             "RankAll": "7658",
+            "RankCat": "1409",
             "NetTime": "05:05:33"
         },
         {
             "Bibnr": "5687",
             "Name": "吳季謙",
+            "Category": "男30-39歲",
             "OfficialTime": "05:11:17",
             "RankAll": "7659",
+            "RankCat": "1461",
             "NetTime": "05:06:26"
         },
         {
             "Bibnr": "2105",
             "Name": "李茗宜",
+            "Category": "女30-39歲",
             "OfficialTime": "05:11:20",
             "RankAll": "7660",
+            "RankCat": "357",
             "NetTime": "05:06:48"
         },
         {
             "Bibnr": "11644",
             "Name": "鍾沛勳",
+            "Category": "男40-49歲",
             "OfficialTime": "05:11:22",
             "RankAll": "7661",
+            "RankCat": "2459",
             "NetTime": "05:08:05"
         },
         {
             "Bibnr": "7056",
             "Name": "莊秉軒",
+            "Category": "男30-39歲",
             "OfficialTime": "05:11:22",
             "RankAll": "7662",
+            "RankCat": "1462",
             "NetTime": "05:06:04"
         },
         {
             "Bibnr": "2075",
             "Name": "莊惟安",
+            "Category": "女30-39歲",
             "OfficialTime": "05:11:23",
             "RankAll": "7663",
+            "RankCat": "358",
             "NetTime": "05:07:43"
         },
         {
             "Bibnr": "4229",
             "Name": "蔡婉萍",
+            "Category": "女50-59歲",
             "OfficialTime": "05:11:23",
             "RankAll": "7664",
+            "RankCat": "388",
             "NetTime": "05:07:41"
         },
         {
             "Bibnr": "2039",
             "Name": "黃惠玲",
+            "Category": "女40-49歲",
             "OfficialTime": "05:11:25",
             "RankAll": "7665",
+            "RankCat": "697",
             "NetTime": "05:05:51"
         },
         {
             "Bibnr": "11166",
             "Name": "CHAIT SUWANNARAT",
+            "Category": "男40-49歲",
             "OfficialTime": "05:11:26",
             "RankAll": "7666",
+            "RankCat": "2460",
             "NetTime": "05:08:58"
         },
         {
             "Bibnr": "11386",
             "Name": "王笙安",
+            "Category": "男30-39歲",
             "OfficialTime": "05:11:36",
             "RankAll": "7667",
+            "RankCat": "1463",
             "NetTime": "05:07:42"
         },
         {
             "Bibnr": "1365",
             "Name": "謝佩儒",
+            "Category": "男30-39歲",
             "OfficialTime": "05:11:39",
             "RankAll": "7668",
+            "RankCat": "1464",
             "NetTime": "05:05:27"
         },
         {
             "Bibnr": "6619",
             "Name": "黃立谷",
+            "Category": "男60歲+",
             "OfficialTime": "05:11:41",
             "RankAll": "7669",
+            "RankCat": "363",
             "NetTime": "05:06:32"
         },
         {
             "Bibnr": "6180",
             "Name": "馮錫麟",
+            "Category": "男60歲+",
             "OfficialTime": "05:11:44",
             "RankAll": "7670",
+            "RankCat": "364",
             "NetTime": "05:06:46"
         },
         {
             "Bibnr": "2474",
             "Name": "許伊婷",
+            "Category": "女40-49歲",
             "OfficialTime": "05:11:49",
             "RankAll": "7671",
+            "RankCat": "698",
             "NetTime": "05:07:22"
         },
         {
             "Bibnr": "5112",
             "Name": "林奕德",
+            "Category": "男40-49歲",
             "OfficialTime": "05:11:49",
             "RankAll": "7672",
+            "RankCat": "2461",
             "NetTime": "05:07:22"
         },
         {
             "Bibnr": "12213",
             "Name": "朱禹齊",
+            "Category": "男40-49歲",
             "OfficialTime": "05:11:53",
             "RankAll": "7673",
+            "RankCat": "2462",
             "NetTime": "05:05:54"
         },
         {
             "Bibnr": "4092",
             "Name": "IWASE SHIGEMI",
+            "Category": "女60歲+",
             "OfficialTime": "05:11:56",
             "RankAll": "7674",
+            "RankCat": "50",
             "NetTime": "05:09:29"
         },
         {
             "Bibnr": "2265",
             "Name": "王昭玉",
+            "Category": "女40-49歲",
             "OfficialTime": "05:11:57",
             "RankAll": "7675",
+            "RankCat": "699",
             "NetTime": "05:07:10"
         },
         {
             "Bibnr": "11640",
             "Name": "黎克樂",
+            "Category": "男50-59歲",
             "OfficialTime": "05:12:00",
             "RankAll": "7676",
+            "RankCat": "1410",
             "NetTime": "05:05:50"
         },
         {
             "Bibnr": "11630",
             "Name": "許航紹",
+            "Category": "男40-49歲",
             "OfficialTime": "05:12:01",
             "RankAll": "7677",
+            "RankCat": "2463",
             "NetTime": "05:05:56"
         },
         {
             "Bibnr": "11629",
             "Name": "許順榮",
+            "Category": "男50-59歲",
             "OfficialTime": "05:12:01",
             "RankAll": "7678",
+            "RankCat": "1411",
             "NetTime": "05:06:18"
         },
         {
             "Bibnr": "4426",
             "Name": "程幻幻",
+            "Category": "女60歲+",
             "OfficialTime": "05:12:05",
             "RankAll": "7679",
+            "RankCat": "51",
             "NetTime": "05:05:57"
         },
         {
             "Bibnr": "7322",
             "Name": "李一諺",
+            "Category": "男20-29歲",
             "OfficialTime": "05:12:05",
             "RankAll": "7680",
+            "RankCat": "354",
             "NetTime": "05:10:29"
         },
         {
             "Bibnr": "10477",
             "Name": "Eric Nguyen",
+            "Category": "男30-39歲",
             "OfficialTime": "05:12:06",
             "RankAll": "7681",
+            "RankCat": "1465",
             "NetTime": "05:08:15"
         },
         {
             "Bibnr": "11719",
             "Name": "林儒寬",
+            "Category": "男30-39歲",
             "OfficialTime": "05:12:10",
             "RankAll": "7682",
+            "RankCat": "1466",
             "NetTime": "05:08:41"
         },
         {
             "Bibnr": "5108",
             "Name": "張政仁",
+            "Category": "男50-59歲",
             "OfficialTime": "05:12:10",
             "RankAll": "7683",
+            "RankCat": "1412",
             "NetTime": "05:06:05"
         },
         {
             "Bibnr": "7410",
             "Name": "羅炘宥",
+            "Category": "男30-39歲",
             "OfficialTime": "05:12:12",
             "RankAll": "7684",
+            "RankCat": "1467",
             "NetTime": "05:07:10"
         },
         {
             "Bibnr": "12110",
             "Name": "周冠佑",
+            "Category": "男40-49歲",
             "OfficialTime": "05:12:16",
             "RankAll": "7685",
+            "RankCat": "2464",
             "NetTime": "05:09:02"
         },
         {
             "Bibnr": "4039",
             "Name": "JENELYN BALILI",
+            "Category": "女30-39歲",
             "OfficialTime": "05:12:16",
             "RankAll": "7686",
+            "RankCat": "359",
             "NetTime": "05:08:44"
         },
         {
             "Bibnr": "9312",
             "Name": "謝昌熹",
+            "Category": "男40-49歲",
             "OfficialTime": "05:12:19",
             "RankAll": "7687",
+            "RankCat": "2465",
             "NetTime": "05:11:45"
         },
         {
             "Bibnr": "11058",
             "Name": "PENG CHEN",
+            "Category": "男30-39歲",
             "OfficialTime": "05:12:20",
             "RankAll": "7688",
+            "RankCat": "1468",
             "NetTime": "05:09:48"
         },
         {
             "Bibnr": "4619",
             "Name": "王至德",
+            "Category": "男40-49歲",
             "OfficialTime": "05:12:28",
             "RankAll": "7689",
+            "RankCat": "2466",
             "NetTime": "05:06:29"
         },
         {
             "Bibnr": "5439",
             "Name": "邱志偉",
+            "Category": "男50-59歲",
             "OfficialTime": "05:12:29",
             "RankAll": "7690",
+            "RankCat": "1413",
             "NetTime": "05:08:16"
         },
         {
             "Bibnr": "11114",
             "Name": "JINNOUCHI MIRAI",
+            "Category": "男20-29歲",
             "OfficialTime": "05:12:31",
             "RankAll": "7691",
+            "RankCat": "355",
             "NetTime": "05:09:29"
         },
         {
             "Bibnr": "11024",
             "Name": "米田憲史",
+            "Category": "男60歲+",
             "OfficialTime": "05:12:33",
             "RankAll": "7692",
+            "RankCat": "365",
             "NetTime": "05:09:09"
         },
         {
             "Bibnr": "6139",
             "Name": "陳佳明",
+            "Category": "男50-59歲",
             "OfficialTime": "05:12:34",
             "RankAll": "7693",
+            "RankCat": "1414",
             "NetTime": "05:07:18"
         },
         {
             "Bibnr": "4108",
             "Name": "HORI NAOMI",
+            "Category": "女30-39歲",
             "OfficialTime": "05:12:35",
             "RankAll": "7694",
+            "RankCat": "360",
             "NetTime": "05:08:44"
         },
         {
             "Bibnr": "12716",
             "Name": "吳錫欽",
+            "Category": "男40-49歲",
             "OfficialTime": "05:12:36",
             "RankAll": "7695",
+            "RankCat": "2467",
             "NetTime": "05:06:23"
         },
         {
             "Bibnr": "6495",
             "Name": "賴柏瑾",
+            "Category": "男20-29歲",
             "OfficialTime": "05:12:37",
             "RankAll": "7696",
+            "RankCat": "356",
             "NetTime": "05:08:31"
         },
         {
             "Bibnr": "4502",
             "Name": "趙雲",
+            "Category": "女30-39歲",
             "OfficialTime": "05:12:41",
             "RankAll": "7697",
+            "RankCat": "361",
             "NetTime": "05:06:50"
         },
         {
             "Bibnr": "4049",
             "Name": "鄧藹琳",
+            "Category": "女40-49歲",
             "OfficialTime": "05:12:42",
             "RankAll": "7698",
+            "RankCat": "700",
             "NetTime": "05:11:05"
         },
         {
             "Bibnr": "13008",
             "Name": "郭耀庭",
+            "Category": "男40-49歲",
             "OfficialTime": "05:12:43",
             "RankAll": "7699",
+            "RankCat": "2468",
             "NetTime": "05:07:44"
         },
         {
             "Bibnr": "5311",
             "Name": "簡境男",
+            "Category": "男40-49歲",
             "OfficialTime": "05:12:44",
             "RankAll": "7700",
+            "RankCat": "2469",
             "NetTime": "05:07:55"
         },
         {
             "Bibnr": "2089",
             "Name": "李麗華",
+            "Category": "女50-59歲",
             "OfficialTime": "05:12:45",
             "RankAll": "7701",
+            "RankCat": "389",
             "NetTime": "05:07:32"
         },
         {
             "Bibnr": "2034",
             "Name": "Kum Fui Lee",
+            "Category": "女50-59歲",
             "OfficialTime": "05:12:45",
             "RankAll": "7702",
+            "RankCat": "390",
             "NetTime": "05:07:31"
         },
         {
             "Bibnr": "6251",
             "Name": "林憲文",
+            "Category": "男50-59歲",
             "OfficialTime": "05:12:49",
             "RankAll": "7703",
+            "RankCat": "1415",
             "NetTime": "05:06:40"
         },
         {
             "Bibnr": "11014",
             "Name": "MURATA KENICHIRO",
+            "Category": "男50-59歲",
             "OfficialTime": "05:12:52",
             "RankAll": "7704",
+            "RankCat": "1416",
             "NetTime": "05:11:14"
         },
         {
             "Bibnr": "12795",
             "Name": "虞忠明",
+            "Category": "男60歲+",
             "OfficialTime": "05:12:53",
             "RankAll": "7705",
+            "RankCat": "366",
             "NetTime": "05:06:46"
         },
         {
             "Bibnr": "2219",
             "Name": "李麗君",
+            "Category": "女50-59歲",
             "OfficialTime": "05:12:54",
             "RankAll": "7706",
+            "RankCat": "391",
             "NetTime": "05:07:40"
         },
         {
             "Bibnr": "4157",
             "Name": "林宜蓁",
+            "Category": "女20-29歲",
             "OfficialTime": "05:12:55",
             "RankAll": "7707",
+            "RankCat": "88",
             "NetTime": "05:10:22"
         },
         {
             "Bibnr": "12314",
             "Name": "韓曉鐘",
+            "Category": "男60歲+",
             "OfficialTime": "05:12:57",
             "RankAll": "7708",
+            "RankCat": "367",
             "NetTime": "05:09:53"
         },
         {
             "Bibnr": "4568",
             "Name": "王盈淳",
+            "Category": "女30-39歲",
             "OfficialTime": "05:12:57",
             "RankAll": "7709",
+            "RankCat": "362",
             "NetTime": "05:11:48"
         },
         {
             "Bibnr": "11589",
             "Name": "李國威",
+            "Category": "男50-59歲",
             "OfficialTime": "05:13:01",
             "RankAll": "7710",
+            "RankCat": "1417",
             "NetTime": "05:11:21"
         },
         {
             "Bibnr": "4402",
             "Name": "宋逸璇",
+            "Category": "女50-59歲",
             "OfficialTime": "05:13:02",
             "RankAll": "7711",
+            "RankCat": "392",
             "NetTime": "05:08:15"
         },
         {
             "Bibnr": "11604",
             "Name": "王伯松",
+            "Category": "男60歲+",
             "OfficialTime": "05:13:05",
             "RankAll": "7712",
+            "RankCat": "368",
             "NetTime": "05:09:12"
         },
         {
             "Bibnr": "7528",
             "Name": "Adhitya Putra Pradana",
+            "Category": "男20-29歲",
             "OfficialTime": "05:13:06",
             "RankAll": "7713",
+            "RankCat": "357",
             "NetTime": "05:07:12"
         },
         {
             "Bibnr": "13371",
             "Name": "許正曉",
+            "Category": "男50-59歲",
             "OfficialTime": "05:13:06",
             "RankAll": "7714",
+            "RankCat": "1418",
             "NetTime": "05:07:38"
         },
         {
             "Bibnr": "5056",
             "Name": "康秉豐",
+            "Category": "男30-39歲",
             "OfficialTime": "05:13:08",
             "RankAll": "7715",
+            "RankCat": "1469",
             "NetTime": "05:07:21"
         },
         {
             "Bibnr": "11564",
             "Name": "卓靖倫",
+            "Category": "男40-49歲",
             "OfficialTime": "05:13:09",
             "RankAll": "7716",
+            "RankCat": "2470",
             "NetTime": "05:10:43"
         },
         {
             "Bibnr": "6129",
             "Name": "詹德仁",
+            "Category": "男40-49歲",
             "OfficialTime": "05:13:13",
             "RankAll": "7717",
+            "RankCat": "2471",
             "NetTime": "05:07:51"
         },
         {
             "Bibnr": "5485",
             "Name": "楊凱全",
+            "Category": "男40-49歲",
             "OfficialTime": "05:13:15",
             "RankAll": "7718",
+            "RankCat": "2472",
             "NetTime": "05:07:08"
         },
         {
             "Bibnr": "13358",
             "Name": "周泰平",
+            "Category": "男50-59歲",
             "OfficialTime": "05:13:15",
             "RankAll": "7719",
+            "RankCat": "1419",
             "NetTime": "05:11:54"
         },
         {
             "Bibnr": "6176",
             "Name": "LOO KA MING",
+            "Category": "男40-49歲",
             "OfficialTime": "05:13:16",
             "RankAll": "7720",
+            "RankCat": "2473",
             "NetTime": "05:09:03"
         },
         {
             "Bibnr": "7036",
             "Name": "賴明志",
+            "Category": "男40-49歲",
             "OfficialTime": "05:13:23",
             "RankAll": "7721",
+            "RankCat": "2474",
             "NetTime": "05:08:30"
         },
         {
             "Bibnr": "13442",
             "Name": "陳裕勝",
+            "Category": "男50-59歲",
             "OfficialTime": "05:13:23",
             "RankAll": "7722",
+            "RankCat": "1420",
             "NetTime": "05:07:45"
         },
         {
             "Bibnr": "1044",
             "Name": "Grace Chu",
+            "Category": "女50-59歲",
             "OfficialTime": "05:13:24",
             "RankAll": "7723",
+            "RankCat": "393",
             "NetTime": "05:08:17"
         },
         {
             "Bibnr": "2324",
             "Name": "李妍緹",
+            "Category": "女20-29歲",
             "OfficialTime": "05:13:25",
             "RankAll": "7724",
+            "RankCat": "89",
             "NetTime": "05:11:59"
         },
         {
             "Bibnr": "4222",
             "Name": "林盈君",
+            "Category": "女40-49歲",
             "OfficialTime": "05:13:28",
             "RankAll": "7725",
+            "RankCat": "701",
             "NetTime": "05:11:15"
         },
         {
             "Bibnr": "2392",
             "Name": "温祐靖 戴雷",
+            "Category": "女視障選手",
             "OfficialTime": "05:13:31",
             "RankAll": "7726",
+            "RankCat": "2",
             "NetTime": "05:10:30"
         },
         {
             "Bibnr": "1465",
             "Name": "曾政傑",
+            "Category": "男40-49歲",
             "OfficialTime": "05:13:32",
             "RankAll": "7727",
+            "RankCat": "2475",
             "NetTime": "05:07:32"
         },
         {
             "Bibnr": "4132",
             "Name": "TAKEI FUKA",
+            "Category": "女20-29歲",
             "OfficialTime": "05:13:32",
             "RankAll": "7728",
+            "RankCat": "90",
             "NetTime": "05:11:38"
         },
         {
             "Bibnr": "6417",
             "Name": "謝廷笙",
+            "Category": "男20-29歲",
             "OfficialTime": "05:13:34",
             "RankAll": "7729",
+            "RankCat": "358",
             "NetTime": "05:08:07"
+        },
+        {
+            "Bibnr": "6488",
+            "Name": "Yu Kai Chiu",
+            "Category": "男60歲+",
+            "OfficialTime": "05:13:34",
+            "RankAll": "7729",
+            "RankCat": "368",
+            "NetTime": "05:08:41"
         },
         {
             "Bibnr": "4537",
             "Name": "吳佳穎",
+            "Category": "女40-49歲",
             "OfficialTime": "05:13:34",
             "RankAll": "7730",
+            "RankCat": "702",
             "NetTime": "05:07:47"
         },
         {
             "Bibnr": "4070",
             "Name": "陸翠儀",
+            "Category": "女40-49歲",
             "OfficialTime": "05:13:34",
             "RankAll": "7731",
+            "RankCat": "703",
             "NetTime": "05:10:19"
         },
         {
             "Bibnr": "5450",
             "Name": "蘇柏瑋",
+            "Category": "男30-39歲",
             "OfficialTime": "05:13:35",
             "RankAll": "7732",
+            "RankCat": "1470",
             "NetTime": "05:08:04"
         },
         {
             "Bibnr": "7168",
             "Name": "賴奕文",
+            "Category": "男50-59歲",
             "OfficialTime": "05:13:35",
             "RankAll": "7733",
+            "RankCat": "1421",
             "NetTime": "05:08:41"
         },
         {
             "Bibnr": "4122",
             "Name": "MAEJIMA KANA",
+            "Category": "女20-29歲",
             "OfficialTime": "05:13:37",
             "RankAll": "7734",
+            "RankCat": "91",
             "NetTime": "05:09:47"
         },
         {
             "Bibnr": "4665",
             "Name": "簡上棋",
+            "Category": "男40-49歲",
             "OfficialTime": "05:13:39",
             "RankAll": "7735",
+            "RankCat": "2476",
             "NetTime": "05:09:27"
         },
         {
             "Bibnr": "11229",
             "Name": "吳永南",
+            "Category": "男50-59歲",
             "OfficialTime": "05:13:40",
             "RankAll": "7736",
+            "RankCat": "1422",
             "NetTime": "05:09:54"
         },
         {
             "Bibnr": "7414",
             "Name": "陳榮富",
+            "Category": "男60歲+",
             "OfficialTime": "05:13:40",
             "RankAll": "7737",
+            "RankCat": "369",
             "NetTime": "05:09:31"
         },
         {
             "Bibnr": "1331",
             "Name": "冼俊傑",
+            "Category": "男30-39歲",
             "OfficialTime": "05:13:42",
             "RankAll": "7738",
+            "RankCat": "1471",
             "NetTime": "05:12:19"
         },
         {
             "Bibnr": "4529",
             "Name": "劉美銀",
+            "Category": "女50-59歲",
             "OfficialTime": "05:13:44",
             "RankAll": "7739",
+            "RankCat": "394",
             "NetTime": "05:09:19"
         },
         {
             "Bibnr": "1013",
             "Name": "王貞雯",
+            "Category": "女30-39歲",
             "OfficialTime": "05:13:47",
             "RankAll": "7740",
+            "RankCat": "363",
             "NetTime": "05:08:49"
         },
         {
             "Bibnr": "6319",
             "Name": "曾嘉祥",
+            "Category": "男40-49歲",
             "OfficialTime": "05:13:47",
             "RankAll": "7741",
+            "RankCat": "2477",
             "NetTime": "05:08:21"
         },
         {
             "Bibnr": "5480",
             "Name": "谷拉斯·以颯",
+            "Category": "男20-29歲",
             "OfficialTime": "05:13:49",
             "RankAll": "7742",
+            "RankCat": "359",
             "NetTime": "05:07:38"
         },
         {
             "Bibnr": "1599",
             "Name": "林宖潤",
+            "Category": "男20-29歲",
             "OfficialTime": "05:13:50",
             "RankAll": "7743",
+            "RankCat": "360",
             "NetTime": "05:08:34"
         },
         {
             "Bibnr": "3437",
             "Name": "吳敬婷",
+            "Category": "女30-39歲",
             "OfficialTime": "05:13:52",
             "RankAll": "7744",
+            "RankCat": "364",
             "NetTime": "05:10:18"
         },
         {
             "Bibnr": "13413",
             "Name": "林浩影",
+            "Category": "男30-39歲",
             "OfficialTime": "05:13:53",
             "RankAll": "7745",
+            "RankCat": "1472",
             "NetTime": "05:08:09"
         },
         {
             "Bibnr": "10738",
             "Name": "HATAKEYAMA AKIRA",
+            "Category": "男40-49歲",
             "OfficialTime": "05:13:54",
             "RankAll": "7746",
+            "RankCat": "2478",
             "NetTime": "05:09:11"
         },
         {
             "Bibnr": "12411",
             "Name": "姜坤杰",
+            "Category": "男30-39歲",
             "OfficialTime": "05:13:56",
             "RankAll": "7747",
+            "RankCat": "1473",
             "NetTime": "05:09:50"
         },
         {
             "Bibnr": "10649",
             "Name": "陳子文",
+            "Category": "男40-49歲",
             "OfficialTime": "05:14:00",
             "RankAll": "7748",
+            "RankCat": "2479",
             "NetTime": "05:10:10"
         },
         {
             "Bibnr": "7137",
             "Name": "陳琮湖",
+            "Category": "男30-39歲",
             "OfficialTime": "05:14:00",
             "RankAll": "7749",
+            "RankCat": "1474",
             "NetTime": "05:10:32"
         },
         {
             "Bibnr": "3451",
             "Name": "劉子萱",
+            "Category": "女50-59歲",
             "OfficialTime": "05:14:01",
             "RankAll": "7750",
+            "RankCat": "395",
             "NetTime": "05:08:52"
         },
         {
             "Bibnr": "2216",
             "Name": "李月娟",
+            "Category": "女50-59歲",
             "OfficialTime": "05:14:02",
             "RankAll": "7751",
+            "RankCat": "396",
             "NetTime": "05:09:53"
         },
         {
             "Bibnr": "12699",
             "Name": "黃永紳",
+            "Category": "男50-59歲",
             "OfficialTime": "05:14:09",
             "RankAll": "7752",
+            "RankCat": "1423",
             "NetTime": "05:08:22"
         },
         {
             "Bibnr": "4715",
             "Name": "Bryan Hon Ming Kwan",
+            "Category": "男40-49歲",
             "OfficialTime": "05:14:13",
             "RankAll": "7753",
+            "RankCat": "2480",
             "NetTime": "05:08:13"
         },
         {
             "Bibnr": "6637",
             "Name": "程顯恩",
+            "Category": "男20-29歲",
             "OfficialTime": "05:14:16",
             "RankAll": "7754",
+            "RankCat": "361",
             "NetTime": "05:08:30"
         },
         {
             "Bibnr": "6149",
             "Name": "武承平",
+            "Category": "男50-59歲",
             "OfficialTime": "05:14:18",
             "RankAll": "7755",
+            "RankCat": "1424",
             "NetTime": "05:08:29"
         },
         {
             "Bibnr": "2121",
             "Name": "黃俊梅",
+            "Category": "女50-59歲",
             "OfficialTime": "05:14:19",
             "RankAll": "7756",
+            "RankCat": "397",
             "NetTime": "05:08:21"
         },
         {
             "Bibnr": "5288",
             "Name": "陳志烜",
+            "Category": "男50-59歲",
             "OfficialTime": "05:14:21",
             "RankAll": "7757",
+            "RankCat": "1425",
             "NetTime": "05:08:54"
         },
         {
             "Bibnr": "1374",
             "Name": "Jun James Yu",
+            "Category": "男50-59歲",
             "OfficialTime": "05:14:23",
             "RankAll": "7758",
+            "RankCat": "1426",
             "NetTime": "05:08:51"
         },
         {
             "Bibnr": "11661",
             "Name": "吳榮發",
+            "Category": "男60歲+",
             "OfficialTime": "05:14:26",
             "RankAll": "7759",
+            "RankCat": "370",
             "NetTime": "05:08:46"
         },
         {
             "Bibnr": "2063",
             "Name": "劉佩怡",
+            "Category": "女50-59歲",
             "OfficialTime": "05:14:28",
             "RankAll": "7760",
+            "RankCat": "398",
             "NetTime": "05:10:04"
         },
         {
             "Bibnr": "1376",
             "Name": "羅永昌",
+            "Category": "男50-59歲",
             "OfficialTime": "05:14:29",
             "RankAll": "7761",
+            "RankCat": "1427",
             "NetTime": "05:08:40"
         },
         {
             "Bibnr": "13205",
             "Name": "林志祈",
+            "Category": "男40-49歲",
             "OfficialTime": "05:14:29",
             "RankAll": "7762",
+            "RankCat": "2481",
             "NetTime": "05:08:51"
         },
         {
             "Bibnr": "1673",
             "Name": "劉政乾",
+            "Category": "男40-49歲",
             "OfficialTime": "05:14:32",
             "RankAll": "7763",
+            "RankCat": "2482",
             "NetTime": "05:09:14"
         },
         {
             "Bibnr": "12158",
             "Name": "周建良",
+            "Category": "男50-59歲",
             "OfficialTime": "05:14:33",
             "RankAll": "7764",
+            "RankCat": "1428",
             "NetTime": "05:08:53"
         },
         {
             "Bibnr": "1349",
             "Name": "李文鴻",
+            "Category": "男30-39歲",
             "OfficialTime": "05:14:40",
             "RankAll": "7765",
+            "RankCat": "1475",
             "NetTime": "05:12:56"
         },
         {
             "Bibnr": "2058",
             "Name": "楊惠鈞",
+            "Category": "女40-49歲",
             "OfficialTime": "05:14:42",
             "RankAll": "7766",
+            "RankCat": "704",
             "NetTime": "05:10:01"
         },
         {
             "Bibnr": "4360",
             "Name": "林雅婷",
+            "Category": "女40-49歲",
             "OfficialTime": "05:14:49",
             "RankAll": "7767",
+            "RankCat": "705",
             "NetTime": "05:10:39"
         },
         {
             "Bibnr": "12136",
             "Name": "陳政宏",
+            "Category": "男50-59歲",
             "OfficialTime": "05:14:49",
             "RankAll": "7768",
+            "RankCat": "1429",
             "NetTime": "05:09:01"
         },
         {
             "Bibnr": "10643",
             "Name": "倪勇誠",
+            "Category": "男60歲+",
             "OfficialTime": "05:14:50",
             "RankAll": "7769",
+            "RankCat": "371",
             "NetTime": "05:13:21"
         },
         {
             "Bibnr": "2118",
             "Name": "吳奕林",
+            "Category": "女40-49歲",
             "OfficialTime": "05:14:50",
             "RankAll": "7770",
+            "RankCat": "706",
             "NetTime": "05:09:07"
         },
         {
             "Bibnr": "6343",
             "Name": "廖名顗",
+            "Category": "男40-49歲",
             "OfficialTime": "05:14:53",
             "RankAll": "7771",
+            "RankCat": "2483",
             "NetTime": "05:08:46"
         },
         {
             "Bibnr": "1638",
             "Name": "姚昀廷",
+            "Category": "男30-39歲",
             "OfficialTime": "05:14:55",
             "RankAll": "7772",
+            "RankCat": "1476",
             "NetTime": "05:08:45"
         },
         {
             "Bibnr": "3630",
             "Name": "潘麗汶",
+            "Category": "女40-49歲",
             "OfficialTime": "05:14:55",
             "RankAll": "7773",
+            "RankCat": "707",
             "NetTime": "05:10:55"
         },
         {
             "Bibnr": "12611",
             "Name": "包德康",
+            "Category": "男50-59歲",
             "OfficialTime": "05:14:56",
             "RankAll": "7774",
+            "RankCat": "1430",
             "NetTime": "05:12:41"
         },
         {
             "Bibnr": "7161",
             "Name": "吳明正",
+            "Category": "男30-39歲",
             "OfficialTime": "05:14:59",
             "RankAll": "7775",
+            "RankCat": "1477",
             "NetTime": "05:08:51"
         },
         {
             "Bibnr": "1443",
             "Name": "張景瑞",
+            "Category": "男50-59歲",
             "OfficialTime": "05:14:59",
             "RankAll": "7776",
+            "RankCat": "1431",
             "NetTime": "05:09:41"
         },
         {
             "Bibnr": "2076",
             "Name": "楊瓊時",
+            "Category": "女60歲+",
             "OfficialTime": "05:15:11",
             "RankAll": "7777",
+            "RankCat": "52",
             "NetTime": "05:09:49"
         },
         {
             "Bibnr": "12537",
             "Name": "Chan Kwok Ming Peter",
+            "Category": "男60歲+",
             "OfficialTime": "05:15:14",
             "RankAll": "7778",
+            "RankCat": "372",
             "NetTime": "05:10:52"
         },
         {
             "Bibnr": "5342",
             "Name": "楊振宗",
+            "Category": "男40-49歲",
             "OfficialTime": "05:15:18",
             "RankAll": "7779",
+            "RankCat": "2484",
             "NetTime": "05:10:19"
         },
         {
             "Bibnr": "4030",
             "Name": "VENICE DE CASTRO ATIENZA",
+            "Category": "女30-39歲",
             "OfficialTime": "05:15:29",
             "RankAll": "7780",
+            "RankCat": "365",
             "NetTime": "05:12:28"
         },
         {
             "Bibnr": "6259",
             "Name": "簡鵬輝",
+            "Category": "男50-59歲",
             "OfficialTime": "05:15:30",
             "RankAll": "7781",
+            "RankCat": "1432",
             "NetTime": "05:09:21"
         },
         {
             "Bibnr": "1225",
             "Name": "周尚禎",
+            "Category": "男20-29歲",
             "OfficialTime": "05:15:33",
             "RankAll": "7782",
+            "RankCat": "362",
             "NetTime": "05:13:48"
         },
         {
             "Bibnr": "2107",
             "Name": "唐珮毓",
+            "Category": "女50-59歲",
             "OfficialTime": "05:15:34",
             "RankAll": "7783",
+            "RankCat": "399",
             "NetTime": "05:10:58"
         },
         {
             "Bibnr": "5418",
             "Name": "鄭燿桐",
+            "Category": "男60歲+",
             "OfficialTime": "05:15:35",
             "RankAll": "7784",
+            "RankCat": "373",
             "NetTime": "05:09:58"
         },
         {
             "Bibnr": "12419",
             "Name": "徐達偉",
+            "Category": "男50-59歲",
             "OfficialTime": "05:15:36",
             "RankAll": "7785",
+            "RankCat": "1433",
             "NetTime": "05:10:38"
         },
         {
             "Bibnr": "1434",
             "Name": "陳嘉甫",
+            "Category": "男40-49歲",
             "OfficialTime": "05:15:37",
             "RankAll": "7786",
+            "RankCat": "2485",
             "NetTime": "05:09:36"
         },
         {
             "Bibnr": "5524",
             "Name": "林泊億",
+            "Category": "男30-39歲",
             "OfficialTime": "05:15:37",
             "RankAll": "7787",
+            "RankCat": "1478",
             "NetTime": "05:12:25"
         },
         {
             "Bibnr": "4340",
             "Name": "平佳靈",
+            "Category": "女30-39歲",
             "OfficialTime": "05:15:39",
             "RankAll": "7788",
+            "RankCat": "366",
             "NetTime": "05:12:05"
         },
         {
             "Bibnr": "4173",
             "Name": "蘇鈺喬",
+            "Category": "女30-39歲",
             "OfficialTime": "05:15:40",
             "RankAll": "7789",
+            "RankCat": "367",
             "NetTime": "05:13:29"
         },
         {
             "Bibnr": "2361",
             "Name": "陳絹平",
+            "Category": "女30-39歲",
             "OfficialTime": "05:15:41",
             "RankAll": "7790",
+            "RankCat": "368",
             "NetTime": "05:09:57"
         },
         {
             "Bibnr": "13577",
             "Name": "CYRA MINA",
+            "Category": "女30-39歲",
             "OfficialTime": "05:15:45",
             "RankAll": "7791",
+            "RankCat": "369",
             "NetTime": "05:15:39"
         },
         {
             "Bibnr": "13573",
             "Name": "JUSTIN BANEZ",
+            "Category": "男20-29歲",
             "OfficialTime": "05:15:46",
             "RankAll": "7792",
+            "RankCat": "363",
             "NetTime": "05:15:39"
         },
         {
             "Bibnr": "7445",
             "Name": "洪佳仁",
+            "Category": "男50-59歲",
             "OfficialTime": "05:15:51",
             "RankAll": "7793",
+            "RankCat": "1434",
             "NetTime": "05:09:36"
         },
         {
             "Bibnr": "2154",
             "Name": "黃筱菁",
+            "Category": "女40-49歲",
             "OfficialTime": "05:15:52",
             "RankAll": "7794",
+            "RankCat": "708",
             "NetTime": "05:11:30"
         },
         {
             "Bibnr": "5183",
             "Name": "施銘峰",
+            "Category": "男40-49歲",
             "OfficialTime": "05:15:52",
             "RankAll": "7795",
+            "RankCat": "2486",
             "NetTime": "05:10:42"
         },
         {
             "Bibnr": "6238",
             "Name": "李昱昇",
+            "Category": "男20-29歲",
             "OfficialTime": "05:15:52",
             "RankAll": "7796",
+            "RankCat": "364",
             "NetTime": "05:13:27"
         },
         {
             "Bibnr": "13253",
             "Name": "許哲豪",
+            "Category": "男50-59歲",
             "OfficialTime": "05:15:55",
             "RankAll": "7797",
+            "RankCat": "1435",
             "NetTime": "05:11:15"
         },
         {
             "Bibnr": "11633",
             "Name": "林志杰",
+            "Category": "男50-59歲",
             "OfficialTime": "05:16:00",
             "RankAll": "7798",
+            "RankCat": "1436",
             "NetTime": "05:09:47"
         },
         {
             "Bibnr": "4443",
             "Name": "洪子淳",
+            "Category": "女40-49歲",
             "OfficialTime": "05:16:03",
             "RankAll": "7799",
+            "RankCat": "709",
             "NetTime": "05:10:33"
         },
         {
             "Bibnr": "13203",
             "Name": "林柏憲",
+            "Category": "男40-49歲",
             "OfficialTime": "05:16:04",
             "RankAll": "7800",
+            "RankCat": "2487",
             "NetTime": "05:10:43"
         },
         {
             "Bibnr": "13193",
             "Name": "林昶志",
+            "Category": "男40-49歲",
             "OfficialTime": "05:16:06",
             "RankAll": "7801",
+            "RankCat": "2488",
             "NetTime": "05:09:56"
         },
         {
             "Bibnr": "10396",
             "Name": "倪嘉豪",
+            "Category": "男40-49歲",
             "OfficialTime": "05:16:07",
             "RankAll": "7802",
+            "RankCat": "2489",
             "NetTime": "05:13:15"
         },
         {
             "Bibnr": "11724",
             "Name": "梁嘉華",
+            "Category": "男50-59歲",
             "OfficialTime": "05:16:10",
             "RankAll": "7803",
+            "RankCat": "1437",
             "NetTime": "05:15:53"
         },
         {
             "Bibnr": "10448",
             "Name": "何仲基",
+            "Category": "男50-59歲",
             "OfficialTime": "05:16:11",
             "RankAll": "7804",
+            "RankCat": "1438",
             "NetTime": "05:13:11"
         },
         {
             "Bibnr": "10604",
             "Name": "溫子俊",
+            "Category": "男50-59歲",
             "OfficialTime": "05:16:17",
             "RankAll": "7805",
+            "RankCat": "1439",
             "NetTime": "05:13:23"
         },
         {
             "Bibnr": "2049",
             "Name": "阮嘉慧",
+            "Category": "女40-49歲",
             "OfficialTime": "05:16:22",
             "RankAll": "7806",
+            "RankCat": "710",
             "NetTime": "05:11:10"
         },
         {
             "Bibnr": "4217",
             "Name": "黃美慧",
+            "Category": "女50-59歲",
             "OfficialTime": "05:16:29",
             "RankAll": "7807",
+            "RankCat": "400",
             "NetTime": "05:13:47"
         },
         {
             "Bibnr": "4067",
             "Name": "王兆敏",
+            "Category": "女40-49歲",
             "OfficialTime": "05:16:32",
             "RankAll": "7808",
+            "RankCat": "711",
             "NetTime": "05:12:33"
         },
         {
             "Bibnr": "12335",
             "Name": "翁正鴻",
+            "Category": "男40-49歲",
             "OfficialTime": "05:16:34",
             "RankAll": "7809",
+            "RankCat": "2490",
             "NetTime": "05:12:48"
         },
         {
             "Bibnr": "6107",
             "Name": "吳家豪",
+            "Category": "男30-39歲",
             "OfficialTime": "05:16:39",
             "RankAll": "7810",
+            "RankCat": "1479",
             "NetTime": "05:10:56"
         },
         {
             "Bibnr": "2133",
             "Name": "王秋嵐",
+            "Category": "女40-49歲",
             "OfficialTime": "05:16:39",
             "RankAll": "7811",
+            "RankCat": "712",
             "NetTime": "05:11:12"
         },
         {
             "Bibnr": "11075",
             "Name": "SAITO YUTA",
+            "Category": "男30-39歲",
             "OfficialTime": "05:16:43",
             "RankAll": "7812",
+            "RankCat": "1480",
             "NetTime": "05:12:21"
         },
         {
             "Bibnr": "4334",
             "Name": "林雅惠",
+            "Category": "女50-59歲",
             "OfficialTime": "05:16:47",
             "RankAll": "7813",
+            "RankCat": "401",
             "NetTime": "05:11:24"
         },
         {
             "Bibnr": "4054",
             "Name": "莊舜欣",
+            "Category": "女20-29歲",
             "OfficialTime": "05:16:48",
             "RankAll": "7814",
+            "RankCat": "92",
             "NetTime": "05:15:17"
         },
         {
             "Bibnr": "11116",
             "Name": "KUROKAWA NAOYA",
+            "Category": "男30-39歲",
             "OfficialTime": "05:16:50",
             "RankAll": "7815",
+            "RankCat": "1481",
             "NetTime": "05:13:04"
         },
         {
             "Bibnr": "4176",
             "Name": "TRANG QUYNH NGUYEN",
+            "Category": "女30-39歲",
             "OfficialTime": "05:16:52",
             "RankAll": "7816",
+            "RankCat": "370",
             "NetTime": "05:16:37"
         },
         {
             "Bibnr": "5161",
             "Name": "陳俊杰",
+            "Category": "男40-49歲",
             "OfficialTime": "05:16:54",
             "RankAll": "7817",
+            "RankCat": "2491",
             "NetTime": "05:10:53"
         },
         {
             "Bibnr": "11371",
             "Name": "李孟昭",
+            "Category": "男40-49歲",
             "OfficialTime": "05:16:55",
             "RankAll": "7818",
+            "RankCat": "2492",
             "NetTime": "05:14:59"
         },
         {
             "Bibnr": "5724",
             "Name": "楊文賢",
+            "Category": "男50-59歲",
             "OfficialTime": "05:16:59",
             "RankAll": "7819",
+            "RankCat": "1440",
             "NetTime": "05:11:31"
         },
         {
             "Bibnr": "6266",
             "Name": "林珀言",
+            "Category": "男30-39歲",
             "OfficialTime": "05:16:59",
             "RankAll": "7820",
+            "RankCat": "1482",
             "NetTime": "05:10:49"
         },
         {
             "Bibnr": "11120",
             "Name": "OGAWA KOU",
+            "Category": "男30-39歲",
             "OfficialTime": "05:17:00",
             "RankAll": "7821",
+            "RankCat": "1483",
             "NetTime": "05:15:11"
         },
         {
             "Bibnr": "4239",
             "Name": "陳碧瑩",
+            "Category": "女40-49歲",
             "OfficialTime": "05:17:05",
             "RankAll": "7822",
+            "RankCat": "713",
             "NetTime": "05:14:26"
         },
         {
             "Bibnr": "1355",
             "Name": "高瑞豊",
+            "Category": "男50-59歲",
             "OfficialTime": "05:17:08",
             "RankAll": "7823",
+            "RankCat": "1441",
             "NetTime": "05:13:26"
         },
         {
             "Bibnr": "1107",
             "Name": "張繼元",
+            "Category": "男40-49歲",
             "OfficialTime": "05:17:08",
             "RankAll": "7824",
+            "RankCat": "2493",
             "NetTime": "05:11:06"
         },
         {
             "Bibnr": "1277",
             "Name": "黃朝鋒",
+            "Category": "男40-49歲",
             "OfficialTime": "05:17:08",
             "RankAll": "7825",
+            "RankCat": "2494",
             "NetTime": "05:11:06"
         },
         {
             "Bibnr": "4391",
             "Name": "孫蓉華",
+            "Category": "女60歲+",
             "OfficialTime": "05:17:10",
             "RankAll": "7826",
+            "RankCat": "53",
             "NetTime": "05:11:18"
         },
         {
             "Bibnr": "4087",
             "Name": "KAORI RYOJI",
+            "Category": "女40-49歲",
             "OfficialTime": "05:17:14",
             "RankAll": "7827",
+            "RankCat": "714",
             "NetTime": "05:13:06"
         },
         {
             "Bibnr": "7233",
             "Name": "黃一正",
+            "Category": "男40-49歲",
             "OfficialTime": "05:17:14",
             "RankAll": "7828",
+            "RankCat": "2495",
             "NetTime": "05:11:20"
         },
         {
             "Bibnr": "11262",
             "Name": "NGHIA DUC NGUYEN",
+            "Category": "男30-39歲",
             "OfficialTime": "05:17:18",
             "RankAll": "7829",
+            "RankCat": "1484",
             "NetTime": "05:17:02"
         },
         {
             "Bibnr": "11248",
             "Name": "林可綸",
+            "Category": "男20-29歲",
             "OfficialTime": "05:17:18",
             "RankAll": "7830",
+            "RankCat": "365",
             "NetTime": "05:15:08"
         },
         {
             "Bibnr": "2177",
             "Name": "洪于茹",
+            "Category": "女50-59歲",
             "OfficialTime": "05:17:22",
             "RankAll": "7831",
+            "RankCat": "402",
             "NetTime": "05:11:43"
         },
         {
             "Bibnr": "7370",
             "Name": "葉清益",
+            "Category": "男50-59歲",
             "OfficialTime": "05:17:24",
             "RankAll": "7832",
+            "RankCat": "1442",
             "NetTime": "05:11:57"
         },
         {
             "Bibnr": "5137",
             "Name": "李進福",
+            "Category": "男60歲+",
             "OfficialTime": "05:17:27",
             "RankAll": "7833",
+            "RankCat": "374",
             "NetTime": "05:11:17"
         },
         {
             "Bibnr": "12330",
             "Name": "張友力",
+            "Category": "男40-49歲",
             "OfficialTime": "05:17:28",
             "RankAll": "7834",
+            "RankCat": "2496",
             "NetTime": "05:11:26"
         },
         {
             "Bibnr": "13399",
             "Name": "蘇耀隆",
+            "Category": "男60歲+",
             "OfficialTime": "05:17:28",
             "RankAll": "7835",
+            "RankCat": "375",
             "NetTime": "05:13:08"
         },
         {
             "Bibnr": "5208",
             "Name": "黃冠儒",
+            "Category": "男30-39歲",
             "OfficialTime": "05:17:34",
             "RankAll": "7836",
+            "RankCat": "1485",
             "NetTime": "05:12:34"
         },
         {
             "Bibnr": "2338",
             "Name": "吳迺菲",
+            "Category": "女30-39歲",
             "OfficialTime": "05:17:36",
             "RankAll": "7837",
+            "RankCat": "371",
             "NetTime": "05:11:34"
         },
         {
             "Bibnr": "10399",
             "Name": "馮兆光",
+            "Category": "男50-59歲",
             "OfficialTime": "05:17:37",
             "RankAll": "7838",
+            "RankCat": "1443",
             "NetTime": "05:13:12"
         },
         {
             "Bibnr": "6581",
             "Name": "Tay Hong Let",
+            "Category": "男40-49歲",
             "OfficialTime": "05:17:38",
             "RankAll": "7839",
+            "RankCat": "2497",
             "NetTime": "05:12:16"
         },
         {
             "Bibnr": "10644",
             "Name": "黃錦華",
+            "Category": "男60歲+",
             "OfficialTime": "05:17:39",
             "RankAll": "7840",
+            "RankCat": "376",
             "NetTime": "05:16:09"
         },
         {
             "Bibnr": "1194",
             "Name": "陳弘軒",
+            "Category": "男30-39歲",
             "OfficialTime": "05:17:39",
             "RankAll": "7841",
+            "RankCat": "1486",
             "NetTime": "05:16:23"
         },
         {
             "Bibnr": "6090",
             "Name": "吳凱群",
+            "Category": "男40-49歲",
             "OfficialTime": "05:17:41",
             "RankAll": "7842",
+            "RankCat": "2498",
             "NetTime": "05:11:31"
         },
         {
             "Bibnr": "5334",
             "Name": "楊永祥",
+            "Category": "男40-49歲",
             "OfficialTime": "05:17:44",
             "RankAll": "7843",
+            "RankCat": "2499",
             "NetTime": "05:13:18"
         },
         {
             "Bibnr": "4384",
             "Name": "王意青",
+            "Category": "女50-59歲",
             "OfficialTime": "05:17:44",
             "RankAll": "7844",
+            "RankCat": "403",
             "NetTime": "05:15:51"
         },
         {
             "Bibnr": "11422",
             "Name": "黃子榮",
+            "Category": "男30-39歲",
             "OfficialTime": "05:17:45",
             "RankAll": "7845",
+            "RankCat": "1487",
             "NetTime": "05:14:25"
         },
         {
             "Bibnr": "10717",
             "Name": "INAOKA SHOTA",
+            "Category": "男60歲+",
             "OfficialTime": "05:17:46",
             "RankAll": "7846",
+            "RankCat": "377",
             "NetTime": "05:15:16"
         },
         {
             "Bibnr": "11392",
             "Name": "廖亦德",
+            "Category": "男40-49歲",
             "OfficialTime": "05:17:48",
             "RankAll": "7847",
+            "RankCat": "2500",
             "NetTime": "05:14:04"
         },
         {
             "Bibnr": "11141",
             "Name": "NORIO YAMAZAKI",
+            "Category": "男50-59歲",
             "OfficialTime": "05:17:48",
             "RankAll": "7848",
+            "RankCat": "1444",
             "NetTime": "05:14:47"
         },
         {
             "Bibnr": "2251",
             "Name": "NOMURA KAYO",
+            "Category": "女30-39歲",
             "OfficialTime": "05:17:51",
             "RankAll": "7849",
+            "RankCat": "372",
             "NetTime": "05:12:13"
         },
         {
             "Bibnr": "4413",
             "Name": "翁惠蘭",
+            "Category": "女40-49歲",
             "OfficialTime": "05:17:54",
             "RankAll": "7850",
+            "RankCat": "715",
             "NetTime": "05:12:18"
         },
         {
             "Bibnr": "10730",
             "Name": "TOKITA TSUYOSHI",
+            "Category": "男50-59歲",
             "OfficialTime": "05:18:04",
             "RankAll": "7851",
+            "RankCat": "1445",
             "NetTime": "05:13:25"
         },
         {
             "Bibnr": "6327",
             "Name": "Chau Chun Wah",
+            "Category": "男40-49歲",
             "OfficialTime": "05:18:15",
             "RankAll": "7852",
+            "RankCat": "2501",
             "NetTime": "05:14:01"
         },
         {
             "Bibnr": "5248",
             "Name": "黃鈺琮",
+            "Category": "男50-59歲",
             "OfficialTime": "05:18:24",
             "RankAll": "7853",
+            "RankCat": "1446",
             "NetTime": "05:13:52"
         },
         {
             "Bibnr": "6501",
             "Name": "洪兆慶",
+            "Category": "男40-49歲",
             "OfficialTime": "05:18:29",
             "RankAll": "7854",
+            "RankCat": "2502",
             "NetTime": "05:13:43"
         },
         {
             "Bibnr": "4441",
             "Name": "劉美華",
+            "Category": "女50-59歲",
             "OfficialTime": "05:18:30",
             "RankAll": "7855",
+            "RankCat": "404",
             "NetTime": "05:14:04"
         },
         {
             "Bibnr": "5663",
             "Name": "陳銘川",
+            "Category": "男50-59歲",
             "OfficialTime": "05:18:30",
             "RankAll": "7856",
+            "RankCat": "1447",
             "NetTime": "05:13:25"
+        },
+        {
+            "Bibnr": "5306",
+            "Name": "陳俊賢",
+            "Category": "男40-49歲",
+            "OfficialTime": "05:18:32",
+            "RankAll": "7857",
+            "RankCat": "2502",
+            "NetTime": "05:13:17"
         },
         {
             "Bibnr": "3718",
             "Name": "靳蔚文",
+            "Category": "女60歲+",
             "OfficialTime": "05:18:32",
             "RankAll": "7857",
+            "RankCat": "54",
             "NetTime": "05:12:36"
         },
         {
             "Bibnr": "5421",
             "Name": "劉炳宏",
+            "Category": "男40-49歲",
             "OfficialTime": "05:18:36",
             "RankAll": "7858",
+            "RankCat": "2503",
             "NetTime": "05:12:44"
         },
         {
             "Bibnr": "2161",
             "Name": "張佑群",
+            "Category": "女40-49歲",
             "OfficialTime": "05:18:39",
             "RankAll": "7859",
+            "RankCat": "716",
             "NetTime": "05:13:44"
         },
         {
             "Bibnr": "12710",
             "Name": "李建志",
+            "Category": "男30-39歲",
             "OfficialTime": "05:18:42",
             "RankAll": "7860",
+            "RankCat": "1488",
             "NetTime": "05:14:02"
         },
         {
             "Bibnr": "11526",
             "Name": "周思廷",
+            "Category": "男40-49歲",
             "OfficialTime": "05:18:42",
             "RankAll": "7861",
+            "RankCat": "2504",
             "NetTime": "05:15:23"
         },
         {
             "Bibnr": "6223",
             "Name": "黃家冠",
+            "Category": "男20-29歲",
             "OfficialTime": "05:18:43",
             "RankAll": "7862",
+            "RankCat": "366",
             "NetTime": "05:13:17"
         },
         {
             "Bibnr": "2145",
             "Name": "王怡萱",
+            "Category": "女40-49歲",
             "OfficialTime": "05:18:44",
             "RankAll": "7863",
+            "RankCat": "717",
             "NetTime": "05:13:13"
         },
         {
             "Bibnr": "12327",
             "Name": "王龒博",
+            "Category": "男50-59歲",
             "OfficialTime": "05:18:46",
             "RankAll": "7864",
+            "RankCat": "1448",
             "NetTime": "05:14:24"
         },
         {
             "Bibnr": "2273",
             "Name": "李佳穎",
+            "Category": "女40-49歲",
             "OfficialTime": "05:18:48",
             "RankAll": "7865",
+            "RankCat": "718",
             "NetTime": "05:12:54"
         },
         {
             "Bibnr": "5613",
             "Name": "黃一偉",
+            "Category": "男50-59歲",
             "OfficialTime": "05:18:50",
             "RankAll": "7866",
+            "RankCat": "1449",
             "NetTime": "05:13:12"
         },
         {
             "Bibnr": "4099",
             "Name": "YAMAGA ETSUKO",
+            "Category": "女50-59歲",
             "OfficialTime": "05:18:53",
             "RankAll": "7867",
+            "RankCat": "405",
             "NetTime": "05:15:43"
         },
         {
             "Bibnr": "11094",
             "Name": "HYOGO MITSUO",
+            "Category": "男50-59歲",
             "OfficialTime": "05:18:56",
             "RankAll": "7868",
+            "RankCat": "1450",
             "NetTime": "05:17:15"
         },
         {
             "Bibnr": "12377",
             "Name": "蔡志明",
+            "Category": "男40-49歲",
             "OfficialTime": "05:18:57",
             "RankAll": "7869",
+            "RankCat": "2505",
             "NetTime": "05:16:42"
         },
         {
             "Bibnr": "11140",
             "Name": "FUMIHIKO YAMADA",
+            "Category": "男60歲+",
             "OfficialTime": "05:18:58",
             "RankAll": "7870",
+            "RankCat": "378",
             "NetTime": "05:14:34"
         },
         {
             "Bibnr": "4136",
             "Name": "KANA YAMADA",
+            "Category": "女50-59歲",
             "OfficialTime": "05:18:58",
             "RankAll": "7871",
+            "RankCat": "406",
             "NetTime": "05:14:35"
         },
         {
             "Bibnr": "7364",
             "Name": "簡世彥",
+            "Category": "男40-49歲",
             "OfficialTime": "05:19:02",
             "RankAll": "7872",
+            "RankCat": "2506",
             "NetTime": "05:15:41"
         },
         {
             "Bibnr": "2360",
             "Name": "陳俞含",
+            "Category": "女30-39歲",
             "OfficialTime": "05:19:02",
             "RankAll": "7873",
+            "RankCat": "373",
             "NetTime": "05:13:20"
         },
         {
             "Bibnr": "6473",
             "Name": "張峻華",
+            "Category": "男50-59歲",
             "OfficialTime": "05:19:04",
             "RankAll": "7874",
+            "RankCat": "1451",
             "NetTime": "05:13:41"
         },
         {
             "Bibnr": "5619",
             "Name": "黃一化",
+            "Category": "男20-29歲",
             "OfficialTime": "05:19:04",
             "RankAll": "7875",
+            "RankCat": "367",
             "NetTime": "05:13:43"
         },
         {
             "Bibnr": "5599",
             "Name": "謝松平",
+            "Category": "男60歲+",
             "OfficialTime": "05:19:06",
             "RankAll": "7876",
+            "RankCat": "379",
             "NetTime": "05:12:56"
         },
         {
             "Bibnr": "2223",
             "Name": "Ciara Shorley",
+            "Category": "女30-39歲",
             "OfficialTime": "05:19:07",
             "RankAll": "7877",
+            "RankCat": "374",
             "NetTime": "05:13:55"
         },
         {
             "Bibnr": "5047",
             "Name": "黃培根",
+            "Category": "男60歲+",
             "OfficialTime": "05:19:12",
             "RankAll": "7878",
+            "RankCat": "380",
             "NetTime": "05:13:59"
         },
         {
             "Bibnr": "13257",
             "Name": "陳志豪",
+            "Category": "男50-59歲",
             "OfficialTime": "05:19:13",
             "RankAll": "7879",
+            "RankCat": "1452",
             "NetTime": "05:13:06"
         },
         {
             "Bibnr": "10427",
             "Name": "周錦華",
+            "Category": "男50-59歲",
             "OfficialTime": "05:19:16",
             "RankAll": "7880",
+            "RankCat": "1453",
             "NetTime": "05:14:58"
         },
         {
             "Bibnr": "1447",
             "Name": "詹益栓",
+            "Category": "男50-59歲",
             "OfficialTime": "05:19:17",
             "RankAll": "7881",
+            "RankCat": "1454",
             "NetTime": "05:13:38"
         },
         {
             "Bibnr": "7557",
             "Name": "陳忠義",
+            "Category": "男50-59歲",
             "OfficialTime": "05:19:18",
             "RankAll": "7882",
+            "RankCat": "1455",
             "NetTime": "05:14:12"
         },
         {
             "Bibnr": "2351",
             "Name": "郭姿伶",
+            "Category": "女20-29歲",
             "OfficialTime": "05:19:18",
             "RankAll": "7883",
+            "RankCat": "93",
             "NetTime": "05:13:28"
         },
         {
             "Bibnr": "2148",
             "Name": "陳思樺",
+            "Category": "女40-49歲",
             "OfficialTime": "05:19:24",
             "RankAll": "7884",
+            "RankCat": "719",
             "NetTime": "05:14:49"
         },
         {
             "Bibnr": "6383",
             "Name": "林瑞祥",
+            "Category": "男40-49歲",
             "OfficialTime": "05:19:25",
             "RankAll": "7885",
+            "RankCat": "2507",
             "NetTime": "05:13:33"
         },
         {
             "Bibnr": "11751",
             "Name": "王源毅",
+            "Category": "男40-49歲",
             "OfficialTime": "05:19:27",
             "RankAll": "7886",
+            "RankCat": "2508",
             "NetTime": "05:17:56"
         },
         {
             "Bibnr": "6403",
             "Name": "陳彥夫",
+            "Category": "男30-39歲",
             "OfficialTime": "05:19:29",
             "RankAll": "7887",
+            "RankCat": "1489",
             "NetTime": "05:16:13"
         },
         {
             "Bibnr": "7023",
             "Name": "張智雄",
+            "Category": "男40-49歲",
             "OfficialTime": "05:19:32",
             "RankAll": "7888",
+            "RankCat": "2509",
             "NetTime": "05:13:51"
         },
         {
             "Bibnr": "5498",
             "Name": "賴育賢",
+            "Category": "男40-49歲",
             "OfficialTime": "05:19:34",
             "RankAll": "7889",
+            "RankCat": "2510",
             "NetTime": "05:14:32"
         },
         {
             "Bibnr": "6205",
             "Name": "薛宗嘉",
+            "Category": "男20-29歲",
             "OfficialTime": "05:19:35",
             "RankAll": "7890",
+            "RankCat": "368",
             "NetTime": "05:15:59"
         },
         {
             "Bibnr": "12045",
             "Name": "沈孟勳",
+            "Category": "男40-49歲",
             "OfficialTime": "05:19:37",
             "RankAll": "7891",
+            "RankCat": "2511",
             "NetTime": "05:17:28"
         },
         {
             "Bibnr": "4710",
             "Name": "廖偉喨",
+            "Category": "男50-59歲",
             "OfficialTime": "05:19:38",
             "RankAll": "7892",
+            "RankCat": "1456",
             "NetTime": "05:16:40"
         },
         {
             "Bibnr": "7106",
             "Name": "林意能",
+            "Category": "男50-59歲",
             "OfficialTime": "05:19:41",
             "RankAll": "7893",
+            "RankCat": "1457",
             "NetTime": "05:14:00"
         },
         {
             "Bibnr": "11158",
             "Name": "SEUNGWOO CHA",
+            "Category": "男60歲+",
             "OfficialTime": "05:19:43",
             "RankAll": "7894",
+            "RankCat": "381",
             "NetTime": "05:15:03"
         },
         {
             "Bibnr": "4147",
             "Name": "EUNKYOUNG KIM",
+            "Category": "女50-59歲",
             "OfficialTime": "05:19:43",
             "RankAll": "7895",
+            "RankCat": "407",
             "NetTime": "05:15:04"
         },
         {
             "Bibnr": "7003",
             "Name": "陳品睿",
+            "Category": "男20-29歲",
             "OfficialTime": "05:19:50",
             "RankAll": "7896",
+            "RankCat": "369",
             "NetTime": "05:15:13"
         },
         {
             "Bibnr": "12071",
             "Name": "詹其峰",
+            "Category": "男50-59歲",
             "OfficialTime": "05:19:51",
             "RankAll": "7897",
+            "RankCat": "1458",
             "NetTime": "05:13:53"
         },
         {
             "Bibnr": "1690",
             "Name": "林冠宇",
+            "Category": "男30-39歲",
             "OfficialTime": "05:19:53",
             "RankAll": "7898",
+            "RankCat": "1490",
             "NetTime": "05:16:51"
         },
         {
             "Bibnr": "4471",
             "Name": "李雅如",
+            "Category": "女40-49歲",
             "OfficialTime": "05:19:54",
             "RankAll": "7899",
+            "RankCat": "720",
             "NetTime": "05:15:26"
         },
         {
             "Bibnr": "4323",
             "Name": "賴小雯",
+            "Category": "女30-39歲",
             "OfficialTime": "05:19:59",
             "RankAll": "7900",
+            "RankCat": "375",
             "NetTime": "05:14:25"
         },
         {
             "Bibnr": "1461",
             "Name": "陳銘鋒",
+            "Category": "男40-49歲",
             "OfficialTime": "05:20:00",
             "RankAll": "7901",
+            "RankCat": "2512",
             "NetTime": "05:15:37"
         },
         {
             "Bibnr": "7123",
             "Name": "葉家豪",
+            "Category": "男40-49歲",
             "OfficialTime": "05:20:04",
             "RankAll": "7902",
+            "RankCat": "2513",
             "NetTime": "05:15:09"
         },
         {
             "Bibnr": "11261",
             "Name": "隋恭權",
+            "Category": "男40-49歲",
             "OfficialTime": "05:20:07",
             "RankAll": "7903",
+            "RankCat": "2514",
             "NetTime": "05:19:54"
         },
         {
             "Bibnr": "4097",
             "Name": "TAKAHASHI AKIKO",
+            "Category": "女40-49歲",
             "OfficialTime": "05:20:10",
             "RankAll": "7904",
+            "RankCat": "721",
             "NetTime": "05:18:49"
         },
         {
             "Bibnr": "11034",
             "Name": "TAKAHASHI AKIRA",
+            "Category": "男50-59歲",
             "OfficialTime": "05:20:10",
             "RankAll": "7905",
+            "RankCat": "1459",
             "NetTime": "05:18:51"
         },
         {
             "Bibnr": "13138",
             "Name": "楊家勳",
+            "Category": "男40-49歲",
             "OfficialTime": "05:20:12",
             "RankAll": "7906",
+            "RankCat": "2515",
             "NetTime": "05:14:17"
         },
         {
             "Bibnr": "5409",
             "Name": "黃昭仁",
+            "Category": "男60歲+",
             "OfficialTime": "05:20:16",
             "RankAll": "7907",
+            "RankCat": "382",
             "NetTime": "05:14:02"
         },
         {
             "Bibnr": "2234",
             "Name": "王雅惠",
+            "Category": "女50-59歲",
             "OfficialTime": "05:20:16",
             "RankAll": "7908",
+            "RankCat": "408",
             "NetTime": "05:14:56"
         },
         {
             "Bibnr": "1158",
             "Name": "徐永享",
+            "Category": "男50-59歲",
             "OfficialTime": "05:20:18",
             "RankAll": "7909",
+            "RankCat": "1460",
             "NetTime": "05:14:47"
         },
         {
             "Bibnr": "4311",
             "Name": "簡鳳儀",
+            "Category": "女40-49歲",
             "OfficialTime": "05:20:22",
             "RankAll": "7910",
+            "RankCat": "722",
             "NetTime": "05:15:07"
         },
         {
             "Bibnr": "5132",
             "Name": "陳聯慶",
+            "Category": "男40-49歲",
             "OfficialTime": "05:20:22",
             "RankAll": "7911",
+            "RankCat": "2516",
             "NetTime": "05:14:08"
         },
         {
             "Bibnr": "5141",
             "Name": "王嘉明",
+            "Category": "男50-59歲",
             "OfficialTime": "05:20:31",
             "RankAll": "7912",
+            "RankCat": "1461",
             "NetTime": "05:14:46"
         },
         {
             "Bibnr": "2318",
             "Name": "郭玥妦",
+            "Category": "女40-49歲",
             "OfficialTime": "05:20:37",
             "RankAll": "7913",
+            "RankCat": "723",
             "NetTime": "05:16:03"
         },
         {
             "Bibnr": "12147",
             "Name": "劉碩琛",
+            "Category": "男20-29歲",
             "OfficialTime": "05:20:39",
             "RankAll": "7914",
+            "RankCat": "370",
             "NetTime": "05:15:40"
         },
         {
             "Bibnr": "4236",
             "Name": "吳美靜",
+            "Category": "女40-49歲",
             "OfficialTime": "05:20:40",
             "RankAll": "7915",
+            "RankCat": "724",
             "NetTime": "05:18:00"
         },
         {
             "Bibnr": "4427",
             "Name": "李宜儒",
+            "Category": "女40-49歲",
             "OfficialTime": "05:20:41",
             "RankAll": "7916",
+            "RankCat": "725",
             "NetTime": "05:17:04"
         },
         {
             "Bibnr": "7405",
             "Name": "朱群梧",
+            "Category": "男20-29歲",
             "OfficialTime": "05:20:49",
             "RankAll": "7917",
+            "RankCat": "371",
             "NetTime": "05:16:19"
         },
         {
             "Bibnr": "12609",
             "Name": "高新添",
+            "Category": "男50-59歲",
             "OfficialTime": "05:20:51",
             "RankAll": "7918",
+            "RankCat": "1462",
             "NetTime": "05:15:22"
         },
         {
             "Bibnr": "4257",
             "Name": "劉心瑀",
+            "Category": "女40-49歲",
             "OfficialTime": "05:20:52",
             "RankAll": "7919",
+            "RankCat": "726",
             "NetTime": "05:14:58"
         },
         {
             "Bibnr": "10486",
             "Name": "YEE SHIANG WU",
+            "Category": "男40-49歲",
             "OfficialTime": "05:20:52",
             "RankAll": "7920",
+            "RankCat": "2517",
             "NetTime": "05:18:00"
         },
         {
             "Bibnr": "2057",
             "Name": "吳孟緯",
+            "Category": "女30-39歲",
             "OfficialTime": "05:20:54",
             "RankAll": "7921",
+            "RankCat": "376",
             "NetTime": "05:15:21"
         },
         {
             "Bibnr": "11737",
             "Name": "張榆昇",
+            "Category": "男40-49歲",
             "OfficialTime": "05:20:55",
             "RankAll": "7922",
+            "RankCat": "2518",
             "NetTime": "05:18:02"
         },
         {
             "Bibnr": "6650",
             "Name": "邱漢僑",
+            "Category": "男30-39歲",
             "OfficialTime": "05:20:57",
             "RankAll": "7923",
+            "RankCat": "1491",
             "NetTime": "05:15:03"
         },
         {
             "Bibnr": "4728",
             "Name": "湯勝閎",
+            "Category": "男30-39歲",
             "OfficialTime": "05:20:58",
             "RankAll": "7924",
+            "RankCat": "1492",
             "NetTime": "05:15:36"
         },
         {
             "Bibnr": "1065",
             "Name": "張瓊文",
+            "Category": "女40-49歲",
             "OfficialTime": "05:20:59",
             "RankAll": "7925",
+            "RankCat": "727",
             "NetTime": "05:15:28"
         },
         {
             "Bibnr": "6260",
             "Name": "Wong Chun Wai",
+            "Category": "男40-49歲",
             "OfficialTime": "05:20:59",
             "RankAll": "7926",
+            "RankCat": "2519",
             "NetTime": "05:16:56"
         },
         {
             "Bibnr": "13395",
             "Name": "廖偉宏",
+            "Category": "男40-49歲",
             "OfficialTime": "05:21:00",
             "RankAll": "7927",
+            "RankCat": "2520",
             "NetTime": "05:15:54"
         },
         {
             "Bibnr": "6544",
             "Name": "李政威",
+            "Category": "男19歲-",
             "OfficialTime": "05:21:00",
             "RankAll": "7928",
+            "RankCat": "3",
             "NetTime": "05:15:13"
         },
         {
             "Bibnr": "7455",
             "Name": "Kee Po Tung",
+            "Category": "男40-49歲",
             "OfficialTime": "05:21:07",
             "RankAll": "7929",
+            "RankCat": "2521",
             "NetTime": "05:15:55"
         },
         {
             "Bibnr": "4320",
             "Name": "戴雅瓊",
+            "Category": "女50-59歲",
             "OfficialTime": "05:21:10",
             "RankAll": "7930",
+            "RankCat": "409",
             "NetTime": "05:15:29"
         },
         {
             "Bibnr": "6247",
             "Name": "阮峻維",
+            "Category": "男50-59歲",
             "OfficialTime": "05:21:12",
             "RankAll": "7931",
+            "RankCat": "1463",
             "NetTime": "05:15:26"
         },
         {
             "Bibnr": "4603",
             "Name": "林信宇",
+            "Category": "男30-39歲",
             "OfficialTime": "05:21:13",
             "RankAll": "7932",
+            "RankCat": "1493",
             "NetTime": "05:16:12"
         },
         {
             "Bibnr": "11440",
             "Name": "盧鎮",
+            "Category": "男40-49歲",
             "OfficialTime": "05:21:17",
             "RankAll": "7933",
+            "RankCat": "2522",
             "NetTime": "05:17:41"
         },
         {
             "Bibnr": "1431",
             "Name": "張少豪",
+            "Category": "男20-29歲",
             "OfficialTime": "05:21:26",
             "RankAll": "7934",
+            "RankCat": "372",
             "NetTime": "05:15:47"
         },
         {
             "Bibnr": "2062",
             "Name": "葉惠婷",
+            "Category": "女30-39歲",
             "OfficialTime": "05:21:26",
             "RankAll": "7935",
+            "RankCat": "377",
             "NetTime": "05:15:48"
         },
         {
             "Bibnr": "6051",
             "Name": "唐道申",
+            "Category": "男40-49歲",
             "OfficialTime": "05:21:32",
             "RankAll": "7936",
+            "RankCat": "2523",
             "NetTime": "05:15:26"
         },
         {
             "Bibnr": "11119",
             "Name": "KIGURE ISA",
+            "Category": "男30-39歲",
             "OfficialTime": "05:21:32",
             "RankAll": "7937",
+            "RankCat": "1494",
             "NetTime": "05:19:44"
         },
         {
             "Bibnr": "6235",
             "Name": "陳泓佑",
+            "Category": "男20-29歲",
             "OfficialTime": "05:21:33",
             "RankAll": "7938",
+            "RankCat": "373",
             "NetTime": "05:19:57"
         },
         {
             "Bibnr": "5648",
             "Name": "李勝閎",
+            "Category": "男19歲-",
             "OfficialTime": "05:21:36",
             "RankAll": "7939",
+            "RankCat": "4",
             "NetTime": "05:16:32"
         },
         {
             "Bibnr": "11676",
             "Name": "蕭柏林",
+            "Category": "男40-49歲",
             "OfficialTime": "05:21:38",
             "RankAll": "7940",
+            "RankCat": "2524",
             "NetTime": "05:16:24"
         },
         {
             "Bibnr": "5503",
             "Name": "陳裕仁",
+            "Category": "男50-59歲",
             "OfficialTime": "05:21:38",
             "RankAll": "7941",
+            "RankCat": "1464",
             "NetTime": "05:15:45"
         },
         {
             "Bibnr": "4545",
             "Name": "陳千慧",
+            "Category": "女40-49歲",
             "OfficialTime": "05:21:39",
             "RankAll": "7942",
+            "RankCat": "728",
             "NetTime": "05:15:44"
         },
         {
             "Bibnr": "2465",
             "Name": "張婕",
+            "Category": "女20-29歲",
             "OfficialTime": "05:21:41",
             "RankAll": "7943",
+            "RankCat": "94",
             "NetTime": "05:17:30"
         },
         {
             "Bibnr": "12328",
             "Name": "葉永茂",
+            "Category": "男40-49歲",
             "OfficialTime": "05:21:41",
             "RankAll": "7944",
+            "RankCat": "2525",
             "NetTime": "05:16:27"
         },
         {
             "Bibnr": "11555",
             "Name": "呂淵霖",
+            "Category": "男60歲+",
             "OfficialTime": "05:21:44",
             "RankAll": "7945",
+            "RankCat": "383",
             "NetTime": "05:18:36"
         },
         {
             "Bibnr": "6331",
             "Name": "郭家豪",
+            "Category": "男30-39歲",
             "OfficialTime": "05:21:46",
             "RankAll": "7946",
+            "RankCat": "1495",
             "NetTime": "05:17:14"
         },
         {
             "Bibnr": "11546",
             "Name": "賴俊吉",
+            "Category": "男50-59歲",
             "OfficialTime": "05:21:50",
             "RankAll": "7947",
+            "RankCat": "1465",
             "NetTime": "05:17:54"
         },
         {
             "Bibnr": "6137",
             "Name": "謝志宗",
+            "Category": "男50-59歲",
             "OfficialTime": "05:21:52",
             "RankAll": "7948",
+            "RankCat": "1466",
             "NetTime": "05:15:37"
         },
         {
             "Bibnr": "5631",
             "Name": "王聯通",
+            "Category": "男60歲+",
             "OfficialTime": "05:21:52",
             "RankAll": "7949",
+            "RankCat": "384",
             "NetTime": "05:16:31"
         },
         {
             "Bibnr": "6074",
             "Name": "許詔開",
+            "Category": "男50-59歲",
             "OfficialTime": "05:21:57",
             "RankAll": "7950",
+            "RankCat": "1467",
             "NetTime": "05:17:16"
         },
         {
             "Bibnr": "6100",
             "Name": "周俊彥",
+            "Category": "男20-29歲",
             "OfficialTime": "05:21:57",
             "RankAll": "7951",
+            "RankCat": "374",
             "NetTime": "05:20:21"
         },
         {
             "Bibnr": "4598",
             "Name": "邱品翰",
+            "Category": "男20-29歲",
             "OfficialTime": "05:21:58",
             "RankAll": "7952",
+            "RankCat": "375",
             "NetTime": "05:16:03"
         },
         {
             "Bibnr": "6454",
             "Name": "林奐名",
+            "Category": "男40-49歲",
             "OfficialTime": "05:22:00",
             "RankAll": "7953",
+            "RankCat": "2526",
             "NetTime": "05:16:32"
         },
         {
             "Bibnr": "4560",
             "Name": "楊純瑛",
+            "Category": "女40-49歲",
             "OfficialTime": "05:22:03",
             "RankAll": "7954",
+            "RankCat": "729",
             "NetTime": "05:16:48"
         },
         {
             "Bibnr": "11562",
             "Name": "林建龍",
+            "Category": "男60歲+",
             "OfficialTime": "05:22:04",
             "RankAll": "7955",
+            "RankCat": "385",
             "NetTime": "05:18:49"
         },
         {
             "Bibnr": "5331",
             "Name": "蘇威宇",
+            "Category": "男40-49歲",
             "OfficialTime": "05:22:05",
             "RankAll": "7956",
+            "RankCat": "2527",
             "NetTime": "05:16:39"
         },
         {
             "Bibnr": "5329",
             "Name": "蔡瑞麟",
+            "Category": "男30-39歲",
             "OfficialTime": "05:22:07",
             "RankAll": "7957",
+            "RankCat": "1496",
             "NetTime": "05:16:28"
         },
         {
             "Bibnr": "13423",
             "Name": "李信興",
+            "Category": "男40-49歲",
             "OfficialTime": "05:22:09",
             "RankAll": "7958",
+            "RankCat": "2528",
             "NetTime": "05:16:36"
         },
         {
             "Bibnr": "4608",
             "Name": "內田俊",
+            "Category": "男50-59歲",
             "OfficialTime": "05:22:09",
             "RankAll": "7959",
+            "RankCat": "1468",
             "NetTime": "05:16:58"
         },
         {
             "Bibnr": "11501",
             "Name": "陳紀元",
+            "Category": "男20-29歲",
             "OfficialTime": "05:22:12",
             "RankAll": "7960",
+            "RankCat": "376",
             "NetTime": "05:17:36"
         },
         {
             "Bibnr": "11488",
             "Name": "劉峻廷",
+            "Category": "男40-49歲",
             "OfficialTime": "05:22:18",
             "RankAll": "7961",
+            "RankCat": "2529",
             "NetTime": "05:21:03"
         },
         {
             "Bibnr": "2271",
             "Name": "王敬紅",
+            "Category": "女50-59歲",
             "OfficialTime": "05:22:18",
             "RankAll": "7962",
+            "RankCat": "410",
             "NetTime": "05:16:17"
         },
         {
             "Bibnr": "6371",
             "Name": "詹曜郎",
+            "Category": "男50-59歲",
             "OfficialTime": "05:22:22",
             "RankAll": "7963",
+            "RankCat": "1469",
             "NetTime": "05:16:41"
         },
         {
             "Bibnr": "4318",
             "Name": "林玉萍",
+            "Category": "女60歲+",
             "OfficialTime": "05:22:24",
             "RankAll": "7964",
+            "RankCat": "55",
             "NetTime": "05:18:17"
         },
         {
             "Bibnr": "4366",
             "Name": "陳碧媛",
+            "Category": "女40-49歲",
             "OfficialTime": "05:22:25",
             "RankAll": "7965",
+            "RankCat": "730",
             "NetTime": "05:19:37"
         },
         {
             "Bibnr": "4389",
             "Name": "陳華君",
+            "Category": "女40-49歲",
             "OfficialTime": "05:22:25",
             "RankAll": "7966",
+            "RankCat": "731",
             "NetTime": "05:18:18"
         },
         {
             "Bibnr": "7199",
             "Name": "吳建鴻",
+            "Category": "男40-49歲",
             "OfficialTime": "05:22:30",
             "RankAll": "7967",
+            "RankCat": "2530",
             "NetTime": "05:16:20"
         },
         {
             "Bibnr": "13467",
             "Name": "梁靖暐",
+            "Category": "男30-39歲",
             "OfficialTime": "05:22:31",
             "RankAll": "7968",
+            "RankCat": "1497",
             "NetTime": "05:16:47"
         },
         {
             "Bibnr": "12491",
             "Name": "邱己維",
+            "Category": "男40-49歲",
             "OfficialTime": "05:22:35",
             "RankAll": "7969",
+            "RankCat": "2531",
             "NetTime": "05:16:59"
         },
         {
             "Bibnr": "2152",
             "Name": "梁嬋女",
+            "Category": "女50-59歲",
             "OfficialTime": "05:22:38",
             "RankAll": "7970",
+            "RankCat": "411",
             "NetTime": "05:20:01"
         },
         {
             "Bibnr": "2374",
             "Name": "曾柔瑜",
+            "Category": "女40-49歲",
             "OfficialTime": "05:22:41",
             "RankAll": "7971",
+            "RankCat": "732",
             "NetTime": "05:17:29"
         },
         {
             "Bibnr": "11537",
             "Name": "洪偉倫",
+            "Category": "男30-39歲",
             "OfficialTime": "05:22:42",
             "RankAll": "7972",
+            "RankCat": "1498",
             "NetTime": "05:18:54"
         },
         {
             "Bibnr": "10458",
             "Name": "楊廣基",
+            "Category": "男60歲+",
             "OfficialTime": "05:22:45",
             "RankAll": "7973",
+            "RankCat": "386",
             "NetTime": "05:20:50"
         },
         {
             "Bibnr": "4407",
             "Name": "程彩虹",
+            "Category": "女50-59歲",
             "OfficialTime": "05:22:48",
             "RankAll": "7974",
+            "RankCat": "412",
             "NetTime": "05:17:46"
         },
         {
             "Bibnr": "7308",
             "Name": "游禎民",
+            "Category": "男60歲+",
             "OfficialTime": "05:22:49",
             "RankAll": "7975",
+            "RankCat": "387",
             "NetTime": "05:19:08"
         },
         {
             "Bibnr": "5109",
             "Name": "周四川",
+            "Category": "男40-49歲",
             "OfficialTime": "05:22:54",
             "RankAll": "7976",
+            "RankCat": "2532",
             "NetTime": "05:17:43"
         },
         {
             "Bibnr": "5512",
             "Name": "白宇軒",
+            "Category": "男19歲-",
             "OfficialTime": "05:22:55",
             "RankAll": "7977",
+            "RankCat": "5",
             "NetTime": "05:18:17"
         },
         {
             "Bibnr": "6008",
             "Name": "陳彥綸",
+            "Category": "男20-29歲",
             "OfficialTime": "05:22:56",
             "RankAll": "7978",
+            "RankCat": "377",
             "NetTime": "05:17:20"
         },
         {
             "Bibnr": "12751",
             "Name": "陳世平",
+            "Category": "男60歲+",
             "OfficialTime": "05:22:56",
             "RankAll": "7979",
+            "RankCat": "388",
             "NetTime": "05:18:50"
         },
         {
             "Bibnr": "12025",
             "Name": "林信宇",
+            "Category": "男50-59歲",
             "OfficialTime": "05:22:59",
             "RankAll": "7980",
+            "RankCat": "1470",
             "NetTime": "05:17:22"
         },
         {
             "Bibnr": "4469",
             "Name": "朱立筠",
+            "Category": "女30-39歲",
             "OfficialTime": "05:23:01",
             "RankAll": "7981",
+            "RankCat": "378",
             "NetTime": "05:18:03"
         },
         {
             "Bibnr": "11198",
             "Name": "徐正光",
+            "Category": "男50-59歲",
             "OfficialTime": "05:23:03",
             "RankAll": "7982",
+            "RankCat": "1471",
             "NetTime": "05:19:27"
         },
         {
             "Bibnr": "2227",
             "Name": "林柔妤",
+            "Category": "女20-29歲",
             "OfficialTime": "05:23:04",
             "RankAll": "7983",
+            "RankCat": "95",
             "NetTime": "05:17:18"
         },
         {
             "Bibnr": "7196",
             "Name": "林凡幃",
+            "Category": "男40-49歲",
             "OfficialTime": "05:23:06",
             "RankAll": "7984",
+            "RankCat": "2533",
             "NetTime": "05:18:27"
         },
         {
             "Bibnr": "2325",
             "Name": "王貞喻",
+            "Category": "女20-29歲",
             "OfficialTime": "05:23:06",
             "RankAll": "7985",
+            "RankCat": "96",
             "NetTime": "05:17:10"
         },
         {
             "Bibnr": "7282",
             "Name": "蕭詩駿",
+            "Category": "男40-49歲",
             "OfficialTime": "05:23:10",
             "RankAll": "7986",
+            "RankCat": "2534",
             "NetTime": "05:17:47"
         },
         {
             "Bibnr": "12753",
             "Name": "呂旻霖",
+            "Category": "男40-49歲",
             "OfficialTime": "05:23:11",
             "RankAll": "7987",
+            "RankCat": "2535",
             "NetTime": "05:18:19"
         },
         {
             "Bibnr": "13273",
             "Name": "戴伯穎",
+            "Category": "男40-49歲",
             "OfficialTime": "05:23:12",
             "RankAll": "7988",
+            "RankCat": "2536",
             "NetTime": "05:20:12"
         },
         {
             "Bibnr": "10119",
             "Name": "蔡世傑",
+            "Category": "男40-49歲",
             "OfficialTime": "05:23:13",
             "RankAll": "7989",
+            "RankCat": "2537",
             "NetTime": "05:23:06"
         },
         {
             "Bibnr": "1274",
             "Name": "戴賢明",
+            "Category": "男40-49歲",
             "OfficialTime": "05:23:14",
             "RankAll": "7990",
+            "RankCat": "2538",
             "NetTime": "05:18:35"
         },
         {
             "Bibnr": "11638",
             "Name": "江科樟",
+            "Category": "男50-59歲",
             "OfficialTime": "05:23:15",
             "RankAll": "7991",
+            "RankCat": "1472",
             "NetTime": "05:17:02"
         },
         {
             "Bibnr": "4562",
             "Name": "鄭雅芳",
+            "Category": "女40-49歲",
             "OfficialTime": "05:23:16",
             "RankAll": "7992",
+            "RankCat": "733",
             "NetTime": "05:18:59"
         },
         {
             "Bibnr": "5040",
             "Name": "張育銓",
+            "Category": "男40-49歲",
             "OfficialTime": "05:23:18",
             "RankAll": "7993",
+            "RankCat": "2539",
             "NetTime": "05:18:05"
         },
         {
             "Bibnr": "13317",
             "Name": "王勝保",
+            "Category": "男40-49歲",
             "OfficialTime": "05:23:20",
             "RankAll": "7994",
+            "RankCat": "2540",
             "NetTime": "05:19:50"
         },
         {
             "Bibnr": "13223",
             "Name": "陳家鈞",
+            "Category": "男30-39歲",
             "OfficialTime": "05:23:20",
             "RankAll": "7995",
+            "RankCat": "1499",
             "NetTime": "05:17:41"
-        },
-        {
-            "Bibnr": "2736",
-            "Name": "陳宜里",
-            "OfficialTime": "05:23:22",
-            "RankAll": "7996",
-            "NetTime": "05:18:47"
-        },
-        {
-            "Bibnr": "1564",
-            "Name": "賴聰賢",
-            "OfficialTime": "05:23:24",
-            "RankAll": "7997",
-            "NetTime": "05:20:15"
-        },
-        {
-            "Bibnr": "4011",
-            "Name": "陳思頴",
-            "OfficialTime": "05:23:25",
-            "RankAll": "7998",
-            "NetTime": "05:21:03"
-        },
-        {
-            "Bibnr": "5210",
-            "Name": "蘇庭諒",
-            "OfficialTime": "05:23:26",
-            "RankAll": "7999",
-            "NetTime": "05:17:40"
-        },
-        {
-            "Bibnr": "5273",
-            "Name": "劉家源",
-            "OfficialTime": "05:23:32",
-            "RankAll": "8000",
-            "NetTime": "05:19:00"
         }
     ]
 }

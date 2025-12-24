@@ -3,3504 +3,4504 @@
     "total_records": 500,
     "results": [
         {
+            "Bibnr": "35223",
+            "Name": "呂振華",
+            "Category": "男子組",
+            "OfficialTime": "01:45:45",
+            "RankAll": "1999",
+            "RankCat": "1764",
+            "NetTime": "01:42:16"
+        },
+        {
+            "Bibnr": "31737",
+            "Name": "吳俊德",
+            "Category": "男子組",
+            "OfficialTime": "01:45:46",
+            "RankAll": "2000",
+            "RankCat": "1765",
+            "NetTime": "01:41:49"
+        },
+        {
             "Bibnr": "36746",
             "Name": "潘可宸",
+            "Category": "男子組",
             "OfficialTime": "01:45:47",
             "RankAll": "2001",
+            "RankCat": "1766",
             "NetTime": "01:44:48"
         },
         {
             "Bibnr": "22784",
             "Name": "凃凱騰",
+            "Category": "男子組",
             "OfficialTime": "01:45:47",
             "RankAll": "2002",
+            "RankCat": "1767",
             "NetTime": "01:44:39"
         },
         {
             "Bibnr": "21418",
             "Name": "謝旻珊",
+            "Category": "女子組",
             "OfficialTime": "01:45:47",
             "RankAll": "2003",
+            "RankCat": "227",
             "NetTime": "01:42:23"
         },
         {
             "Bibnr": "35172",
             "Name": "饒賀凱 陳文斌",
+            "Category": "男視障選手",
             "OfficialTime": "01:45:47",
             "RankAll": "2004",
+            "RankCat": "1",
             "NetTime": "01:41:36"
         },
         {
             "Bibnr": "31055",
             "Name": "林致廷",
+            "Category": "男子組",
             "OfficialTime": "01:45:49",
             "RankAll": "2005",
+            "RankCat": "1768",
             "NetTime": "01:45:40"
         },
         {
             "Bibnr": "32509",
             "Name": "Cheung Chi Ming",
+            "Category": "男子組",
             "OfficialTime": "01:45:49",
             "RankAll": "2006",
+            "RankCat": "1769",
             "NetTime": "01:41:41"
         },
         {
             "Bibnr": "20096",
             "Name": "黃宇葶",
+            "Category": "女子組",
             "OfficialTime": "01:45:50",
             "RankAll": "2007",
+            "RankCat": "228",
             "NetTime": "01:45:38"
         },
         {
             "Bibnr": "16734",
             "Name": "Chan Pui Lam",
+            "Category": "女子組",
             "OfficialTime": "01:45:50",
             "RankAll": "2008",
+            "RankCat": "229",
             "NetTime": "01:43:22"
         },
         {
             "Bibnr": "31043",
             "Name": "NG HIU FUNG",
+            "Category": "男子組",
             "OfficialTime": "01:45:51",
             "RankAll": "2009",
+            "RankCat": "1770",
             "NetTime": "01:43:38"
         },
         {
             "Bibnr": "37000",
             "Name": "ED NORVILLE JOHN ABA",
+            "Category": "男子組",
             "OfficialTime": "01:45:52",
             "RankAll": "2010",
+            "RankCat": "1771",
             "NetTime": "01:37:50"
         },
         {
             "Bibnr": "32535",
             "Name": "黃品豪",
+            "Category": "男子組",
             "OfficialTime": "01:45:52",
             "RankAll": "2011",
+            "RankCat": "1772",
             "NetTime": "01:45:35"
         },
         {
             "Bibnr": "33233",
             "Name": "蔡良春",
+            "Category": "男子組",
             "OfficialTime": "01:45:52",
             "RankAll": "2012",
+            "RankCat": "1773",
             "NetTime": "01:41:47"
         },
         {
             "Bibnr": "37046",
             "Name": "龔存宇",
+            "Category": "男子組",
             "OfficialTime": "01:45:52",
             "RankAll": "2013",
+            "RankCat": "1774",
             "NetTime": "01:43:26"
         },
         {
             "Bibnr": "23567",
             "Name": "黃勝為",
+            "Category": "男子組",
             "OfficialTime": "01:45:52",
             "RankAll": "2014",
+            "RankCat": "1775",
             "NetTime": "01:41:46"
         },
         {
             "Bibnr": "29644",
             "Name": "Harshal Ashok Shah",
+            "Category": "男子組",
             "OfficialTime": "01:45:53",
             "RankAll": "2015",
+            "RankCat": "1776",
             "NetTime": "01:42:14"
         },
         {
             "Bibnr": "23620",
             "Name": "張士強",
+            "Category": "男子組",
             "OfficialTime": "01:45:53",
             "RankAll": "2016",
+            "RankCat": "1777",
             "NetTime": "01:44:21"
         },
         {
             "Bibnr": "21785",
             "Name": "林郁程",
+            "Category": "男子組",
             "OfficialTime": "01:45:54",
             "RankAll": "2017",
+            "RankCat": "1778",
             "NetTime": "01:43:48"
         },
         {
             "Bibnr": "25061",
             "Name": "許遵昱",
+            "Category": "男子組",
             "OfficialTime": "01:45:56",
             "RankAll": "2018",
+            "RankCat": "1779",
             "NetTime": "01:44:59"
         },
         {
             "Bibnr": "19443",
             "Name": "Keemverlyn Ortez",
+            "Category": "女子組",
             "OfficialTime": "01:45:56",
             "RankAll": "2019",
+            "RankCat": "230",
             "NetTime": "01:45:39"
         },
         {
             "Bibnr": "22420",
             "Name": "林勇成",
+            "Category": "男子組",
             "OfficialTime": "01:45:56",
             "RankAll": "2020",
+            "RankCat": "1780",
             "NetTime": "01:39:26"
         },
         {
             "Bibnr": "20286",
             "Name": "張雅琪",
+            "Category": "女子組",
             "OfficialTime": "01:45:56",
             "RankAll": "2021",
+            "RankCat": "231",
             "NetTime": "01:44:43"
         },
         {
             "Bibnr": "23301",
             "Name": "吳哲仰",
+            "Category": "男子組",
             "OfficialTime": "01:45:57",
             "RankAll": "2022",
+            "RankCat": "1781",
             "NetTime": "01:43:44"
         },
         {
             "Bibnr": "21423",
             "Name": "Revital",
+            "Category": "女子組",
             "OfficialTime": "01:45:57",
             "RankAll": "2023",
+            "RankCat": "232",
             "NetTime": "01:45:40"
         },
         {
             "Bibnr": "30211",
             "Name": "董力魁",
+            "Category": "男子組",
             "OfficialTime": "01:45:57",
             "RankAll": "2024",
+            "RankCat": "1782",
             "NetTime": "01:45:34"
         },
         {
             "Bibnr": "33131",
             "Name": "廖子瑋",
+            "Category": "男子組",
             "OfficialTime": "01:45:58",
             "RankAll": "2025",
+            "RankCat": "1783",
             "NetTime": "01:45:39"
         },
         {
             "Bibnr": "22701",
             "Name": "黃偉倫",
+            "Category": "男子組",
             "OfficialTime": "01:45:58",
             "RankAll": "2026",
+            "RankCat": "1784",
             "NetTime": "01:45:37"
         },
         {
             "Bibnr": "23615",
             "Name": "張睿宇",
+            "Category": "男子組",
             "OfficialTime": "01:45:58",
             "RankAll": "2027",
+            "RankCat": "1785",
             "NetTime": "01:43:15"
         },
         {
             "Bibnr": "20243",
             "Name": "李文娟",
+            "Category": "女子組",
             "OfficialTime": "01:45:58",
             "RankAll": "2028",
+            "RankCat": "233",
             "NetTime": "01:42:25"
         },
         {
             "Bibnr": "16436",
             "Name": "江品逸",
+            "Category": "女子組",
             "OfficialTime": "01:45:58",
             "RankAll": "2029",
+            "RankCat": "234",
             "NetTime": "01:43:09"
         },
         {
             "Bibnr": "35090",
             "Name": "陳建章",
+            "Category": "男子組",
             "OfficialTime": "01:45:58",
             "RankAll": "2030",
+            "RankCat": "1786",
             "NetTime": "01:44:05"
         },
         {
             "Bibnr": "23340",
             "Name": "程昱文",
+            "Category": "男子組",
             "OfficialTime": "01:45:58",
             "RankAll": "2031",
+            "RankCat": "1787",
             "NetTime": "01:44:19"
         },
         {
             "Bibnr": "31159",
             "Name": "廖偉誠",
+            "Category": "男子組",
             "OfficialTime": "01:45:59",
             "RankAll": "2032",
+            "RankCat": "1788",
             "NetTime": "01:41:06"
         },
         {
             "Bibnr": "34620",
             "Name": "Lo Ho Fung",
+            "Category": "男子組",
             "OfficialTime": "01:45:59",
             "RankAll": "2033",
+            "RankCat": "1789",
             "NetTime": "01:38:56"
         },
         {
             "Bibnr": "37265",
             "Name": "蔡宗霖",
+            "Category": "男子組",
             "OfficialTime": "01:45:59",
             "RankAll": "2034",
+            "RankCat": "1790",
             "NetTime": "01:42:33"
         },
         {
             "Bibnr": "34696",
             "Name": "楊晉嘉",
+            "Category": "男子組",
             "OfficialTime": "01:46:00",
             "RankAll": "2035",
+            "RankCat": "1791",
             "NetTime": "01:44:11"
         },
         {
             "Bibnr": "22699",
             "Name": "房福泰",
+            "Category": "男子組",
             "OfficialTime": "01:46:00",
             "RankAll": "2036",
+            "RankCat": "1792",
             "NetTime": "01:45:34"
         },
         {
             "Bibnr": "27644",
             "Name": "白輝湟",
+            "Category": "男子組",
             "OfficialTime": "01:46:00",
             "RankAll": "2037",
+            "RankCat": "1793",
             "NetTime": "01:44:58"
         },
         {
             "Bibnr": "15191",
             "Name": "詹佳茹",
+            "Category": "女子組",
             "OfficialTime": "01:46:00",
             "RankAll": "2038",
+            "RankCat": "235",
             "NetTime": "01:45:40"
         },
         {
             "Bibnr": "28536",
             "Name": "蔡秉翰",
+            "Category": "男子組",
             "OfficialTime": "01:46:01",
             "RankAll": "2039",
+            "RankCat": "1794",
             "NetTime": "01:43:52"
         },
         {
             "Bibnr": "29604",
             "Name": "李原傑",
+            "Category": "男子組",
             "OfficialTime": "01:46:01",
             "RankAll": "2040",
+            "RankCat": "1795",
             "NetTime": "01:44:14"
         },
         {
             "Bibnr": "22448",
             "Name": "張庭源",
+            "Category": "男子組",
             "OfficialTime": "01:46:01",
             "RankAll": "2041",
+            "RankCat": "1796",
             "NetTime": "01:42:54"
         },
         {
             "Bibnr": "36088",
             "Name": "羅培基",
+            "Category": "男子組",
             "OfficialTime": "01:46:01",
             "RankAll": "2042",
+            "RankCat": "1797",
             "NetTime": "01:38:51"
         },
         {
             "Bibnr": "14324",
             "Name": "陳容",
+            "Category": "女子組",
             "OfficialTime": "01:46:02",
             "RankAll": "2043",
+            "RankCat": "236",
             "NetTime": "01:44:43"
         },
         {
             "Bibnr": "26152",
             "Name": "陳錦泰",
+            "Category": "男子組",
             "OfficialTime": "01:46:02",
             "RankAll": "2044",
+            "RankCat": "1798",
             "NetTime": "01:44:51"
         },
         {
             "Bibnr": "15538",
             "Name": "Lai Chi lok Sophia",
+            "Category": "女子組",
             "OfficialTime": "01:46:03",
             "RankAll": "2045",
+            "RankCat": "237",
             "NetTime": "01:41:08"
         },
         {
             "Bibnr": "37397",
             "Name": "盧昆賢",
+            "Category": "男子組",
             "OfficialTime": "01:46:03",
             "RankAll": "2046",
+            "RankCat": "1799",
             "NetTime": "01:43:32"
         },
         {
             "Bibnr": "21435",
             "Name": "房思瑜",
+            "Category": "女子組",
             "OfficialTime": "01:46:04",
             "RankAll": "2047",
+            "RankCat": "238",
             "NetTime": "01:42:55"
         },
         {
             "Bibnr": "22479",
             "Name": "張庭瑞",
+            "Category": "男子組",
             "OfficialTime": "01:46:04",
             "RankAll": "2048",
+            "RankCat": "1800",
             "NetTime": "01:44:25"
         },
         {
             "Bibnr": "23687",
             "Name": "劉庭瑞",
+            "Category": "男子組",
             "OfficialTime": "01:46:04",
             "RankAll": "2049",
+            "RankCat": "1801",
             "NetTime": "01:44:52"
         },
         {
             "Bibnr": "37093",
             "Name": "蕭智文",
+            "Category": "男子組",
             "OfficialTime": "01:46:05",
             "RankAll": "2050",
+            "RankCat": "1802",
             "NetTime": "01:43:33"
         },
         {
             "Bibnr": "33412",
             "Name": "高介仲",
+            "Category": "男子組",
             "OfficialTime": "01:46:05",
             "RankAll": "2051",
+            "RankCat": "1803",
             "NetTime": "01:45:46"
         },
         {
             "Bibnr": "23577",
             "Name": "王偉",
+            "Category": "男子組",
             "OfficialTime": "01:46:06",
             "RankAll": "2052",
+            "RankCat": "1804",
             "NetTime": "01:44:07"
         },
         {
             "Bibnr": "34413",
             "Name": "向偉俊",
+            "Category": "男子組",
             "OfficialTime": "01:46:06",
             "RankAll": "2053",
+            "RankCat": "1805",
             "NetTime": "01:43:06"
         },
         {
             "Bibnr": "33524",
             "Name": "柳旻宏",
+            "Category": "男子組",
             "OfficialTime": "01:46:06",
             "RankAll": "2054",
+            "RankCat": "1806",
             "NetTime": "01:44:59"
         },
         {
             "Bibnr": "32085",
             "Name": "陳武松",
+            "Category": "男子組",
             "OfficialTime": "01:46:07",
             "RankAll": "2055",
+            "RankCat": "1807",
             "NetTime": "01:43:35"
         },
         {
             "Bibnr": "31077",
             "Name": "李威廷",
+            "Category": "男子組",
             "OfficialTime": "01:46:08",
             "RankAll": "2056",
+            "RankCat": "1808",
             "NetTime": "01:44:46"
         },
         {
             "Bibnr": "24424",
             "Name": "Cheng tsz chung",
+            "Category": "男子組",
             "OfficialTime": "01:46:09",
             "RankAll": "2057",
+            "RankCat": "1809",
             "NetTime": "01:38:36"
         },
         {
             "Bibnr": "27638",
             "Name": "覃漢傑",
+            "Category": "男子組",
             "OfficialTime": "01:46:09",
             "RankAll": "2058",
+            "RankCat": "1810",
             "NetTime": "01:39:37"
         },
         {
             "Bibnr": "28692",
             "Name": "陳治嘉",
+            "Category": "男子組",
             "OfficialTime": "01:46:09",
             "RankAll": "2059",
+            "RankCat": "1811",
             "NetTime": "01:41:55"
         },
         {
             "Bibnr": "29458",
             "Name": "蔡宗良",
+            "Category": "男子組",
             "OfficialTime": "01:46:10",
             "RankAll": "2060",
+            "RankCat": "1812",
             "NetTime": "01:45:29"
         },
         {
             "Bibnr": "15020",
             "Name": "許紓寧",
+            "Category": "女子組",
             "OfficialTime": "01:46:10",
             "RankAll": "2061",
+            "RankCat": "239",
             "NetTime": "01:41:24"
         },
         {
             "Bibnr": "24339",
             "Name": "黃教廉",
+            "Category": "男子組",
             "OfficialTime": "01:46:10",
             "RankAll": "2062",
+            "RankCat": "1813",
             "NetTime": "01:43:59"
         },
         {
             "Bibnr": "27344",
             "Name": "周展豪",
+            "Category": "男子組",
             "OfficialTime": "01:46:11",
             "RankAll": "2063",
+            "RankCat": "1814",
             "NetTime": "01:38:58"
         },
         {
             "Bibnr": "25231",
             "Name": "周柏伸",
+            "Category": "男子組",
             "OfficialTime": "01:46:13",
             "RankAll": "2064",
+            "RankCat": "1815",
             "NetTime": "01:45:32"
         },
         {
             "Bibnr": "30250",
             "Name": "高銘澄",
+            "Category": "男子組",
             "OfficialTime": "01:46:13",
             "RankAll": "2065",
+            "RankCat": "1816",
             "NetTime": "01:39:08"
         },
         {
             "Bibnr": "27073",
             "Name": "王敏吾",
+            "Category": "男子組",
             "OfficialTime": "01:46:14",
             "RankAll": "2066",
+            "RankCat": "1817",
             "NetTime": "01:44:55"
         },
         {
             "Bibnr": "24209",
             "Name": "林陳鴻",
+            "Category": "男子組",
             "OfficialTime": "01:46:15",
             "RankAll": "2067",
+            "RankCat": "1818",
             "NetTime": "01:43:23"
         },
         {
             "Bibnr": "28645",
             "Name": "褚俊成",
+            "Category": "男子組",
             "OfficialTime": "01:46:15",
             "RankAll": "2068",
+            "RankCat": "1819",
             "NetTime": "01:44:07"
         },
         {
             "Bibnr": "22572",
             "Name": "史介豪",
+            "Category": "男子組",
             "OfficialTime": "01:46:15",
             "RankAll": "2069",
+            "RankCat": "1820",
             "NetTime": "01:42:08"
         },
         {
             "Bibnr": "21282",
             "Name": "OKADA MAMI",
+            "Category": "女子組",
             "OfficialTime": "01:46:15",
             "RankAll": "2070",
+            "RankCat": "240",
             "NetTime": "01:41:59"
         },
         {
             "Bibnr": "27056",
             "Name": "蔡沛欣",
+            "Category": "男子組",
             "OfficialTime": "01:46:17",
             "RankAll": "2071",
+            "RankCat": "1821",
             "NetTime": "01:45:40"
         },
         {
             "Bibnr": "25750",
             "Name": "王子文",
+            "Category": "男子組",
             "OfficialTime": "01:46:17",
             "RankAll": "2072",
+            "RankCat": "1822",
             "NetTime": "01:44:20"
         },
         {
             "Bibnr": "28748",
             "Name": "章祐銓",
+            "Category": "男子組",
             "OfficialTime": "01:46:18",
             "RankAll": "2073",
+            "RankCat": "1823",
             "NetTime": "01:43:33"
         },
         {
             "Bibnr": "33550",
             "Name": "Sin Ka Hang Benny",
+            "Category": "男子組",
             "OfficialTime": "01:46:18",
             "RankAll": "2074",
+            "RankCat": "1824",
             "NetTime": "01:45:41"
         },
         {
             "Bibnr": "30484",
             "Name": "張睿鋒",
+            "Category": "男子組",
             "OfficialTime": "01:46:18",
             "RankAll": "2075",
+            "RankCat": "1825",
             "NetTime": "01:44:30"
         },
         {
             "Bibnr": "25541",
             "Name": "黃家成",
+            "Category": "男子組",
             "OfficialTime": "01:46:19",
             "RankAll": "2076",
+            "RankCat": "1826",
             "NetTime": "01:45:53"
         },
         {
             "Bibnr": "29678",
             "Name": "林宏彥",
+            "Category": "男子組",
             "OfficialTime": "01:46:19",
             "RankAll": "2077",
+            "RankCat": "1827",
             "NetTime": "01:44:46"
         },
         {
             "Bibnr": "33032",
             "Name": "江宇辰",
+            "Category": "男子組",
             "OfficialTime": "01:46:19",
             "RankAll": "2078",
+            "RankCat": "1828",
             "NetTime": "01:43:59"
         },
         {
             "Bibnr": "29555",
             "Name": "謝浩文",
+            "Category": "男子組",
             "OfficialTime": "01:46:19",
             "RankAll": "2079",
+            "RankCat": "1829",
             "NetTime": "01:43:27"
         },
         {
             "Bibnr": "26017",
             "Name": "陳宏揚",
+            "Category": "男子組",
             "OfficialTime": "01:46:19",
             "RankAll": "2080",
+            "RankCat": "1830",
             "NetTime": "01:45:52"
         },
         {
             "Bibnr": "23339",
             "Name": "劉宜宗",
+            "Category": "男子組",
             "OfficialTime": "01:46:19",
             "RankAll": "2081",
+            "RankCat": "1831",
             "NetTime": "01:43:03"
         },
         {
             "Bibnr": "26728",
             "Name": "連群",
+            "Category": "男子組",
             "OfficialTime": "01:46:19",
             "RankAll": "2082",
+            "RankCat": "1832",
             "NetTime": "01:44:16"
         },
         {
             "Bibnr": "32345",
             "Name": "林聖哲",
+            "Category": "男子組",
             "OfficialTime": "01:46:20",
             "RankAll": "2083",
+            "RankCat": "1833",
             "NetTime": "01:42:29"
         },
         {
             "Bibnr": "22269",
             "Name": "許博貿",
+            "Category": "男子組",
             "OfficialTime": "01:46:20",
             "RankAll": "2084",
+            "RankCat": "1834",
             "NetTime": "01:43:58"
         },
         {
             "Bibnr": "24309",
             "Name": "連城廣",
+            "Category": "男子組",
             "OfficialTime": "01:46:20",
             "RankAll": "2085",
+            "RankCat": "1835",
             "NetTime": "01:41:39"
         },
         {
             "Bibnr": "23228",
             "Name": "林毅",
+            "Category": "男子組",
             "OfficialTime": "01:46:20",
             "RankAll": "2086",
+            "RankCat": "1836",
             "NetTime": "01:41:53"
         },
         {
             "Bibnr": "32421",
             "Name": "李金庭",
+            "Category": "男子組",
             "OfficialTime": "01:46:21",
             "RankAll": "2087",
+            "RankCat": "1837",
             "NetTime": "01:43:43"
         },
         {
             "Bibnr": "23299",
             "Name": "何容",
+            "Category": "男子組",
             "OfficialTime": "01:46:21",
             "RankAll": "2088",
+            "RankCat": "1838",
             "NetTime": "01:41:59"
         },
         {
             "Bibnr": "34400",
             "Name": "張嘉麟",
+            "Category": "男子組",
             "OfficialTime": "01:46:21",
             "RankAll": "2089",
+            "RankCat": "1839",
             "NetTime": "01:45:47"
         },
         {
             "Bibnr": "26431",
             "Name": "李盈慶",
+            "Category": "男子組",
             "OfficialTime": "01:46:21",
             "RankAll": "2090",
+            "RankCat": "1840",
             "NetTime": "01:44:46"
         },
         {
             "Bibnr": "32069",
             "Name": "張耀洲",
+            "Category": "男子組",
             "OfficialTime": "01:46:22",
             "RankAll": "2091",
+            "RankCat": "1841",
             "NetTime": "01:43:59"
         },
         {
             "Bibnr": "37188",
             "Name": "馮俊中",
+            "Category": "男子組",
             "OfficialTime": "01:46:22",
             "RankAll": "2092",
+            "RankCat": "1842",
             "NetTime": "01:43:09"
         },
         {
             "Bibnr": "14404",
             "Name": "蔡佳樺",
+            "Category": "女子組",
             "OfficialTime": "01:46:22",
             "RankAll": "2093",
+            "RankCat": "241",
             "NetTime": "01:44:01"
         },
         {
             "Bibnr": "16353",
             "Name": "Tse Wing Yan Rouisa",
+            "Category": "女子組",
             "OfficialTime": "01:46:22",
             "RankAll": "2094",
+            "RankCat": "242",
             "NetTime": "01:43:43"
         },
         {
             "Bibnr": "22552",
             "Name": "林銘華",
+            "Category": "男子組",
             "OfficialTime": "01:46:23",
             "RankAll": "2095",
+            "RankCat": "1843",
             "NetTime": "01:45:04"
         },
         {
             "Bibnr": "37033",
             "Name": "林信佑",
+            "Category": "男子組",
             "OfficialTime": "01:46:24",
             "RankAll": "2096",
+            "RankCat": "1844",
             "NetTime": "01:44:27"
         },
         {
             "Bibnr": "37090",
             "Name": "呂崇維",
+            "Category": "男子組",
             "OfficialTime": "01:46:24",
             "RankAll": "2097",
+            "RankCat": "1845",
             "NetTime": "01:43:01"
         },
         {
             "Bibnr": "20230",
             "Name": "Cheung Shuk Wa",
+            "Category": "女子組",
             "OfficialTime": "01:46:25",
             "RankAll": "2098",
+            "RankCat": "243",
             "NetTime": "01:44:55"
         },
         {
             "Bibnr": "22483",
             "Name": "陳克奮",
+            "Category": "男子組",
             "OfficialTime": "01:46:25",
             "RankAll": "2099",
+            "RankCat": "1846",
             "NetTime": "01:43:46"
         },
         {
             "Bibnr": "28210",
             "Name": "林育賢",
+            "Category": "男子組",
             "OfficialTime": "01:46:26",
             "RankAll": "2100",
+            "RankCat": "1847",
             "NetTime": "01:45:08"
         },
         {
             "Bibnr": "34687",
             "Name": "柯伯昇",
+            "Category": "男子組",
             "OfficialTime": "01:46:26",
             "RankAll": "2101",
+            "RankCat": "1848",
             "NetTime": "01:45:36"
         },
         {
             "Bibnr": "35204",
             "Name": "王佳祥",
+            "Category": "男子組",
             "OfficialTime": "01:46:27",
             "RankAll": "2102",
+            "RankCat": "1849",
             "NetTime": "01:44:58"
         },
         {
             "Bibnr": "22731",
             "Name": "李文翔",
+            "Category": "男子組",
             "OfficialTime": "01:46:28",
             "RankAll": "2103",
+            "RankCat": "1850",
             "NetTime": "01:43:30"
         },
         {
             "Bibnr": "19112",
             "Name": "黃毓婷",
+            "Category": "女子組",
             "OfficialTime": "01:46:28",
             "RankAll": "2104",
+            "RankCat": "244",
             "NetTime": "01:44:13"
         },
         {
             "Bibnr": "36281",
             "Name": "林予鴻",
+            "Category": "男子組",
             "OfficialTime": "01:46:28",
             "RankAll": "2105",
+            "RankCat": "1851",
             "NetTime": "01:41:46"
         },
         {
             "Bibnr": "32470",
             "Name": "黃昫喬",
+            "Category": "男子組",
             "OfficialTime": "01:46:28",
             "RankAll": "2106",
+            "RankCat": "1852",
             "NetTime": "01:44:14"
         },
         {
             "Bibnr": "37283",
             "Name": "陳金明",
+            "Category": "男子組",
             "OfficialTime": "01:46:28",
             "RankAll": "2107",
+            "RankCat": "1853",
             "NetTime": "01:46:06"
         },
         {
             "Bibnr": "26515",
             "Name": "楊明崑",
+            "Category": "男子組",
             "OfficialTime": "01:46:29",
             "RankAll": "2108",
+            "RankCat": "1854",
             "NetTime": "01:44:20"
         },
         {
             "Bibnr": "34510",
             "Name": "Ngan kwok leung",
+            "Category": "男子組",
             "OfficialTime": "01:46:29",
             "RankAll": "2109",
+            "RankCat": "1855",
             "NetTime": "01:44:58"
         },
         {
             "Bibnr": "21783",
             "Name": "李善之",
+            "Category": "男子組",
             "OfficialTime": "01:46:30",
             "RankAll": "2110",
+            "RankCat": "1856",
             "NetTime": "01:44:50"
         },
         {
             "Bibnr": "35239",
             "Name": "湯仁安",
+            "Category": "男子組",
             "OfficialTime": "01:46:30",
             "RankAll": "2111",
+            "RankCat": "1857",
             "NetTime": "01:46:27"
         },
         {
             "Bibnr": "35013",
             "Name": "曹源展",
+            "Category": "男子組",
             "OfficialTime": "01:46:30",
             "RankAll": "2112",
+            "RankCat": "1858",
             "NetTime": "01:40:48"
         },
         {
             "Bibnr": "25240",
             "Name": "梁友寧",
+            "Category": "男子組",
             "OfficialTime": "01:46:31",
             "RankAll": "2113",
+            "RankCat": "1859",
             "NetTime": "01:44:49"
         },
         {
             "Bibnr": "34001",
             "Name": "彭思安",
+            "Category": "男子組",
             "OfficialTime": "01:46:32",
             "RankAll": "2114",
+            "RankCat": "1860",
             "NetTime": "01:40:11"
         },
         {
             "Bibnr": "24400",
             "Name": "梁峻嘉",
+            "Category": "男子組",
             "OfficialTime": "01:46:32",
             "RankAll": "2115",
+            "RankCat": "1861",
             "NetTime": "01:43:19"
         },
         {
             "Bibnr": "28102",
             "Name": "陳泳騰",
+            "Category": "男子組",
             "OfficialTime": "01:46:33",
             "RankAll": "2116",
+            "RankCat": "1862",
             "NetTime": "01:38:11"
         },
         {
             "Bibnr": "26438",
             "Name": "李振維",
+            "Category": "男子組",
             "OfficialTime": "01:46:33",
             "RankAll": "2117",
+            "RankCat": "1863",
             "NetTime": "01:38:12"
         },
         {
             "Bibnr": "20352",
             "Name": "高舜儀",
+            "Category": "女子組",
             "OfficialTime": "01:46:33",
             "RankAll": "2118",
+            "RankCat": "245",
             "NetTime": "01:44:20"
         },
         {
             "Bibnr": "22478",
             "Name": "楊政翰",
+            "Category": "男子組",
             "OfficialTime": "01:46:33",
             "RankAll": "2119",
+            "RankCat": "1864",
             "NetTime": "01:34:01"
         },
         {
             "Bibnr": "31248",
             "Name": "潘奕旬",
+            "Category": "男子組",
             "OfficialTime": "01:46:35",
             "RankAll": "2120",
+            "RankCat": "1865",
             "NetTime": "01:44:41"
         },
         {
             "Bibnr": "22110",
             "Name": "洪嘉佑",
+            "Category": "男子組",
             "OfficialTime": "01:46:36",
             "RankAll": "2121",
+            "RankCat": "1866",
             "NetTime": "01:44:49"
         },
         {
             "Bibnr": "29165",
             "Name": "周杰",
+            "Category": "男子組",
             "OfficialTime": "01:46:36",
             "RankAll": "2122",
+            "RankCat": "1867",
             "NetTime": "01:42:19"
         },
         {
             "Bibnr": "24020",
             "Name": "柯佾維",
+            "Category": "男子組",
             "OfficialTime": "01:46:36",
             "RankAll": "2123",
+            "RankCat": "1868",
             "NetTime": "01:42:21"
         },
         {
             "Bibnr": "22543",
             "Name": "Yajantra somnuk",
+            "Category": "男子組",
             "OfficialTime": "01:46:36",
             "RankAll": "2124",
+            "RankCat": "1869",
             "NetTime": "01:46:21"
         },
         {
             "Bibnr": "25550",
             "Name": "IP MAN TIK",
+            "Category": "男子組",
             "OfficialTime": "01:46:36",
             "RankAll": "2125",
+            "RankCat": "1870",
             "NetTime": "01:45:06"
         },
         {
             "Bibnr": "37319",
             "Name": "蔡書泓",
+            "Category": "男子組",
             "OfficialTime": "01:46:37",
             "RankAll": "2126",
+            "RankCat": "1871",
             "NetTime": "01:42:54"
         },
         {
             "Bibnr": "16434",
             "Name": "侯宜伶",
+            "Category": "女子組",
             "OfficialTime": "01:46:37",
             "RankAll": "2127",
+            "RankCat": "246",
             "NetTime": "01:46:06"
         },
         {
             "Bibnr": "32499",
             "Name": "江韋聖",
+            "Category": "男子組",
             "OfficialTime": "01:46:37",
             "RankAll": "2128",
+            "RankCat": "1872",
             "NetTime": "01:45:16"
         },
         {
             "Bibnr": "28483",
             "Name": "陳暐哲",
+            "Category": "男子組",
             "OfficialTime": "01:46:37",
             "RankAll": "2129",
+            "RankCat": "1873",
             "NetTime": "01:44:19"
         },
         {
             "Bibnr": "29294",
             "Name": "林奇",
+            "Category": "男子組",
             "OfficialTime": "01:46:37",
             "RankAll": "2130",
+            "RankCat": "1874",
             "NetTime": "01:45:38"
         },
         {
             "Bibnr": "20322",
             "Name": "周秀娟",
+            "Category": "女子組",
             "OfficialTime": "01:46:37",
             "RankAll": "2131",
+            "RankCat": "247",
             "NetTime": "01:46:09"
         },
         {
             "Bibnr": "27739",
             "Name": "莊明道",
+            "Category": "男子組",
             "OfficialTime": "01:46:38",
             "RankAll": "2132",
+            "RankCat": "1875",
             "NetTime": "01:41:39"
         },
         {
             "Bibnr": "29778",
             "Name": "徐宏民",
+            "Category": "男子組",
             "OfficialTime": "01:46:38",
             "RankAll": "2133",
+            "RankCat": "1876",
             "NetTime": "01:44:57"
         },
         {
             "Bibnr": "32361",
             "Name": "辛境浩",
+            "Category": "男子組",
             "OfficialTime": "01:46:38",
             "RankAll": "2134",
+            "RankCat": "1877",
             "NetTime": "01:44:26"
         },
         {
             "Bibnr": "16125",
             "Name": "柯廷螢",
+            "Category": "女子組",
             "OfficialTime": "01:46:38",
             "RankAll": "2135",
+            "RankCat": "248",
             "NetTime": "01:44:57"
         },
         {
             "Bibnr": "28139",
             "Name": "周育儒",
+            "Category": "男子組",
             "OfficialTime": "01:46:38",
             "RankAll": "2136",
+            "RankCat": "1878",
             "NetTime": "01:43:27"
         },
         {
             "Bibnr": "26230",
             "Name": "廖志鑫",
+            "Category": "男子組",
             "OfficialTime": "01:46:39",
             "RankAll": "2137",
+            "RankCat": "1879",
             "NetTime": "01:38:54"
         },
         {
             "Bibnr": "24786",
             "Name": "廖偉任",
+            "Category": "男子組",
             "OfficialTime": "01:46:39",
             "RankAll": "2138",
+            "RankCat": "1880",
             "NetTime": "01:45:53"
         },
         {
             "Bibnr": "34592",
             "Name": "羅子鈞",
+            "Category": "男子組",
             "OfficialTime": "01:46:39",
             "RankAll": "2139",
+            "RankCat": "1881",
             "NetTime": "01:44:12"
         },
         {
             "Bibnr": "21772",
             "Name": "鄭智勤",
+            "Category": "男子組",
             "OfficialTime": "01:46:40",
             "RankAll": "2140",
+            "RankCat": "1882",
             "NetTime": "01:42:12"
         },
         {
             "Bibnr": "22009",
             "Name": "梁家豪",
+            "Category": "男子組",
             "OfficialTime": "01:46:40",
             "RankAll": "2141",
+            "RankCat": "1883",
             "NetTime": "01:46:28"
         },
         {
             "Bibnr": "23331",
             "Name": "鄭經獻",
+            "Category": "男子組",
             "OfficialTime": "01:46:40",
             "RankAll": "2142",
+            "RankCat": "1884",
             "NetTime": "01:43:51"
         },
         {
             "Bibnr": "33532",
             "Name": "吳明順",
+            "Category": "男子組",
             "OfficialTime": "01:46:41",
             "RankAll": "2143",
+            "RankCat": "1885",
             "NetTime": "01:45:22"
         },
         {
             "Bibnr": "25531",
             "Name": "Eric Chang",
+            "Category": "男子組",
             "OfficialTime": "01:46:41",
             "RankAll": "2144",
+            "RankCat": "1886",
             "NetTime": "01:44:53"
         },
         {
             "Bibnr": "34420",
             "Name": "陳廷楷",
+            "Category": "男子組",
             "OfficialTime": "01:46:41",
             "RankAll": "2145",
+            "RankCat": "1887",
             "NetTime": "01:39:25"
         },
         {
             "Bibnr": "27394",
             "Name": "黃嘉鴻",
+            "Category": "男子組",
             "OfficialTime": "01:46:42",
             "RankAll": "2146",
+            "RankCat": "1888",
             "NetTime": "01:42:37"
         },
         {
             "Bibnr": "25175",
             "Name": "徐偉嚴",
+            "Category": "男子組",
             "OfficialTime": "01:46:43",
             "RankAll": "2147",
+            "RankCat": "1889",
             "NetTime": "01:45:44"
         },
         {
             "Bibnr": "26038",
             "Name": "林敬堂",
+            "Category": "男子組",
             "OfficialTime": "01:46:43",
             "RankAll": "2148",
+            "RankCat": "1890",
             "NetTime": "01:43:23"
         },
         {
             "Bibnr": "23188",
             "Name": "盧昱維",
+            "Category": "男子組",
             "OfficialTime": "01:46:43",
             "RankAll": "2149",
+            "RankCat": "1891",
             "NetTime": "01:42:15"
         },
         {
             "Bibnr": "34797",
             "Name": "CHUNG YU HIN",
+            "Category": "男子組",
             "OfficialTime": "01:46:44",
             "RankAll": "2150",
+            "RankCat": "1892",
             "NetTime": "01:45:03"
         },
         {
             "Bibnr": "28330",
             "Name": "陳正龍",
+            "Category": "男子組",
             "OfficialTime": "01:46:44",
             "RankAll": "2151",
+            "RankCat": "1893",
             "NetTime": "01:46:12"
         },
         {
             "Bibnr": "24499",
             "Name": "許登堯",
+            "Category": "男子組",
             "OfficialTime": "01:46:45",
             "RankAll": "2152",
+            "RankCat": "1894",
             "NetTime": "01:41:56"
         },
         {
             "Bibnr": "31083",
             "Name": "顏執中",
+            "Category": "男子組",
             "OfficialTime": "01:46:45",
             "RankAll": "2153",
+            "RankCat": "1895",
             "NetTime": "01:45:50"
         },
         {
             "Bibnr": "22041",
             "Name": "龔裕傑",
+            "Category": "男子組",
             "OfficialTime": "01:46:45",
             "RankAll": "2154",
+            "RankCat": "1896",
             "NetTime": "01:45:50"
         },
         {
             "Bibnr": "21672",
             "Name": "巫坤霖",
+            "Category": "男子組",
             "OfficialTime": "01:46:45",
             "RankAll": "2155",
+            "RankCat": "1897",
             "NetTime": "01:44:07"
         },
         {
             "Bibnr": "20273",
             "Name": "陳佳琲",
+            "Category": "女子組",
             "OfficialTime": "01:46:47",
             "RankAll": "2156",
+            "RankCat": "249",
             "NetTime": "01:45:27"
         },
         {
             "Bibnr": "24751",
             "Name": "李宜哲",
+            "Category": "男子組",
             "OfficialTime": "01:46:47",
             "RankAll": "2157",
+            "RankCat": "1898",
             "NetTime": "01:44:45"
         },
         {
             "Bibnr": "34765",
             "Name": "陳德濱",
+            "Category": "男子組",
             "OfficialTime": "01:46:48",
             "RankAll": "2158",
+            "RankCat": "1899",
             "NetTime": "01:43:54"
         },
         {
             "Bibnr": "33342",
             "Name": "TAM KIN WAI",
+            "Category": "男子組",
             "OfficialTime": "01:46:48",
             "RankAll": "2159",
+            "RankCat": "1900",
             "NetTime": "01:43:27"
         },
         {
             "Bibnr": "27062",
             "Name": "蔡孟樺",
+            "Category": "男子組",
             "OfficialTime": "01:46:48",
             "RankAll": "2160",
+            "RankCat": "1901",
             "NetTime": "01:43:55"
         },
         {
             "Bibnr": "22155",
             "Name": "江建興",
+            "Category": "男子組",
             "OfficialTime": "01:46:48",
             "RankAll": "2161",
+            "RankCat": "1902",
             "NetTime": "01:45:17"
         },
         {
             "Bibnr": "31644",
             "Name": "Lee Cheuk Yu Joshua",
+            "Category": "男子組",
             "OfficialTime": "01:46:49",
             "RankAll": "2162",
+            "RankCat": "1903",
             "NetTime": "01:43:25"
         },
         {
             "Bibnr": "29711",
             "Name": "LEEKANGHYUN",
+            "Category": "男子組",
             "OfficialTime": "01:46:49",
             "RankAll": "2163",
+            "RankCat": "1904",
             "NetTime": "01:38:35"
         },
         {
             "Bibnr": "26686",
             "Name": "蔡曜光",
+            "Category": "男子組",
             "OfficialTime": "01:46:50",
             "RankAll": "2164",
+            "RankCat": "1905",
             "NetTime": "01:45:51"
         },
         {
             "Bibnr": "20259",
             "Name": "吳蕙如",
+            "Category": "女子組",
             "OfficialTime": "01:46:51",
             "RankAll": "2165",
+            "RankCat": "250",
             "NetTime": "01:45:50"
         },
         {
             "Bibnr": "25355",
             "Name": "李政軒",
+            "Category": "男子組",
             "OfficialTime": "01:46:51",
             "RankAll": "2166",
+            "RankCat": "1906",
             "NetTime": "01:41:23"
         },
         {
             "Bibnr": "20217",
             "Name": "盧貝欣",
+            "Category": "女子組",
             "OfficialTime": "01:46:52",
             "RankAll": "2167",
+            "RankCat": "251",
             "NetTime": "01:45:36"
         },
         {
             "Bibnr": "35178",
             "Name": "劉育瑋 周政達",
+            "Category": "男視障選手",
             "OfficialTime": "01:46:52",
             "RankAll": "2168",
+            "RankCat": "2",
             "NetTime": "01:46:24"
         },
         {
             "Bibnr": "28048",
             "Name": "楊博凱",
+            "Category": "男子組",
             "OfficialTime": "01:46:53",
             "RankAll": "2169",
+            "RankCat": "1907",
             "NetTime": "01:43:44"
         },
         {
             "Bibnr": "33292",
             "Name": "黃崇智",
+            "Category": "男子組",
             "OfficialTime": "01:46:53",
             "RankAll": "2170",
+            "RankCat": "1908",
             "NetTime": "01:44:20"
         },
         {
             "Bibnr": "24351",
             "Name": "莊紹捷",
+            "Category": "男子組",
             "OfficialTime": "01:46:54",
             "RankAll": "2171",
+            "RankCat": "1909",
             "NetTime": "01:40:10"
         },
         {
             "Bibnr": "26109",
             "Name": "林信宏",
+            "Category": "男子組",
             "OfficialTime": "01:46:54",
             "RankAll": "2172",
+            "RankCat": "1910",
             "NetTime": "01:42:32"
         },
         {
             "Bibnr": "20766",
             "Name": "黃文秀",
+            "Category": "女子組",
             "OfficialTime": "01:46:54",
             "RankAll": "2173",
+            "RankCat": "252",
             "NetTime": "01:45:51"
         },
         {
             "Bibnr": "34195",
             "Name": "陳登立",
+            "Category": "男子組",
             "OfficialTime": "01:46:54",
             "RankAll": "2174",
+            "RankCat": "1911",
             "NetTime": "01:45:50"
         },
         {
             "Bibnr": "22036",
             "Name": "紀鴻彥",
+            "Category": "男子組",
             "OfficialTime": "01:46:55",
             "RankAll": "2175",
+            "RankCat": "1912",
             "NetTime": "01:45:46"
         },
         {
             "Bibnr": "22657",
             "Name": "陳添進",
+            "Category": "男子組",
             "OfficialTime": "01:46:55",
             "RankAll": "2176",
+            "RankCat": "1913",
             "NetTime": "01:43:54"
         },
         {
             "Bibnr": "26453",
             "Name": "曾鈺翔",
+            "Category": "男子組",
             "OfficialTime": "01:46:56",
             "RankAll": "2177",
+            "RankCat": "1914",
             "NetTime": "01:46:03"
         },
         {
             "Bibnr": "35480",
             "Name": "徐敏傑",
+            "Category": "男子組",
             "OfficialTime": "01:46:56",
             "RankAll": "2178",
+            "RankCat": "1915",
             "NetTime": "01:46:54"
         },
         {
             "Bibnr": "23254",
             "Name": "簡宗德",
+            "Category": "男子組",
             "OfficialTime": "01:46:57",
             "RankAll": "2179",
+            "RankCat": "1916",
             "NetTime": "01:37:25"
         },
         {
             "Bibnr": "16224",
             "Name": "翁菱翊",
+            "Category": "女子組",
             "OfficialTime": "01:46:58",
             "RankAll": "2180",
+            "RankCat": "253",
             "NetTime": "01:45:26"
         },
         {
             "Bibnr": "35693",
             "Name": "李勇鋭",
+            "Category": "男子組",
             "OfficialTime": "01:46:58",
             "RankAll": "2181",
+            "RankCat": "1917",
             "NetTime": "01:42:53"
         },
         {
             "Bibnr": "25356",
             "Name": "呂倫",
+            "Category": "男子組",
             "OfficialTime": "01:46:59",
             "RankAll": "2182",
+            "RankCat": "1918",
             "NetTime": "01:45:04"
         },
         {
             "Bibnr": "28325",
             "Name": "帥見翰",
+            "Category": "男子組",
             "OfficialTime": "01:46:59",
             "RankAll": "2183",
+            "RankCat": "1919",
             "NetTime": "01:42:55"
         },
         {
             "Bibnr": "23686",
             "Name": "劉柏廷",
+            "Category": "男子組",
             "OfficialTime": "01:46:59",
             "RankAll": "2184",
+            "RankCat": "1920",
             "NetTime": "01:44:42"
         },
         {
             "Bibnr": "23059",
             "Name": "江宇軒",
+            "Category": "男子組",
             "OfficialTime": "01:47:00",
             "RankAll": "2185",
+            "RankCat": "1921",
             "NetTime": "01:46:39"
         },
         {
             "Bibnr": "29176",
             "Name": "許梓倫",
+            "Category": "男子組",
             "OfficialTime": "01:47:00",
             "RankAll": "2186",
+            "RankCat": "1922",
             "NetTime": "01:44:35"
         },
         {
             "Bibnr": "34792",
             "Name": "陳明奎",
+            "Category": "男子組",
             "OfficialTime": "01:47:00",
             "RankAll": "2187",
+            "RankCat": "1923",
             "NetTime": "01:40:17"
         },
         {
             "Bibnr": "26651",
             "Name": "謝賢哲",
+            "Category": "男子組",
             "OfficialTime": "01:47:01",
             "RankAll": "2188",
+            "RankCat": "1924",
             "NetTime": "01:46:35"
         },
         {
             "Bibnr": "37078",
             "Name": "楊哲堯",
+            "Category": "男子組",
             "OfficialTime": "01:47:02",
             "RankAll": "2189",
+            "RankCat": "1925",
             "NetTime": "01:43:43"
         },
         {
             "Bibnr": "35026",
             "Name": "張炳坤",
+            "Category": "男子組",
             "OfficialTime": "01:47:02",
             "RankAll": "2190",
+            "RankCat": "1926",
             "NetTime": "01:43:37"
         },
         {
             "Bibnr": "28568",
             "Name": "吳孟釗",
+            "Category": "男子組",
             "OfficialTime": "01:47:03",
             "RankAll": "2191",
+            "RankCat": "1927",
             "NetTime": "01:41:56"
         },
         {
             "Bibnr": "37012",
             "Name": "倪嘉楷",
+            "Category": "男子組",
             "OfficialTime": "01:47:03",
             "RankAll": "2192",
+            "RankCat": "1928",
             "NetTime": "01:44:29"
         },
         {
             "Bibnr": "25501",
             "Name": "林銘傳",
+            "Category": "男子組",
             "OfficialTime": "01:47:04",
             "RankAll": "2193",
+            "RankCat": "1929",
             "NetTime": "01:46:34"
         },
         {
             "Bibnr": "25380",
             "Name": "丁祥洲",
+            "Category": "男子組",
             "OfficialTime": "01:47:05",
             "RankAll": "2194",
+            "RankCat": "1930",
             "NetTime": "01:45:50"
         },
         {
             "Bibnr": "25034",
             "Name": "呂易縉",
+            "Category": "男子組",
             "OfficialTime": "01:47:05",
             "RankAll": "2195",
+            "RankCat": "1931",
             "NetTime": "01:45:07"
         },
         {
             "Bibnr": "32420",
             "Name": "徐雍昌",
+            "Category": "男子組",
             "OfficialTime": "01:47:06",
             "RankAll": "2196",
+            "RankCat": "1932",
             "NetTime": "01:44:38"
         },
         {
             "Bibnr": "32511",
             "Name": "林銘佐",
+            "Category": "男子組",
             "OfficialTime": "01:47:07",
             "RankAll": "2197",
+            "RankCat": "1933",
             "NetTime": "01:41:44"
         },
         {
             "Bibnr": "27166",
             "Name": "Roy Robert B. Lorica",
+            "Category": "男子組",
             "OfficialTime": "01:47:07",
             "RankAll": "2198",
+            "RankCat": "1934",
             "NetTime": "01:43:27"
         },
         {
             "Bibnr": "31073",
             "Name": "鄭治邦",
+            "Category": "男子組",
             "OfficialTime": "01:47:08",
             "RankAll": "2199",
+            "RankCat": "1935",
             "NetTime": "01:45:03"
         },
         {
             "Bibnr": "30609",
             "Name": "張紹恩",
+            "Category": "男子組",
             "OfficialTime": "01:47:08",
             "RankAll": "2200",
+            "RankCat": "1936",
             "NetTime": "01:45:32"
         },
         {
             "Bibnr": "25306",
             "Name": "HO HEUNG WING",
+            "Category": "男子組",
             "OfficialTime": "01:47:09",
             "RankAll": "2201",
+            "RankCat": "1937",
             "NetTime": "01:41:48"
         },
         {
             "Bibnr": "20633",
             "Name": "YAMASAKI MAMI",
+            "Category": "女子組",
             "OfficialTime": "01:47:10",
             "RankAll": "2202",
+            "RankCat": "254",
             "NetTime": "01:43:45"
         },
         {
             "Bibnr": "35849",
             "Name": "TAKAOKA JUN",
+            "Category": "男子組",
             "OfficialTime": "01:47:10",
             "RankAll": "2203",
+            "RankCat": "1938",
             "NetTime": "01:44:45"
         },
         {
             "Bibnr": "20176",
             "Name": "陳怡安",
+            "Category": "女子組",
             "OfficialTime": "01:47:11",
             "RankAll": "2204",
+            "RankCat": "255",
             "NetTime": "01:45:48"
         },
         {
             "Bibnr": "14055",
             "Name": "曾宣縈",
+            "Category": "女子組",
             "OfficialTime": "01:47:11",
             "RankAll": "2205",
+            "RankCat": "256",
             "NetTime": "01:43:41"
         },
         {
             "Bibnr": "35707",
             "Name": "何國添",
+            "Category": "男子組",
             "OfficialTime": "01:47:11",
             "RankAll": "2206",
+            "RankCat": "1939",
             "NetTime": "01:44:46"
         },
         {
             "Bibnr": "24504",
             "Name": "Leung Ka Lok",
+            "Category": "男子組",
             "OfficialTime": "01:47:12",
             "RankAll": "2207",
+            "RankCat": "1940",
             "NetTime": "01:45:31"
         },
         {
             "Bibnr": "22453",
             "Name": "張剛瑋",
+            "Category": "男子組",
             "OfficialTime": "01:47:12",
             "RankAll": "2208",
+            "RankCat": "1941",
             "NetTime": "01:45:29"
         },
         {
             "Bibnr": "23140",
             "Name": "李彥鼎",
+            "Category": "男子組",
             "OfficialTime": "01:47:14",
             "RankAll": "2209",
+            "RankCat": "1942",
             "NetTime": "01:46:39"
         },
         {
             "Bibnr": "37520",
             "Name": "莊詠智",
+            "Category": "男子組",
             "OfficialTime": "01:47:14",
             "RankAll": "2210",
+            "RankCat": "1943",
             "NetTime": "01:39:40"
         },
         {
             "Bibnr": "33215",
             "Name": "李庚諭",
+            "Category": "男子組",
             "OfficialTime": "01:47:14",
             "RankAll": "2211",
+            "RankCat": "1944",
             "NetTime": "01:44:31"
         },
         {
             "Bibnr": "30449",
             "Name": "陳勝男",
+            "Category": "男子組",
             "OfficialTime": "01:47:16",
             "RankAll": "2212",
+            "RankCat": "1945",
             "NetTime": "01:44:16"
         },
         {
             "Bibnr": "31116",
             "Name": "Ng Hon Man",
+            "Category": "男子組",
             "OfficialTime": "01:47:16",
             "RankAll": "2213",
+            "RankCat": "1946",
             "NetTime": "01:44:10"
         },
         {
             "Bibnr": "22615",
             "Name": "唐國堯",
+            "Category": "男子組",
             "OfficialTime": "01:47:17",
             "RankAll": "2214",
+            "RankCat": "1947",
             "NetTime": "01:42:45"
         },
         {
             "Bibnr": "23211",
             "Name": "呂紹輝",
+            "Category": "男子組",
             "OfficialTime": "01:47:17",
             "RankAll": "2215",
+            "RankCat": "1948",
             "NetTime": "01:46:19"
         },
         {
             "Bibnr": "36808",
             "Name": "劉家祐",
+            "Category": "男子組",
             "OfficialTime": "01:47:17",
             "RankAll": "2216",
+            "RankCat": "1949",
             "NetTime": "01:42:20"
         },
         {
             "Bibnr": "25013",
             "Name": "張昱淳",
+            "Category": "男子組",
             "OfficialTime": "01:47:17",
             "RankAll": "2217",
+            "RankCat": "1950",
             "NetTime": "01:45:46"
         },
         {
             "Bibnr": "32529",
             "Name": "余宗賓",
+            "Category": "男子組",
             "OfficialTime": "01:47:17",
             "RankAll": "2218",
+            "RankCat": "1951",
             "NetTime": "01:40:51"
         },
         {
             "Bibnr": "22184",
             "Name": "張世賢",
+            "Category": "男子組",
             "OfficialTime": "01:47:18",
             "RankAll": "2219",
+            "RankCat": "1952",
             "NetTime": "01:45:51"
         },
         {
             "Bibnr": "26231",
             "Name": "邱奕舜",
+            "Category": "男子組",
             "OfficialTime": "01:47:18",
             "RankAll": "2220",
+            "RankCat": "1953",
             "NetTime": "01:39:06"
         },
         {
             "Bibnr": "31279",
             "Name": "孫宇彤",
+            "Category": "男子組",
             "OfficialTime": "01:47:18",
             "RankAll": "2221",
+            "RankCat": "1954",
             "NetTime": "01:47:00"
         },
         {
             "Bibnr": "34287",
             "Name": "張峻維",
+            "Category": "男子組",
             "OfficialTime": "01:47:18",
             "RankAll": "2222",
+            "RankCat": "1955",
             "NetTime": "01:46:06"
         },
         {
             "Bibnr": "26423",
             "Name": "橋本亮",
+            "Category": "男子組",
             "OfficialTime": "01:47:19",
             "RankAll": "2223",
+            "RankCat": "1956",
             "NetTime": "01:46:36"
         },
         {
             "Bibnr": "36802",
             "Name": "劉柏亨",
+            "Category": "男子組",
             "OfficialTime": "01:47:19",
             "RankAll": "2224",
+            "RankCat": "1957",
             "NetTime": "01:39:24"
         },
         {
             "Bibnr": "32173",
             "Name": "蔡志偉",
+            "Category": "男子組",
             "OfficialTime": "01:47:19",
             "RankAll": "2225",
+            "RankCat": "1958",
             "NetTime": "01:46:23"
         },
         {
             "Bibnr": "20282",
             "Name": "陳怡婷",
+            "Category": "女子組",
             "OfficialTime": "01:47:20",
             "RankAll": "2226",
+            "RankCat": "257",
             "NetTime": "01:43:46"
         },
         {
             "Bibnr": "30648",
             "Name": "巫信宏",
+            "Category": "男子組",
             "OfficialTime": "01:47:20",
             "RankAll": "2227",
+            "RankCat": "1959",
             "NetTime": "01:46:16"
         },
         {
             "Bibnr": "31492",
             "Name": "林秉中",
+            "Category": "男子組",
             "OfficialTime": "01:47:20",
             "RankAll": "2228",
+            "RankCat": "1960",
             "NetTime": "01:45:45"
         },
         {
             "Bibnr": "37256",
             "Name": "陳清志",
+            "Category": "男子組",
             "OfficialTime": "01:47:20",
             "RankAll": "2229",
+            "RankCat": "1961",
             "NetTime": "01:47:02"
         },
         {
             "Bibnr": "20683",
             "Name": "許瑨庭",
+            "Category": "女子組",
             "OfficialTime": "01:47:20",
             "RankAll": "2230",
+            "RankCat": "258",
             "NetTime": "01:46:28"
         },
         {
             "Bibnr": "25761",
             "Name": "林元培",
+            "Category": "男子組",
             "OfficialTime": "01:47:20",
             "RankAll": "2231",
+            "RankCat": "1962",
             "NetTime": "01:45:11"
         },
         {
             "Bibnr": "32419",
             "Name": "黃世英",
+            "Category": "男子組",
             "OfficialTime": "01:47:20",
             "RankAll": "2232",
+            "RankCat": "1963",
             "NetTime": "01:47:04"
         },
         {
             "Bibnr": "28120",
             "Name": "楊雅喬",
+            "Category": "男子組",
             "OfficialTime": "01:47:21",
             "RankAll": "2233",
+            "RankCat": "1964",
             "NetTime": "01:45:35"
         },
         {
             "Bibnr": "24035",
             "Name": "李宗霖",
+            "Category": "男子組",
             "OfficialTime": "01:47:21",
             "RankAll": "2234",
+            "RankCat": "1965",
             "NetTime": "01:40:37"
         },
         {
             "Bibnr": "32742",
             "Name": "Kevin Lo",
+            "Category": "男子組",
             "OfficialTime": "01:47:21",
             "RankAll": "2235",
+            "RankCat": "1966",
             "NetTime": "01:45:35"
         },
         {
             "Bibnr": "24119",
             "Name": "胡凱鈞",
+            "Category": "男子組",
             "OfficialTime": "01:47:21",
             "RankAll": "2236",
+            "RankCat": "1967",
             "NetTime": "01:43:43"
         },
         {
             "Bibnr": "27193",
             "Name": "Chan Sze Lim",
+            "Category": "男子組",
             "OfficialTime": "01:47:22",
             "RankAll": "2237",
+            "RankCat": "1968",
             "NetTime": "01:45:42"
         },
         {
             "Bibnr": "31231",
             "Name": "蔡瑞銘",
+            "Category": "男子組",
             "OfficialTime": "01:47:22",
             "RankAll": "2238",
+            "RankCat": "1969",
             "NetTime": "01:44:15"
         },
         {
             "Bibnr": "20141",
             "Name": "彭雪芬",
+            "Category": "女子組",
             "OfficialTime": "01:47:23",
             "RankAll": "2239",
+            "RankCat": "259",
             "NetTime": "01:46:44"
         },
         {
             "Bibnr": "34586",
             "Name": "陳世勇",
+            "Category": "男子組",
             "OfficialTime": "01:47:24",
             "RankAll": "2240",
+            "RankCat": "1970",
             "NetTime": "01:47:05"
         },
         {
             "Bibnr": "20197",
             "Name": "蕭美茵",
+            "Category": "女子組",
             "OfficialTime": "01:47:26",
             "RankAll": "2241",
+            "RankCat": "260",
             "NetTime": "01:46:33"
         },
         {
             "Bibnr": "36817",
             "Name": "王凱中",
+            "Category": "男子組",
             "OfficialTime": "01:47:26",
             "RankAll": "2242",
+            "RankCat": "1971",
             "NetTime": "01:41:25"
         },
         {
             "Bibnr": "22659",
             "Name": "蘇以恭",
+            "Category": "男子組",
             "OfficialTime": "01:47:26",
             "RankAll": "2243",
+            "RankCat": "1972",
             "NetTime": "01:43:34"
         },
         {
             "Bibnr": "25058",
             "Name": "彭守正",
+            "Category": "男子組",
             "OfficialTime": "01:47:26",
             "RankAll": "2244",
+            "RankCat": "1973",
             "NetTime": "01:46:19"
         },
         {
             "Bibnr": "28407",
             "Name": "Kung Alvin Yue Hin",
+            "Category": "男子組",
             "OfficialTime": "01:47:27",
             "RankAll": "2245",
+            "RankCat": "1974",
             "NetTime": "01:45:07"
         },
         {
             "Bibnr": "31166",
             "Name": "張峻瑄",
+            "Category": "男子組",
             "OfficialTime": "01:47:27",
             "RankAll": "2246",
+            "RankCat": "1975",
             "NetTime": "01:43:33"
         },
         {
             "Bibnr": "27724",
             "Name": "黃炳輝",
+            "Category": "男子組",
             "OfficialTime": "01:47:28",
             "RankAll": "2247",
+            "RankCat": "1976",
             "NetTime": "01:43:19"
         },
         {
             "Bibnr": "26054",
             "Name": "黃宣翰",
+            "Category": "男子組",
             "OfficialTime": "01:47:28",
             "RankAll": "2248",
+            "RankCat": "1977",
             "NetTime": "01:46:43"
         },
         {
             "Bibnr": "35009",
             "Name": "黃思豪",
+            "Category": "男子組",
             "OfficialTime": "01:47:28",
             "RankAll": "2249",
+            "RankCat": "1978",
             "NetTime": "01:47:10"
         },
         {
             "Bibnr": "26182",
             "Name": "鄭偉民",
+            "Category": "男子組",
             "OfficialTime": "01:47:29",
             "RankAll": "2250",
+            "RankCat": "1979",
             "NetTime": "01:47:14"
         },
         {
             "Bibnr": "34442",
             "Name": "李松澤",
+            "Category": "男子組",
             "OfficialTime": "01:47:29",
             "RankAll": "2251",
+            "RankCat": "1980",
             "NetTime": "01:39:22"
         },
         {
             "Bibnr": "22770",
             "Name": "莊佳閔",
+            "Category": "男子組",
             "OfficialTime": "01:47:29",
             "RankAll": "2252",
+            "RankCat": "1981",
             "NetTime": "01:43:55"
         },
         {
             "Bibnr": "24720",
             "Name": "劉育成",
+            "Category": "男子組",
             "OfficialTime": "01:47:30",
             "RankAll": "2253",
+            "RankCat": "1982",
             "NetTime": "01:46:01"
         },
         {
             "Bibnr": "27667",
             "Name": "郭子瑜",
+            "Category": "男子組",
             "OfficialTime": "01:47:30",
             "RankAll": "2254",
+            "RankCat": "1983",
             "NetTime": "01:45:52"
         },
         {
             "Bibnr": "36633",
             "Name": "許淨傑",
+            "Category": "男子組",
             "OfficialTime": "01:47:30",
             "RankAll": "2255",
+            "RankCat": "1984",
             "NetTime": "01:42:29"
         },
         {
             "Bibnr": "28248",
             "Name": "鍾竣宇",
+            "Category": "男子組",
             "OfficialTime": "01:47:30",
             "RankAll": "2256",
+            "RankCat": "1985",
             "NetTime": "01:45:09"
         },
         {
             "Bibnr": "18668",
             "Name": "林燕",
+            "Category": "女子組",
             "OfficialTime": "01:47:31",
             "RankAll": "2257",
+            "RankCat": "261",
             "NetTime": "01:46:53"
         },
         {
             "Bibnr": "22020",
             "Name": "林俊宏",
+            "Category": "男子組",
             "OfficialTime": "01:47:32",
             "RankAll": "2258",
+            "RankCat": "1986",
             "NetTime": "01:45:40"
         },
         {
             "Bibnr": "37209",
             "Name": "林冠宇",
+            "Category": "男子組",
             "OfficialTime": "01:47:33",
             "RankAll": "2259",
+            "RankCat": "1987",
             "NetTime": "01:45:23"
         },
         {
             "Bibnr": "22500",
             "Name": "林是捷",
+            "Category": "男子組",
             "OfficialTime": "01:47:33",
             "RankAll": "2260",
+            "RankCat": "1988",
             "NetTime": "01:45:50"
         },
         {
             "Bibnr": "31340",
             "Name": "FONG KIN MAN",
+            "Category": "男子組",
             "OfficialTime": "01:47:33",
             "RankAll": "2261",
+            "RankCat": "1989",
             "NetTime": "01:43:34"
         },
         {
             "Bibnr": "37077",
             "Name": "盧志典",
+            "Category": "男子組",
             "OfficialTime": "01:47:33",
             "RankAll": "2262",
+            "RankCat": "1990",
             "NetTime": "01:44:43"
         },
         {
             "Bibnr": "22046",
             "Name": "李錫欣",
+            "Category": "男子組",
             "OfficialTime": "01:47:33",
             "RankAll": "2263",
+            "RankCat": "1991",
             "NetTime": "01:46:38"
         },
         {
             "Bibnr": "36154",
             "Name": "張瑋桓",
+            "Category": "男子組",
             "OfficialTime": "01:47:34",
             "RankAll": "2264",
+            "RankCat": "1992",
             "NetTime": "01:38:34"
         },
         {
             "Bibnr": "30415",
             "Name": "黃百軍",
+            "Category": "男子組",
             "OfficialTime": "01:47:34",
             "RankAll": "2265",
+            "RankCat": "1993",
             "NetTime": "01:45:20"
         },
         {
             "Bibnr": "25522",
             "Name": "王上豪",
+            "Category": "男子組",
             "OfficialTime": "01:47:34",
             "RankAll": "2266",
+            "RankCat": "1994",
             "NetTime": "01:46:19"
         },
         {
             "Bibnr": "21777",
             "Name": "李育宏",
+            "Category": "男子組",
             "OfficialTime": "01:47:35",
             "RankAll": "2267",
+            "RankCat": "1995",
             "NetTime": "01:45:17"
         },
         {
             "Bibnr": "34202",
             "Name": "許晉瑋",
+            "Category": "男子組",
             "OfficialTime": "01:47:36",
             "RankAll": "2268",
+            "RankCat": "1996",
             "NetTime": "01:43:27"
         },
         {
             "Bibnr": "35319",
             "Name": "黃建祥",
+            "Category": "男子組",
             "OfficialTime": "01:47:36",
             "RankAll": "2269",
+            "RankCat": "1997",
             "NetTime": "01:42:21"
         },
         {
             "Bibnr": "14228",
             "Name": "葉芓孍",
+            "Category": "女子組",
             "OfficialTime": "01:47:36",
             "RankAll": "2270",
+            "RankCat": "262",
             "NetTime": "01:46:17"
         },
         {
             "Bibnr": "32574",
             "Name": "俞宏霖",
+            "Category": "男子組",
             "OfficialTime": "01:47:37",
             "RankAll": "2271",
+            "RankCat": "1998",
             "NetTime": "01:45:02"
         },
         {
             "Bibnr": "31049",
             "Name": "Lau Hang Kei",
+            "Category": "男子組",
             "OfficialTime": "01:47:37",
             "RankAll": "2272",
+            "RankCat": "1999",
             "NetTime": "01:43:44"
         },
         {
             "Bibnr": "29661",
             "Name": "涂竣誠",
+            "Category": "男子組",
             "OfficialTime": "01:47:38",
             "RankAll": "2273",
+            "RankCat": "2000",
             "NetTime": "01:45:03"
         },
         {
             "Bibnr": "27588",
             "Name": "簡偉全",
+            "Category": "男子組",
             "OfficialTime": "01:47:38",
             "RankAll": "2274",
+            "RankCat": "2001",
             "NetTime": "01:47:08"
         },
         {
             "Bibnr": "28566",
             "Name": "陳征瑩",
+            "Category": "男子組",
             "OfficialTime": "01:47:38",
             "RankAll": "2275",
+            "RankCat": "2002",
             "NetTime": "01:42:38"
         },
         {
             "Bibnr": "24747",
             "Name": "王宏奇",
+            "Category": "男子組",
             "OfficialTime": "01:47:38",
             "RankAll": "2276",
+            "RankCat": "2003",
             "NetTime": "01:45:29"
         },
         {
             "Bibnr": "21748",
             "Name": "鄭乾君",
+            "Category": "男子組",
             "OfficialTime": "01:47:39",
             "RankAll": "2277",
+            "RankCat": "2004",
             "NetTime": "01:40:43"
         },
         {
             "Bibnr": "22361",
             "Name": "湯孟翰",
+            "Category": "男子組",
             "OfficialTime": "01:47:39",
             "RankAll": "2278",
+            "RankCat": "2005",
             "NetTime": "01:39:45"
         },
         {
             "Bibnr": "21630",
             "Name": "徐英哲",
+            "Category": "男子組",
             "OfficialTime": "01:47:39",
             "RankAll": "2279",
+            "RankCat": "2006",
             "NetTime": "01:43:42"
         },
         {
             "Bibnr": "32575",
             "Name": "江羚弘",
+            "Category": "男子組",
             "OfficialTime": "01:47:39",
             "RankAll": "2280",
+            "RankCat": "2007",
             "NetTime": "01:43:56"
         },
         {
             "Bibnr": "19441",
             "Name": "Catherine Maldo Bojos",
+            "Category": "女子組",
             "OfficialTime": "01:47:40",
             "RankAll": "2281",
+            "RankCat": "263",
             "NetTime": "01:46:48"
         },
         {
             "Bibnr": "29651",
             "Name": "林家緯",
+            "Category": "男子組",
             "OfficialTime": "01:47:40",
             "RankAll": "2282",
+            "RankCat": "2008",
             "NetTime": "01:45:21"
         },
         {
             "Bibnr": "31045",
             "Name": "李彰晉",
+            "Category": "男子組",
             "OfficialTime": "01:47:41",
             "RankAll": "2283",
+            "RankCat": "2009",
             "NetTime": "01:43:58"
         },
         {
             "Bibnr": "37604",
             "Name": "譚皓文",
+            "Category": "男子組",
             "OfficialTime": "01:47:41",
             "RankAll": "2284",
+            "RankCat": "2010",
             "NetTime": "01:42:00"
         },
         {
             "Bibnr": "31119",
             "Name": "李彰展",
+            "Category": "男子組",
             "OfficialTime": "01:47:42",
             "RankAll": "2285",
+            "RankCat": "2011",
             "NetTime": "01:43:58"
         },
         {
             "Bibnr": "32237",
             "Name": "詹詔博",
+            "Category": "男子組",
             "OfficialTime": "01:47:42",
             "RankAll": "2286",
+            "RankCat": "2012",
             "NetTime": "01:40:55"
         },
         {
             "Bibnr": "28632",
             "Name": "張原益",
+            "Category": "男子組",
             "OfficialTime": "01:47:42",
             "RankAll": "2287",
+            "RankCat": "2013",
             "NetTime": "01:47:06"
         },
         {
             "Bibnr": "31461",
             "Name": "孟德成",
+            "Category": "男子組",
             "OfficialTime": "01:47:42",
             "RankAll": "2288",
+            "RankCat": "2014",
             "NetTime": "01:45:17"
         },
         {
             "Bibnr": "25406",
             "Name": "施宇豪",
+            "Category": "男子組",
             "OfficialTime": "01:47:42",
             "RankAll": "2289",
+            "RankCat": "2015",
             "NetTime": "01:45:08"
         },
         {
             "Bibnr": "22038",
             "Name": "王文毅",
+            "Category": "男子組",
             "OfficialTime": "01:47:43",
             "RankAll": "2290",
+            "RankCat": "2016",
             "NetTime": "01:38:57"
         },
         {
             "Bibnr": "35838",
             "Name": "OWADA KENJI",
+            "Category": "男子組",
             "OfficialTime": "01:47:43",
             "RankAll": "2291",
+            "RankCat": "2017",
             "NetTime": "01:38:33"
         },
         {
             "Bibnr": "29601",
             "Name": "徐瑞堂",
+            "Category": "男子組",
             "OfficialTime": "01:47:44",
             "RankAll": "2292",
+            "RankCat": "2018",
             "NetTime": "01:43:51"
         },
         {
             "Bibnr": "26194",
             "Name": "葉明嵩",
+            "Category": "男子組",
             "OfficialTime": "01:47:44",
             "RankAll": "2293",
+            "RankCat": "2019",
             "NetTime": "01:45:43"
         },
         {
             "Bibnr": "25577",
             "Name": "王宣文",
+            "Category": "男子組",
             "OfficialTime": "01:47:45",
             "RankAll": "2294",
+            "RankCat": "2020",
             "NetTime": "01:43:42"
         },
         {
             "Bibnr": "37023",
             "Name": "陳柏強",
+            "Category": "男子組",
             "OfficialTime": "01:47:45",
             "RankAll": "2295",
+            "RankCat": "2021",
             "NetTime": "01:47:25"
         },
         {
             "Bibnr": "14707",
             "Name": "彭胤瑜",
+            "Category": "女子組",
             "OfficialTime": "01:47:46",
             "RankAll": "2296",
+            "RankCat": "264",
             "NetTime": "01:46:00"
         },
         {
             "Bibnr": "31780",
             "Name": "吳金原",
+            "Category": "男子組",
             "OfficialTime": "01:47:46",
             "RankAll": "2297",
+            "RankCat": "2022",
             "NetTime": "01:44:52"
         },
         {
             "Bibnr": "17713",
             "Name": "廖維平",
+            "Category": "女子組",
             "OfficialTime": "01:47:46",
             "RankAll": "2298",
+            "RankCat": "265",
             "NetTime": "01:47:17"
         },
         {
             "Bibnr": "30395",
             "Name": "邱彥錞",
+            "Category": "男子組",
             "OfficialTime": "01:47:47",
             "RankAll": "2299",
+            "RankCat": "2023",
             "NetTime": "01:45:59"
         },
         {
             "Bibnr": "22646",
             "Name": "邱鴻順",
+            "Category": "男子組",
             "OfficialTime": "01:47:47",
             "RankAll": "2300",
+            "RankCat": "2024",
             "NetTime": "01:44:48"
         },
         {
             "Bibnr": "14504",
             "Name": "姜佩君",
+            "Category": "女子組",
             "OfficialTime": "01:47:47",
             "RankAll": "2301",
+            "RankCat": "266",
             "NetTime": "01:46:48"
         },
         {
             "Bibnr": "15497",
             "Name": "Fung Wing Yee",
+            "Category": "女子組",
             "OfficialTime": "01:47:48",
             "RankAll": "2302",
+            "RankCat": "267",
             "NetTime": "01:47:39"
         },
         {
             "Bibnr": "35677",
             "Name": "陳秉量",
+            "Category": "男子組",
             "OfficialTime": "01:47:48",
             "RankAll": "2303",
+            "RankCat": "2025",
             "NetTime": "01:42:48"
         },
         {
             "Bibnr": "33355",
             "Name": "陳俊及",
+            "Category": "男子組",
             "OfficialTime": "01:47:48",
             "RankAll": "2304",
+            "RankCat": "2026",
             "NetTime": "01:44:35"
         },
         {
             "Bibnr": "37178",
             "Name": "陳建谷",
+            "Category": "男子組",
             "OfficialTime": "01:47:50",
             "RankAll": "2305",
+            "RankCat": "2027",
             "NetTime": "01:47:33"
         },
         {
             "Bibnr": "22284",
             "Name": "郭政憲",
+            "Category": "男子組",
             "OfficialTime": "01:47:50",
             "RankAll": "2306",
+            "RankCat": "2028",
             "NetTime": "01:46:44"
         },
         {
             "Bibnr": "20162",
             "Name": "呂惠娟",
+            "Category": "女子組",
             "OfficialTime": "01:47:50",
             "RankAll": "2307",
+            "RankCat": "268",
             "NetTime": "01:46:34"
         },
         {
             "Bibnr": "22403",
             "Name": "毛玉森",
+            "Category": "男子組",
             "OfficialTime": "01:47:50",
             "RankAll": "2308",
+            "RankCat": "2029",
             "NetTime": "01:47:08"
         },
         {
             "Bibnr": "26649",
             "Name": "李浩翔",
+            "Category": "男子組",
             "OfficialTime": "01:47:50",
             "RankAll": "2309",
+            "RankCat": "2030",
             "NetTime": "01:44:29"
         },
         {
             "Bibnr": "30087",
             "Name": "馮偉明",
+            "Category": "男子組",
             "OfficialTime": "01:47:51",
             "RankAll": "2310",
+            "RankCat": "2031",
             "NetTime": "01:46:12"
         },
         {
             "Bibnr": "14791",
             "Name": "廖盈智",
+            "Category": "女子組",
             "OfficialTime": "01:47:51",
             "RankAll": "2311",
+            "RankCat": "269",
             "NetTime": "01:44:24"
         },
         {
             "Bibnr": "34523",
             "Name": "Steven Poloskey",
+            "Category": "男子組",
             "OfficialTime": "01:47:51",
             "RankAll": "2312",
+            "RankCat": "2032",
             "NetTime": "01:45:54"
         },
         {
             "Bibnr": "33008",
             "Name": "卓士傑",
+            "Category": "男子組",
             "OfficialTime": "01:47:52",
             "RankAll": "2313",
+            "RankCat": "2033",
             "NetTime": "01:43:56"
         },
         {
             "Bibnr": "20660",
             "Name": "利嘉露",
+            "Category": "女子組",
             "OfficialTime": "01:47:53",
             "RankAll": "2314",
+            "RankCat": "270",
             "NetTime": "01:44:36"
         },
         {
             "Bibnr": "27047",
             "Name": "江信逸",
+            "Category": "男子組",
             "OfficialTime": "01:47:53",
             "RankAll": "2315",
+            "RankCat": "2034",
             "NetTime": "01:45:47"
         },
         {
             "Bibnr": "35162",
             "Name": "溫紹宏",
+            "Category": "男子組",
             "OfficialTime": "01:47:53",
             "RankAll": "2316",
+            "RankCat": "2035",
             "NetTime": "01:43:50"
         },
         {
             "Bibnr": "32735",
             "Name": "劉俊逸",
+            "Category": "男子組",
             "OfficialTime": "01:47:53",
             "RankAll": "2317",
+            "RankCat": "2036",
             "NetTime": "01:45:40"
         },
         {
             "Bibnr": "28633",
             "Name": "郭明貴",
+            "Category": "男子組",
             "OfficialTime": "01:47:54",
             "RankAll": "2318",
+            "RankCat": "2037",
             "NetTime": "01:46:53"
         },
         {
             "Bibnr": "25777",
             "Name": "周明德",
+            "Category": "男子組",
             "OfficialTime": "01:47:54",
             "RankAll": "2319",
+            "RankCat": "2038",
             "NetTime": "01:47:05"
         },
         {
             "Bibnr": "31682",
             "Name": "鄭庭凱",
+            "Category": "男子組",
             "OfficialTime": "01:47:54",
             "RankAll": "2320",
+            "RankCat": "2039",
             "NetTime": "01:46:38"
         },
         {
             "Bibnr": "27544",
             "Name": "莊閎凱",
+            "Category": "男子組",
             "OfficialTime": "01:47:54",
             "RankAll": "2321",
+            "RankCat": "2040",
             "NetTime": "01:42:39"
         },
         {
             "Bibnr": "25740",
             "Name": "張洋明",
+            "Category": "男子組",
             "OfficialTime": "01:47:55",
             "RankAll": "2322",
+            "RankCat": "2041",
             "NetTime": "01:45:57"
         },
         {
             "Bibnr": "21682",
             "Name": "KAM CHI TANG JACKY",
+            "Category": "男子組",
             "OfficialTime": "01:47:55",
             "RankAll": "2323",
+            "RankCat": "2042",
             "NetTime": "01:39:43"
         },
         {
             "Bibnr": "27359",
             "Name": "LAU TSZ FAI",
+            "Category": "男子組",
             "OfficialTime": "01:47:56",
             "RankAll": "2324",
+            "RankCat": "2043",
             "NetTime": "01:38:59"
         },
         {
             "Bibnr": "27571",
             "Name": "陳政廷",
+            "Category": "男子組",
             "OfficialTime": "01:47:56",
             "RankAll": "2325",
+            "RankCat": "2044",
             "NetTime": "01:43:54"
         },
         {
             "Bibnr": "20234",
             "Name": "鄭筑方",
+            "Category": "女子組",
             "OfficialTime": "01:47:56",
             "RankAll": "2326",
+            "RankCat": "271",
             "NetTime": "01:46:40"
         },
         {
             "Bibnr": "30438",
             "Name": "NAKANOUCHI DAISUKE",
+            "Category": "男子組",
             "OfficialTime": "01:47:56",
             "RankAll": "2327",
+            "RankCat": "2045",
             "NetTime": "01:46:18"
         },
         {
             "Bibnr": "34633",
             "Name": "黃俊頴",
+            "Category": "男子組",
             "OfficialTime": "01:47:56",
             "RankAll": "2328",
+            "RankCat": "2046",
             "NetTime": "01:44:36"
         },
         {
             "Bibnr": "22556",
             "Name": "楊守文",
+            "Category": "男子組",
             "OfficialTime": "01:47:57",
             "RankAll": "2329",
+            "RankCat": "2047",
             "NetTime": "01:46:46"
         },
         {
             "Bibnr": "32226",
             "Name": "陳德明",
+            "Category": "男子組",
             "OfficialTime": "01:47:57",
             "RankAll": "2330",
+            "RankCat": "2048",
             "NetTime": "01:46:37"
         },
         {
             "Bibnr": "27134",
             "Name": "康佶濃",
+            "Category": "男子組",
             "OfficialTime": "01:47:57",
             "RankAll": "2331",
+            "RankCat": "2049",
             "NetTime": "01:46:01"
         },
         {
             "Bibnr": "34300",
             "Name": "徐鈺翔",
+            "Category": "男子組",
             "OfficialTime": "01:47:58",
             "RankAll": "2332",
+            "RankCat": "2050",
             "NetTime": "01:45:13"
         },
         {
             "Bibnr": "25037",
             "Name": "李隆哲",
+            "Category": "男子組",
             "OfficialTime": "01:47:58",
             "RankAll": "2333",
+            "RankCat": "2051",
             "NetTime": "01:46:23"
         },
         {
             "Bibnr": "31407",
             "Name": "Wong chi kit",
+            "Category": "男子組",
             "OfficialTime": "01:47:58",
             "RankAll": "2334",
+            "RankCat": "2052",
             "NetTime": "01:43:42"
         },
         {
             "Bibnr": "29280",
             "Name": "傅柏瑜",
+            "Category": "男子組",
             "OfficialTime": "01:47:58",
             "RankAll": "2335",
+            "RankCat": "2053",
             "NetTime": "01:43:09"
         },
         {
             "Bibnr": "36096",
             "Name": "陳竣毅",
+            "Category": "男子組",
             "OfficialTime": "01:47:59",
             "RankAll": "2336",
+            "RankCat": "2054",
             "NetTime": "01:42:53"
         },
         {
             "Bibnr": "24620",
             "Name": "吳超鵬",
+            "Category": "男子組",
             "OfficialTime": "01:47:59",
             "RankAll": "2337",
+            "RankCat": "2055",
             "NetTime": "01:47:10"
         },
         {
             "Bibnr": "18230",
             "Name": "何修慧",
+            "Category": "女子組",
             "OfficialTime": "01:47:59",
             "RankAll": "2338",
+            "RankCat": "272",
             "NetTime": "01:45:56"
         },
         {
             "Bibnr": "17232",
             "Name": "余羿珊",
+            "Category": "女子組",
             "OfficialTime": "01:47:59",
             "RankAll": "2339",
+            "RankCat": "273",
             "NetTime": "01:45:29"
         },
         {
             "Bibnr": "27717",
             "Name": "洪啟峰",
+            "Category": "男子組",
             "OfficialTime": "01:48:00",
             "RankAll": "2340",
+            "RankCat": "2056",
             "NetTime": "01:45:55"
         },
         {
             "Bibnr": "16791",
             "Name": "張雅婷",
+            "Category": "女子組",
             "OfficialTime": "01:48:00",
             "RankAll": "2341",
+            "RankCat": "274",
             "NetTime": "01:45:35"
         },
         {
             "Bibnr": "37231",
             "Name": "黃彥翔",
+            "Category": "男子組",
             "OfficialTime": "01:48:01",
             "RankAll": "2342",
+            "RankCat": "2057",
             "NetTime": "01:45:27"
         },
         {
             "Bibnr": "33078",
             "Name": "LEUNG WAI HONG",
+            "Category": "男子組",
             "OfficialTime": "01:48:02",
             "RankAll": "2343",
+            "RankCat": "2058",
             "NetTime": "01:46:55"
         },
         {
             "Bibnr": "19034",
             "Name": "NG WAI CHING",
+            "Category": "女子組",
             "OfficialTime": "01:48:02",
             "RankAll": "2344",
+            "RankCat": "275",
             "NetTime": "01:46:54"
         },
         {
             "Bibnr": "26287",
             "Name": "LO WENG HOU",
+            "Category": "男子組",
             "OfficialTime": "01:48:03",
             "RankAll": "2345",
+            "RankCat": "2059",
             "NetTime": "01:47:22"
         },
         {
             "Bibnr": "26159",
             "Name": "劉京樺",
+            "Category": "男子組",
             "OfficialTime": "01:48:03",
             "RankAll": "2346",
+            "RankCat": "2060",
             "NetTime": "01:39:10"
         },
         {
             "Bibnr": "26783",
             "Name": "楊育維",
+            "Category": "男子組",
             "OfficialTime": "01:48:04",
             "RankAll": "2347",
+            "RankCat": "2061",
             "NetTime": "01:46:53"
         },
         {
             "Bibnr": "22278",
             "Name": "趙紹偉",
+            "Category": "男子組",
             "OfficialTime": "01:48:04",
             "RankAll": "2348",
+            "RankCat": "2062",
             "NetTime": "01:46:57"
         },
         {
             "Bibnr": "32008",
             "Name": "王文杰",
+            "Category": "男子組",
             "OfficialTime": "01:48:04",
             "RankAll": "2349",
+            "RankCat": "2063",
             "NetTime": "01:46:36"
         },
         {
             "Bibnr": "23767",
             "Name": "賴堯崑",
+            "Category": "男子組",
             "OfficialTime": "01:48:04",
             "RankAll": "2350",
+            "RankCat": "2064",
             "NetTime": "01:45:29"
         },
         {
             "Bibnr": "31346",
             "Name": "戴昱有",
+            "Category": "男子組",
             "OfficialTime": "01:48:05",
             "RankAll": "2351",
+            "RankCat": "2065",
             "NetTime": "01:46:33"
         },
         {
             "Bibnr": "31462",
             "Name": "蔡逸帆",
+            "Category": "男子組",
             "OfficialTime": "01:48:05",
             "RankAll": "2352",
+            "RankCat": "2066",
             "NetTime": "01:44:30"
         },
         {
             "Bibnr": "26176",
             "Name": "楊嘉麟",
+            "Category": "男子組",
             "OfficialTime": "01:48:06",
             "RankAll": "2353",
+            "RankCat": "2067",
             "NetTime": "01:45:15"
         },
         {
             "Bibnr": "22685",
             "Name": "張芳熒",
+            "Category": "男子組",
             "OfficialTime": "01:48:07",
             "RankAll": "2354",
+            "RankCat": "2068",
             "NetTime": "01:46:00"
         },
         {
             "Bibnr": "20323",
             "Name": "張嘉玲",
+            "Category": "女子組",
             "OfficialTime": "01:48:07",
             "RankAll": "2355",
+            "RankCat": "276",
             "NetTime": "01:45:40"
         },
         {
             "Bibnr": "20256",
             "Name": "Mok Chi Ling",
+            "Category": "女子組",
             "OfficialTime": "01:48:07",
             "RankAll": "2356",
+            "RankCat": "277",
             "NetTime": "01:46:34"
         },
         {
             "Bibnr": "31179",
             "Name": "謝坤宏",
+            "Category": "男子組",
             "OfficialTime": "01:48:07",
             "RankAll": "2357",
+            "RankCat": "2069",
             "NetTime": "01:45:29"
         },
         {
             "Bibnr": "35686",
             "Name": "程振東",
+            "Category": "男子組",
             "OfficialTime": "01:48:07",
             "RankAll": "2358",
+            "RankCat": "2070",
             "NetTime": "01:45:07"
         },
         {
             "Bibnr": "19015",
             "Name": "陳姸靜",
+            "Category": "女子組",
             "OfficialTime": "01:48:08",
             "RankAll": "2359",
+            "RankCat": "278",
             "NetTime": "01:47:00"
         },
         {
             "Bibnr": "23462",
             "Name": "陳昆陽",
+            "Category": "男子組",
             "OfficialTime": "01:48:08",
             "RankAll": "2360",
+            "RankCat": "2071",
             "NetTime": "01:43:39"
         },
         {
             "Bibnr": "20370",
             "Name": "關潔瑩",
+            "Category": "女子組",
             "OfficialTime": "01:48:08",
             "RankAll": "2361",
+            "RankCat": "279",
             "NetTime": "01:47:17"
         },
         {
             "Bibnr": "24698",
             "Name": "謝百淇",
+            "Category": "男子組",
             "OfficialTime": "01:48:08",
             "RankAll": "2362",
+            "RankCat": "2072",
             "NetTime": "01:45:55"
         },
         {
             "Bibnr": "31495",
             "Name": "李宗倫",
+            "Category": "男子組",
             "OfficialTime": "01:48:09",
             "RankAll": "2363",
+            "RankCat": "2073",
             "NetTime": "01:47:36"
         },
         {
             "Bibnr": "33674",
             "Name": "范哲軒",
+            "Category": "男子組",
             "OfficialTime": "01:48:09",
             "RankAll": "2364",
+            "RankCat": "2074",
             "NetTime": "01:45:31"
         },
         {
             "Bibnr": "34513",
             "Name": "陳建霖",
+            "Category": "男子組",
             "OfficialTime": "01:48:10",
             "RankAll": "2365",
+            "RankCat": "2075",
             "NetTime": "01:40:25"
         },
         {
             "Bibnr": "29526",
             "Name": "黃登金",
+            "Category": "男子組",
             "OfficialTime": "01:48:10",
             "RankAll": "2366",
+            "RankCat": "2076",
             "NetTime": "01:46:59"
         },
         {
             "Bibnr": "32396",
             "Name": "李瑞傑",
+            "Category": "男子組",
             "OfficialTime": "01:48:11",
             "RankAll": "2367",
+            "RankCat": "2077",
             "NetTime": "01:46:09"
         },
         {
             "Bibnr": "23111",
             "Name": "Chan Yuk Wah",
+            "Category": "男子組",
             "OfficialTime": "01:48:11",
             "RankAll": "2368",
+            "RankCat": "2078",
             "NetTime": "01:46:40"
         },
         {
             "Bibnr": "28292",
             "Name": "温宜學",
+            "Category": "男子組",
             "OfficialTime": "01:48:12",
             "RankAll": "2369",
+            "RankCat": "2079",
             "NetTime": "01:40:00"
         },
         {
             "Bibnr": "25730",
             "Name": "張昶泳",
+            "Category": "男子組",
             "OfficialTime": "01:48:14",
             "RankAll": "2370",
+            "RankCat": "2080",
             "NetTime": "01:45:08"
         },
         {
             "Bibnr": "25712",
             "Name": "李慕涵",
+            "Category": "男子組",
             "OfficialTime": "01:48:14",
             "RankAll": "2371",
+            "RankCat": "2081",
             "NetTime": "01:47:02"
         },
         {
             "Bibnr": "20187",
             "Name": "鍾盈盈",
+            "Category": "女子組",
             "OfficialTime": "01:48:14",
             "RankAll": "2372",
+            "RankCat": "280",
             "NetTime": "01:47:00"
         },
         {
             "Bibnr": "36173",
             "Name": "于創宇",
+            "Category": "男子組",
             "OfficialTime": "01:48:15",
             "RankAll": "2373",
+            "RankCat": "2082",
             "NetTime": "01:42:56"
         },
         {
             "Bibnr": "36083",
             "Name": "白思遠",
+            "Category": "男子組",
             "OfficialTime": "01:48:15",
             "RankAll": "2374",
+            "RankCat": "2083",
             "NetTime": "01:42:28"
         },
         {
             "Bibnr": "29084",
             "Name": "吳智勝",
+            "Category": "男子組",
             "OfficialTime": "01:48:15",
             "RankAll": "2375",
+            "RankCat": "2084",
             "NetTime": "01:42:56"
         },
         {
             "Bibnr": "32143",
             "Name": "TEO RENHUI KEVIN",
+            "Category": "男子組",
             "OfficialTime": "01:48:15",
             "RankAll": "2376",
+            "RankCat": "2085",
             "NetTime": "01:45:50"
         },
         {
             "Bibnr": "31459",
             "Name": "楊忠銘",
+            "Category": "男子組",
             "OfficialTime": "01:48:16",
             "RankAll": "2377",
+            "RankCat": "2086",
             "NetTime": "01:43:01"
         },
         {
             "Bibnr": "29554",
             "Name": "陳俊廷",
+            "Category": "男子組",
             "OfficialTime": "01:48:17",
             "RankAll": "2378",
+            "RankCat": "2087",
             "NetTime": "01:45:58"
         },
         {
             "Bibnr": "29144",
             "Name": "田政弘",
+            "Category": "男子組",
             "OfficialTime": "01:48:18",
             "RankAll": "2379",
+            "RankCat": "2088",
             "NetTime": "01:47:12"
         },
         {
             "Bibnr": "31799",
             "Name": "陳文雄",
+            "Category": "男子組",
             "OfficialTime": "01:48:20",
             "RankAll": "2380",
+            "RankCat": "2089",
             "NetTime": "01:46:32"
         },
         {
             "Bibnr": "20112",
             "Name": "FONG MEI CHUN GIMMY",
+            "Category": "女子組",
             "OfficialTime": "01:48:20",
             "RankAll": "2381",
+            "RankCat": "281",
             "NetTime": "01:48:07"
         },
         {
             "Bibnr": "25019",
             "Name": "黃崑豪",
+            "Category": "男子組",
             "OfficialTime": "01:48:20",
             "RankAll": "2382",
+            "RankCat": "2090",
             "NetTime": "01:47:46"
         },
         {
             "Bibnr": "37079",
             "Name": "蔣曜宇",
+            "Category": "男子組",
             "OfficialTime": "01:48:20",
             "RankAll": "2383",
+            "RankCat": "2091",
             "NetTime": "01:46:11"
         },
         {
             "Bibnr": "37041",
             "Name": "鍾亞朕",
+            "Category": "男子組",
             "OfficialTime": "01:48:21",
             "RankAll": "2384",
+            "RankCat": "2092",
             "NetTime": "01:45:24"
         },
         {
             "Bibnr": "23745",
             "Name": "莊侑穎",
+            "Category": "男子組",
             "OfficialTime": "01:48:22",
             "RankAll": "2385",
+            "RankCat": "2093",
             "NetTime": "01:47:55"
         },
         {
             "Bibnr": "33316",
             "Name": "吳明輯",
+            "Category": "男子組",
             "OfficialTime": "01:48:22",
             "RankAll": "2386",
+            "RankCat": "2094",
             "NetTime": "01:47:22"
         },
         {
             "Bibnr": "32620",
             "Name": "CHOI SHEK TO FRANK",
+            "Category": "男子組",
             "OfficialTime": "01:48:22",
             "RankAll": "2387",
+            "RankCat": "2095",
             "NetTime": "01:46:45"
         },
         {
             "Bibnr": "27440",
             "Name": "Desmond Heng Cheng Yee",
+            "Category": "男子組",
             "OfficialTime": "01:48:23",
             "RankAll": "2388",
+            "RankCat": "2096",
             "NetTime": "01:47:48"
         },
         {
             "Bibnr": "34488",
             "Name": "高智瑩",
+            "Category": "男子組",
             "OfficialTime": "01:48:23",
             "RankAll": "2389",
+            "RankCat": "2097",
             "NetTime": "01:45:55"
         },
         {
             "Bibnr": "34578",
             "Name": "林鑫義",
+            "Category": "男子組",
             "OfficialTime": "01:48:24",
             "RankAll": "2390",
+            "RankCat": "2098",
             "NetTime": "01:46:09"
         },
         {
             "Bibnr": "26501",
             "Name": "陣明正",
+            "Category": "男子組",
             "OfficialTime": "01:48:24",
             "RankAll": "2391",
+            "RankCat": "2099",
             "NetTime": "01:47:22"
         },
         {
             "Bibnr": "30286",
             "Name": "許睿富",
+            "Category": "男子組",
             "OfficialTime": "01:48:24",
             "RankAll": "2392",
+            "RankCat": "2100",
             "NetTime": "01:40:35"
         },
         {
             "Bibnr": "22564",
             "Name": "譚志遠",
+            "Category": "男子組",
             "OfficialTime": "01:48:25",
             "RankAll": "2393",
+            "RankCat": "2101",
             "NetTime": "01:47:42"
         },
         {
             "Bibnr": "22257",
             "Name": "林志南",
+            "Category": "男子組",
             "OfficialTime": "01:48:25",
             "RankAll": "2394",
+            "RankCat": "2102",
             "NetTime": "01:46:25"
         },
         {
             "Bibnr": "31627",
             "Name": "許哲軒",
+            "Category": "男子組",
             "OfficialTime": "01:48:26",
             "RankAll": "2395",
+            "RankCat": "2103",
             "NetTime": "01:47:12"
         },
         {
             "Bibnr": "17147",
             "Name": "Li Nga Lai Annie",
+            "Category": "女子組",
             "OfficialTime": "01:48:26",
             "RankAll": "2396",
+            "RankCat": "282",
             "NetTime": "01:48:05"
         },
         {
             "Bibnr": "32434",
             "Name": "簡維誠",
+            "Category": "男子組",
             "OfficialTime": "01:48:26",
             "RankAll": "2397",
+            "RankCat": "2104",
             "NetTime": "01:43:58"
         },
         {
             "Bibnr": "22624",
             "Name": "朱詠瀚",
+            "Category": "男子組",
             "OfficialTime": "01:48:27",
             "RankAll": "2398",
+            "RankCat": "2105",
             "NetTime": "01:47:32"
         },
         {
             "Bibnr": "23506",
             "Name": "羅章哲",
+            "Category": "男子組",
             "OfficialTime": "01:48:27",
             "RankAll": "2399",
+            "RankCat": "2106",
             "NetTime": "01:47:55"
         },
         {
             "Bibnr": "36731",
             "Name": "李彥希",
+            "Category": "男子組",
             "OfficialTime": "01:48:27",
             "RankAll": "2400",
+            "RankCat": "2107",
             "NetTime": "01:42:47"
         },
         {
             "Bibnr": "20144",
             "Name": "林采芩",
+            "Category": "女子組",
             "OfficialTime": "01:48:27",
             "RankAll": "2401",
+            "RankCat": "283",
             "NetTime": "01:45:50"
         },
         {
             "Bibnr": "26258",
             "Name": "賴政縣",
+            "Category": "男子組",
             "OfficialTime": "01:48:27",
             "RankAll": "2402",
+            "RankCat": "2108",
             "NetTime": "01:47:50"
         },
         {
             "Bibnr": "26773",
             "Name": "陳昶志",
+            "Category": "男子組",
             "OfficialTime": "01:48:28",
             "RankAll": "2403",
+            "RankCat": "2109",
             "NetTime": "01:46:34"
         },
         {
             "Bibnr": "33638",
             "Name": "陳建昇",
+            "Category": "男子組",
             "OfficialTime": "01:48:28",
             "RankAll": "2404",
+            "RankCat": "2110",
             "NetTime": "01:44:49"
         },
         {
             "Bibnr": "28266",
             "Name": "温小平",
+            "Category": "男子組",
             "OfficialTime": "01:48:28",
             "RankAll": "2405",
+            "RankCat": "2111",
             "NetTime": "01:40:16"
         },
         {
             "Bibnr": "28103",
             "Name": "賴群棠",
+            "Category": "男子組",
             "OfficialTime": "01:48:28",
             "RankAll": "2406",
+            "RankCat": "2112",
             "NetTime": "01:47:37"
         },
         {
             "Bibnr": "31606",
             "Name": "Chan Kwan Ho",
+            "Category": "男子組",
             "OfficialTime": "01:48:28",
             "RankAll": "2407",
+            "RankCat": "2113",
             "NetTime": "01:45:27"
         },
         {
             "Bibnr": "24748",
             "Name": "胡昕緯",
+            "Category": "男子組",
             "OfficialTime": "01:48:30",
             "RankAll": "2408",
+            "RankCat": "2114",
             "NetTime": "01:45:41"
         },
         {
             "Bibnr": "29592",
             "Name": "莊文亮",
+            "Category": "男子組",
             "OfficialTime": "01:48:31",
             "RankAll": "2409",
+            "RankCat": "2115",
             "NetTime": "01:47:42"
         },
         {
             "Bibnr": "26227",
             "Name": "黃偉俊",
+            "Category": "男子組",
             "OfficialTime": "01:48:31",
             "RankAll": "2410",
+            "RankCat": "2116",
             "NetTime": "01:39:14"
         },
         {
             "Bibnr": "26373",
             "Name": "賴智誠",
+            "Category": "男子組",
             "OfficialTime": "01:48:32",
             "RankAll": "2411",
+            "RankCat": "2117",
             "NetTime": "01:45:44"
         },
         {
             "Bibnr": "30492",
             "Name": "郭芳志",
+            "Category": "男子組",
             "OfficialTime": "01:48:32",
             "RankAll": "2412",
+            "RankCat": "2118",
             "NetTime": "01:45:40"
         },
         {
             "Bibnr": "37317",
             "Name": "陳信偉",
+            "Category": "男子組",
             "OfficialTime": "01:48:32",
             "RankAll": "2413",
+            "RankCat": "2119",
             "NetTime": "01:46:52"
         },
         {
             "Bibnr": "35238",
             "Name": "何祥瑜",
+            "Category": "男子組",
             "OfficialTime": "01:48:33",
             "RankAll": "2414",
+            "RankCat": "2120",
             "NetTime": "01:48:23"
         },
         {
             "Bibnr": "35037",
             "Name": "王少祺",
+            "Category": "男子組",
             "OfficialTime": "01:48:33",
             "RankAll": "2415",
+            "RankCat": "2121",
             "NetTime": "01:43:28"
         },
         {
             "Bibnr": "25709",
             "Name": "陳育宗",
+            "Category": "男子組",
             "OfficialTime": "01:48:34",
             "RankAll": "2416",
+            "RankCat": "2122",
             "NetTime": "01:46:42"
         },
         {
             "Bibnr": "30220",
             "Name": "甘峻豪",
+            "Category": "男子組",
             "OfficialTime": "01:48:34",
             "RankAll": "2417",
+            "RankCat": "2123",
             "NetTime": "01:45:57"
         },
         {
             "Bibnr": "27426",
             "Name": "陳志偉",
+            "Category": "男子組",
             "OfficialTime": "01:48:34",
             "RankAll": "2418",
+            "RankCat": "2124",
             "NetTime": "01:46:23"
         },
         {
             "Bibnr": "26546",
             "Name": "陳奕安",
+            "Category": "男子組",
             "OfficialTime": "01:48:35",
             "RankAll": "2419",
+            "RankCat": "2125",
             "NetTime": "01:45:15"
         },
         {
             "Bibnr": "23202",
             "Name": "賴政豪",
+            "Category": "男子組",
             "OfficialTime": "01:48:35",
             "RankAll": "2420",
+            "RankCat": "2126",
             "NetTime": "01:47:47"
         },
         {
             "Bibnr": "26517",
             "Name": "陳冠璋",
+            "Category": "男子組",
             "OfficialTime": "01:48:35",
             "RankAll": "2421",
+            "RankCat": "2127",
             "NetTime": "01:47:28"
         },
         {
             "Bibnr": "21684",
             "Name": "禇建瑋",
+            "Category": "男子組",
             "OfficialTime": "01:48:36",
             "RankAll": "2422",
+            "RankCat": "2128",
             "NetTime": "01:44:03"
         },
         {
             "Bibnr": "20290",
             "Name": "Lee Chee Ling",
+            "Category": "女子組",
             "OfficialTime": "01:48:37",
             "RankAll": "2423",
+            "RankCat": "284",
             "NetTime": "01:40:07"
         },
         {
             "Bibnr": "20237",
             "Name": "邱微瑄",
+            "Category": "女子組",
             "OfficialTime": "01:48:38",
             "RankAll": "2424",
+            "RankCat": "285",
             "NetTime": "01:45:10"
         },
         {
             "Bibnr": "31286",
             "Name": "張益富",
+            "Category": "男子組",
             "OfficialTime": "01:48:38",
             "RankAll": "2425",
+            "RankCat": "2129",
             "NetTime": "01:45:31"
         },
         {
             "Bibnr": "24647",
             "Name": "葉子嘉",
+            "Category": "男子組",
             "OfficialTime": "01:48:38",
             "RankAll": "2426",
+            "RankCat": "2130",
             "NetTime": "01:45:32"
         },
         {
             "Bibnr": "20064",
             "Name": "張詩筠",
+            "Category": "女子組",
             "OfficialTime": "01:48:38",
             "RankAll": "2427",
+            "RankCat": "286",
             "NetTime": "01:47:38"
         },
         {
             "Bibnr": "23149",
             "Name": "Cheung Siu Fung",
+            "Category": "男子組",
             "OfficialTime": "01:48:39",
             "RankAll": "2428",
+            "RankCat": "2131",
             "NetTime": "01:48:08"
         },
         {
             "Bibnr": "34107",
             "Name": "陳新宇",
+            "Category": "男子組",
             "OfficialTime": "01:48:39",
             "RankAll": "2429",
+            "RankCat": "2132",
             "NetTime": "01:47:00"
         },
         {
             "Bibnr": "37266",
             "Name": "楊承樺",
+            "Category": "男子組",
             "OfficialTime": "01:48:40",
             "RankAll": "2430",
+            "RankCat": "2133",
             "NetTime": "01:48:15"
         },
         {
             "Bibnr": "26513",
             "Name": "王勇翔",
+            "Category": "男子組",
             "OfficialTime": "01:48:40",
             "RankAll": "2431",
+            "RankCat": "2134",
             "NetTime": "01:48:12"
         },
         {
             "Bibnr": "23646",
             "Name": "吳中柱",
+            "Category": "男子組",
             "OfficialTime": "01:48:41",
             "RankAll": "2432",
+            "RankCat": "2135",
             "NetTime": "01:44:25"
         },
         {
             "Bibnr": "23068",
             "Name": "陳信穎",
+            "Category": "男子組",
             "OfficialTime": "01:48:41",
             "RankAll": "2433",
+            "RankCat": "2136",
             "NetTime": "01:45:55"
         },
         {
             "Bibnr": "26053",
             "Name": "陳智彬",
+            "Category": "男子組",
             "OfficialTime": "01:48:41",
             "RankAll": "2434",
+            "RankCat": "2137",
             "NetTime": "01:45:12"
         },
         {
             "Bibnr": "28066",
             "Name": "賴志昇",
+            "Category": "男子組",
             "OfficialTime": "01:48:42",
             "RankAll": "2435",
+            "RankCat": "2138",
             "NetTime": "01:46:31"
         },
         {
             "Bibnr": "25275",
             "Name": "呂永信",
+            "Category": "男子組",
             "OfficialTime": "01:48:42",
             "RankAll": "2436",
+            "RankCat": "2139",
             "NetTime": "01:46:07"
         },
         {
             "Bibnr": "28116",
             "Name": "胡家瑋",
+            "Category": "男子組",
             "OfficialTime": "01:48:43",
             "RankAll": "2437",
+            "RankCat": "2140",
             "NetTime": "01:47:37"
         },
         {
             "Bibnr": "24139",
             "Name": "古金城",
+            "Category": "男子組",
             "OfficialTime": "01:48:43",
             "RankAll": "2438",
+            "RankCat": "2141",
             "NetTime": "01:47:45"
         },
         {
             "Bibnr": "27519",
             "Name": "蕭竣中",
+            "Category": "男子組",
             "OfficialTime": "01:48:43",
             "RankAll": "2439",
+            "RankCat": "2142",
             "NetTime": "01:46:19"
         },
         {
             "Bibnr": "26095",
             "Name": "陳招明",
+            "Category": "男子組",
             "OfficialTime": "01:48:44",
             "RankAll": "2440",
+            "RankCat": "2143",
             "NetTime": "01:46:24"
         },
         {
             "Bibnr": "37479",
             "Name": "謝侑均",
+            "Category": "男子組",
             "OfficialTime": "01:48:45",
             "RankAll": "2441",
+            "RankCat": "2144",
             "NetTime": "01:44:45"
         },
         {
             "Bibnr": "17306",
             "Name": "蔡欣妤",
+            "Category": "女子組",
             "OfficialTime": "01:48:45",
             "RankAll": "2442",
+            "RankCat": "287",
             "NetTime": "01:47:40"
         },
         {
             "Bibnr": "24277",
             "Name": "李家輝",
+            "Category": "男子組",
             "OfficialTime": "01:48:46",
             "RankAll": "2443",
+            "RankCat": "2145",
             "NetTime": "01:47:50"
         },
         {
             "Bibnr": "15156",
             "Name": "Lam Shuk Mei Karen",
+            "Category": "女子組",
             "OfficialTime": "01:48:46",
             "RankAll": "2444",
+            "RankCat": "288",
             "NetTime": "01:41:44"
         },
         {
             "Bibnr": "35422",
             "Name": "周毅霖",
+            "Category": "男子組",
             "OfficialTime": "01:48:46",
             "RankAll": "2445",
+            "RankCat": "2146",
             "NetTime": "01:48:39"
         },
         {
             "Bibnr": "18422",
             "Name": "HO UN LENG",
+            "Category": "女子組",
             "OfficialTime": "01:48:46",
             "RankAll": "2446",
+            "RankCat": "289",
             "NetTime": "01:48:32"
         },
         {
             "Bibnr": "20082",
             "Name": "吳意馨",
+            "Category": "女子組",
             "OfficialTime": "01:48:47",
             "RankAll": "2447",
+            "RankCat": "290",
             "NetTime": "01:47:00"
         },
         {
             "Bibnr": "26060",
             "Name": "許鴻軒",
+            "Category": "男子組",
             "OfficialTime": "01:48:47",
             "RankAll": "2448",
+            "RankCat": "2147",
             "NetTime": "01:48:15"
         },
         {
             "Bibnr": "25476",
             "Name": "凃健新",
+            "Category": "男子組",
             "OfficialTime": "01:48:47",
             "RankAll": "2449",
+            "RankCat": "2148",
             "NetTime": "01:47:59"
         },
         {
             "Bibnr": "29191",
             "Name": "林佑昇",
+            "Category": "男子組",
             "OfficialTime": "01:48:48",
             "RankAll": "2450",
+            "RankCat": "2149",
             "NetTime": "01:45:05"
         },
         {
             "Bibnr": "25662",
             "Name": "黃廷煌",
+            "Category": "男子組",
             "OfficialTime": "01:48:48",
             "RankAll": "2451",
+            "RankCat": "2150",
             "NetTime": "01:48:33"
         },
         {
             "Bibnr": "30341",
             "Name": "白承翰",
+            "Category": "男子組",
             "OfficialTime": "01:48:49",
             "RankAll": "2452",
+            "RankCat": "2151",
             "NetTime": "01:47:08"
         },
         {
             "Bibnr": "33626",
             "Name": "曾弘鼎",
+            "Category": "男子組",
             "OfficialTime": "01:48:50",
             "RankAll": "2453",
+            "RankCat": "2152",
             "NetTime": "01:47:28"
         },
         {
             "Bibnr": "35087",
             "Name": "林育瑋",
+            "Category": "男子組",
             "OfficialTime": "01:48:50",
             "RankAll": "2454",
+            "RankCat": "2153",
             "NetTime": "01:47:00"
         },
         {
             "Bibnr": "23463",
             "Name": "鐘浩哲",
+            "Category": "男子組",
             "OfficialTime": "01:48:51",
             "RankAll": "2455",
+            "RankCat": "2154",
             "NetTime": "01:46:46"
         },
         {
             "Bibnr": "31006",
             "Name": "王誌成",
+            "Category": "男子組",
             "OfficialTime": "01:48:51",
             "RankAll": "2456",
+            "RankCat": "2155",
             "NetTime": "01:43:06"
         },
         {
             "Bibnr": "24464",
             "Name": "陳廷章",
+            "Category": "男子組",
             "OfficialTime": "01:48:52",
             "RankAll": "2457",
+            "RankCat": "2156",
             "NetTime": "01:43:17"
         },
         {
             "Bibnr": "26701",
             "Name": "Ariz",
+            "Category": "男子組",
             "OfficialTime": "01:48:54",
             "RankAll": "2458",
+            "RankCat": "2157",
             "NetTime": "01:41:29"
         },
         {
             "Bibnr": "35714",
             "Name": "吳永寶",
+            "Category": "男子組",
             "OfficialTime": "01:48:55",
             "RankAll": "2459",
+            "RankCat": "2158",
             "NetTime": "01:44:12"
         },
         {
             "Bibnr": "25710",
             "Name": "蔡佑東",
+            "Category": "男子組",
             "OfficialTime": "01:48:56",
             "RankAll": "2460",
+            "RankCat": "2159",
             "NetTime": "01:45:24"
         },
         {
             "Bibnr": "23045",
             "Name": "簡士閎",
+            "Category": "男子組",
             "OfficialTime": "01:48:57",
             "RankAll": "2461",
+            "RankCat": "2160",
             "NetTime": "01:48:42"
         },
         {
             "Bibnr": "30430",
             "Name": "LI CHI PANG",
+            "Category": "男子組",
             "OfficialTime": "01:48:57",
             "RankAll": "2462",
+            "RankCat": "2161",
             "NetTime": "01:46:10"
         },
         {
             "Bibnr": "17742",
             "Name": "張玫真",
+            "Category": "女子組",
             "OfficialTime": "01:48:57",
             "RankAll": "2463",
+            "RankCat": "291",
             "NetTime": "01:48:45"
         },
         {
             "Bibnr": "20308",
             "Name": "鄭亦卉",
+            "Category": "女子組",
             "OfficialTime": "01:48:58",
             "RankAll": "2464",
+            "RankCat": "292",
             "NetTime": "01:44:42"
         },
         {
             "Bibnr": "23470",
             "Name": "王竟為",
+            "Category": "男子組",
             "OfficialTime": "01:48:59",
             "RankAll": "2465",
+            "RankCat": "2162",
             "NetTime": "01:45:01"
         },
         {
             "Bibnr": "36097",
             "Name": "巫永康",
+            "Category": "男子組",
             "OfficialTime": "01:48:59",
             "RankAll": "2466",
+            "RankCat": "2163",
             "NetTime": "01:43:54"
         },
         {
             "Bibnr": "30117",
             "Name": "吳孟熹",
+            "Category": "男子組",
             "OfficialTime": "01:49:00",
             "RankAll": "2467",
+            "RankCat": "2164",
             "NetTime": "01:47:07"
         },
         {
             "Bibnr": "28608",
             "Name": "楊孟元",
+            "Category": "男子組",
             "OfficialTime": "01:49:01",
             "RankAll": "2468",
+            "RankCat": "2165",
             "NetTime": "01:45:00"
         },
         {
             "Bibnr": "27107",
             "Name": "CHAN HUNG TAT",
+            "Category": "男子組",
             "OfficialTime": "01:49:01",
             "RankAll": "2469",
+            "RankCat": "2166",
             "NetTime": "01:46:38"
         },
         {
             "Bibnr": "18729",
             "Name": "王芝姍",
+            "Category": "女子組",
             "OfficialTime": "01:49:02",
             "RankAll": "2470",
+            "RankCat": "293",
             "NetTime": "01:43:08"
         },
         {
             "Bibnr": "26309",
             "Name": "彭煜翔",
+            "Category": "男子組",
             "OfficialTime": "01:49:02",
             "RankAll": "2471",
+            "RankCat": "2167",
             "NetTime": "01:47:06"
         },
         {
             "Bibnr": "23593",
             "Name": "詹佳泓",
+            "Category": "男子組",
             "OfficialTime": "01:49:02",
             "RankAll": "2472",
+            "RankCat": "2168",
             "NetTime": "01:45:50"
         },
         {
             "Bibnr": "35876",
             "Name": "WADA DAISUKE",
+            "Category": "男子組",
             "OfficialTime": "01:49:02",
             "RankAll": "2473",
+            "RankCat": "2169",
             "NetTime": "01:43:48"
         },
         {
             "Bibnr": "28705",
             "Name": "MA TSZ HIN",
+            "Category": "男子組",
             "OfficialTime": "01:49:02",
             "RankAll": "2474",
+            "RankCat": "2170",
             "NetTime": "01:45:37"
         },
         {
             "Bibnr": "23157",
             "Name": "鄭家翔",
+            "Category": "男子組",
             "OfficialTime": "01:49:02",
             "RankAll": "2475",
+            "RankCat": "2171",
             "NetTime": "01:48:29"
         },
         {
             "Bibnr": "27598",
             "Name": "翁閔瑩",
+            "Category": "男子組",
             "OfficialTime": "01:49:03",
             "RankAll": "2476",
+            "RankCat": "2172",
             "NetTime": "01:44:56"
         },
         {
             "Bibnr": "36611",
             "Name": "吳大賓",
+            "Category": "男子組",
             "OfficialTime": "01:49:03",
             "RankAll": "2477",
+            "RankCat": "2173",
             "NetTime": "01:47:53"
         },
         {
             "Bibnr": "34318",
             "Name": "陳威廷",
+            "Category": "男子組",
             "OfficialTime": "01:49:04",
             "RankAll": "2478",
+            "RankCat": "2174",
             "NetTime": "01:41:23"
         },
         {
             "Bibnr": "26377",
             "Name": "廖建超",
+            "Category": "男子組",
             "OfficialTime": "01:49:04",
             "RankAll": "2479",
+            "RankCat": "2175",
             "NetTime": "01:46:10"
         },
         {
             "Bibnr": "23587",
             "Name": "高嘉謄",
+            "Category": "男子組",
             "OfficialTime": "01:49:05",
             "RankAll": "2480",
+            "RankCat": "2176",
             "NetTime": "01:48:33"
         },
         {
             "Bibnr": "20182",
             "Name": "李幸儒",
+            "Category": "女子組",
             "OfficialTime": "01:49:05",
             "RankAll": "2481",
+            "RankCat": "294",
             "NetTime": "01:48:13"
         },
         {
             "Bibnr": "22532",
             "Name": "傳智群",
+            "Category": "男子組",
             "OfficialTime": "01:49:06",
             "RankAll": "2482",
+            "RankCat": "2177",
             "NetTime": "01:47:53"
         },
         {
             "Bibnr": "29010",
             "Name": "呂明哲",
+            "Category": "男子組",
             "OfficialTime": "01:49:06",
             "RankAll": "2483",
+            "RankCat": "2178",
             "NetTime": "01:48:08"
         },
         {
             "Bibnr": "37107",
             "Name": "陳昱鈞",
+            "Category": "男子組",
             "OfficialTime": "01:49:06",
             "RankAll": "2484",
+            "RankCat": "2179",
             "NetTime": "01:48:52"
         },
         {
             "Bibnr": "30259",
             "Name": "黃浚廷",
+            "Category": "男子組",
             "OfficialTime": "01:49:07",
             "RankAll": "2485",
+            "RankCat": "2180",
             "NetTime": "01:46:03"
         },
         {
             "Bibnr": "35147",
             "Name": "蕭沛霖",
+            "Category": "男子組",
             "OfficialTime": "01:49:07",
             "RankAll": "2486",
+            "RankCat": "2181",
             "NetTime": "01:46:46"
         },
         {
             "Bibnr": "37270",
             "Name": "柯光峻",
+            "Category": "男子組",
             "OfficialTime": "01:49:07",
             "RankAll": "2487",
+            "RankCat": "2182",
             "NetTime": "01:45:13"
         },
         {
             "Bibnr": "14586",
             "Name": "林小伶",
+            "Category": "女子組",
             "OfficialTime": "01:49:07",
             "RankAll": "2488",
+            "RankCat": "295",
             "NetTime": "01:48:35"
         },
         {
             "Bibnr": "31299",
             "Name": "朱瑋民",
+            "Category": "男子組",
             "OfficialTime": "01:49:08",
             "RankAll": "2489",
+            "RankCat": "2183",
             "NetTime": "01:41:25"
         },
         {
             "Bibnr": "33742",
             "Name": "張柏昌",
+            "Category": "男子組",
             "OfficialTime": "01:49:08",
             "RankAll": "2490",
+            "RankCat": "2184",
             "NetTime": "01:48:41"
         },
         {
             "Bibnr": "14352",
             "Name": "劉以慈",
+            "Category": "女子組",
             "OfficialTime": "01:49:08",
             "RankAll": "2491",
+            "RankCat": "296",
             "NetTime": "01:44:36"
         },
         {
             "Bibnr": "25029",
             "Name": "藍正瑋",
+            "Category": "男子組",
             "OfficialTime": "01:49:08",
             "RankAll": "2492",
+            "RankCat": "2185",
             "NetTime": "01:47:51"
         },
         {
             "Bibnr": "35882",
             "Name": "山內 一平",
+            "Category": "男子組",
             "OfficialTime": "01:49:08",
             "RankAll": "2493",
+            "RankCat": "2186",
             "NetTime": "01:43:53"
         },
         {
             "Bibnr": "20169",
             "Name": "Cheung Hiu Mei",
+            "Category": "女子組",
             "OfficialTime": "01:49:10",
             "RankAll": "2494",
+            "RankCat": "297",
             "NetTime": "01:46:56"
         },
         {
             "Bibnr": "24013",
             "Name": "陸立軒",
+            "Category": "男子組",
             "OfficialTime": "01:49:10",
             "RankAll": "2495",
+            "RankCat": "2187",
             "NetTime": "01:45:25"
         },
         {
             "Bibnr": "15730",
             "Name": "魏瑞妤",
+            "Category": "女子組",
             "OfficialTime": "01:49:10",
             "RankAll": "2496",
+            "RankCat": "298",
             "NetTime": "01:48:35"
         },
         {
             "Bibnr": "33300",
             "Name": "謝承穎",
+            "Category": "男子組",
             "OfficialTime": "01:49:10",
             "RankAll": "2497",
+            "RankCat": "2188",
             "NetTime": "01:48:58"
         },
         {
             "Bibnr": "20223",
             "Name": "林孟筑",
+            "Category": "女子組",
             "OfficialTime": "01:49:10",
             "RankAll": "2498",
+            "RankCat": "299",
             "NetTime": "01:47:30"
-        },
-        {
-            "Bibnr": "32622",
-            "Name": "藤原康平",
-            "OfficialTime": "01:49:11",
-            "RankAll": "2499",
-            "NetTime": "01:44:35"
-        },
-        {
-            "Bibnr": "30773",
-            "Name": "趙正民",
-            "OfficialTime": "01:49:11",
-            "RankAll": "2500",
-            "NetTime": "01:45:52"
         }
     ]
 }

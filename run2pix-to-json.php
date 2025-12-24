@@ -26,14 +26,17 @@ function fetchRun2PixToJson($url) {
             $cells = $row->getElementsByTagName('th');
             foreach ($cells as $cell) {
                 $headers[] = trim($cell->nodeValue);
-            }
+            }           
             continue;
         }
-        // Process data rows
         $rowData = [];
         foreach ($cells as $cellIndex => $cell) {
             // Use header name as key if available, otherwise use index
             $key = isset($headers[$cellIndex]) ? $headers[$cellIndex] : "column_$cellIndex";
+            if (substr($key,0,8)=='Category') // 'Category' 有特殊字元 C2 A0
+                $key='Category';
+            else
+                $key=trim($key,'.');
             if (in_array($key, ['Bibnr','Name','Category','OfficialTime','RankAll','RankCat', 'NetTime'])) {
                 $rowData[$key] = trim($cell->nodeValue);
             }
